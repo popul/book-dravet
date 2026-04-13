@@ -40,6 +40,8 @@ pdf_options:
   headerTemplate: '<div style="font-size:8px;width:100%;text-align:center;color:#999;">Syndrome de Dravet — Ouvrage de Référence</div>'
   footerTemplate: '<div style="font-size:8px;width:100%;text-align:center;color:#999;"><span class="pageNumber"></span> / <span class="totalPages"></span></div>'
 stylesheet: style.css
+script:
+  - url: https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js
 ---
 FRONTMATTER
 else
@@ -133,13 +135,30 @@ FILES=(
 
 for f in "${FILES[@]}"; do
   echo "" >> "$OUTPUT"
-  if [[ "$MODE" == "pdf" ]]; then
-    # Supprimer les blocs mermaid (non rendus en PDF)
-    sed '/^```mermaid$/,/^```$/d' "$f" >> "$OUTPUT"
-  else
-    cat "$f" >> "$OUTPUT"
-  fi
+  cat "$f" >> "$OUTPUT"
   echo "" >> "$OUTPUT"
 done
+
+# Script Mermaid pour le PDF (transforme les blocs code en divs mermaid)
+if [[ "$MODE" == "pdf" ]]; then
+  cat >> "$OUTPUT" << 'MERMAID_INIT'
+
+<script>
+  // md-to-pdf (marked) converts ```mermaid to <code class="language-mermaid">
+  // Mermaid JS expects <div class="mermaid"> with raw syntax
+  document.querySelectorAll('code.language-mermaid').forEach(code => {
+    const pre = code.parentElement;
+    const div = document.createElement('div');
+    div.className = 'mermaid';
+    div.textContent = code.textContent;
+    pre.replaceWith(div);
+  });
+  mermaid.initialize({ startOnLoad: false, theme: 'base',
+    themeVariables: { primaryColor: '#ecf0f1', primaryBorderColor: '#2c3e50', lineColor: '#2c3e50' }
+  });
+  mermaid.run();
+</script>
+MERMAID_INIT
+fi
 
 echo "Assemblage terminé ($MODE): $(wc -l < "$OUTPUT") lignes -> $OUTPUT"
