@@ -59,3 +59,44 @@
 - [x] Tous chapitres : explications inline de chaque terme scientifique
 - [x] Tous chapitres : optimisation Mermaid pour PDF portrait mobile (graph TD, textes courts)
 - [x] Renommage chapitre_13.md → chapitre_14.md pour insertion du nouveau ch. 13
+
+## Enrichissement ouvrage de référence (avril 2026)
+
+### Phase 0 — Corrections de sécurité
+- [x] Ch. 1 : Mutation de novo ~80% → >90%, hérédité 20% → 5-10%, ajout mosaïcisme
+- [x] Ch. 7 : Ajout lacosamide et rufinamide aux contre-indications (relative à absolue)
+- [x] Ch. 8 : Correction mécanisme CBD (CB1/CB2 → GPR55, TRPV1, adénosine), ajout hépatotoxicité CBD+VPA, interaction STP-CLB via CYP2C19
+- [x] Ch. 9 : Phénytoïne/fosphénytoïne IV contre-indiquée en urgence, lévétiracétam 1re option 2e ligne
+- [x] Ch. 9 : SUDEP enrichi (incidence 5-10/1000, mécanismes, prévention, diagramme Mermaid)
+- [x] Ch. 12 : Correction âge transition 14-16 → 12-14 ans (ILAE Cross 2019)
+
+### Phase 1 — Enrichissement des chapitres
+- [x] Ch. 1 : Corrélations génotype-phénotype (tronquantes vs missense, cohortes clés)
+- [x] Ch. 2 : Switch NaV1.3 → NaV1.1, 3 phases de l'épileptogenèse
+- [x] Ch. 3 : SCN1A-négatifs (15-20%), PCDH19, mosaïcisme, spectre GEFS+/Dravet
+- [x] Ch. 4 : Typologie complète des 7 types de crises, évolution avec l'âge
+- [x] Ch. 5 : Trajectoire QI (3 phases), profil neuropsychologique, QI moyen adulte ~40
+- [x] Ch. 6 : Prévalences chiffrées, crouch gait, dysautonomie, constipation, SUDEP
+- [x] Ch. 7 : Régime cétogène (Caraballo 2011: 66.7%, Dressler 2015: 72%), VNS (45-50%), données RCT molécules classiques
+- [x] Ch. 8 : Données RCT complètes (STICLO, Lagae 2019, GWPCARE1/2), pipeline (soticlestat, STK-001, ETX101)
+- [x] Ch. 9 : SUDEP section de référence avec données épidémiologiques complètes
+- [x] Ch. 10 : Données QdV (72% santé mentale, 89% QdV), fratrie, coûts 40-100k EUR/an
+- [x] Ch. 11 : Montants AEEH/AAH/PCH, procédure MDPH, habilitation familiale
+- [x] Ch. 12 : Passeport médical de transition, données drop-out (30% rupture)
+- [x] Ch. 13 : Genton 2011, comorbidités adultes, emploi/socialisation
+- [x] Ch. 14 : Ostéoporose, risque cardiovasculaire, suivi hépatique, déclin fonctionnel
+- [x] Ch. 15 : SUDEP adulte (mortalité 15.8%), protection juridique détaillée
+- [x] Ch. 16 : CRISPRa, STK-001/TANGO, ETX101/AAV9, défis
+- [x] Ch. 17 : Synthèse avancées, rappel SUDEP, perspective correction causale
+
+### Phase 6 — Citations et bibliographie
+- [x] Citations inline [Auteur, année] insérées dans les 17 chapitres (sections Protocole)
+- [x] Bibliographie complétée à 75 références (avec PMID/DOI)
+
+### Phase 7 — Glossaire, cohérence, vérification
+- [x] Glossaire : 30 nouveaux termes ajoutés, corrections alphabétiques
+- [x] Harmonisation mutations de novo >90% (ch.1, 13, 15, glossaire)
+- [x] Audit de sécurité : toutes les règles médicales critiques vérifiées (PASS)
+- [x] Structure 4 sections : conforme (ch.17 exception intentionnelle)
+- [x] Mermaid : tous en graph TD, aucun graph LR
+- [x] Cohérence données chiffrées inter-chapitres vérifiée

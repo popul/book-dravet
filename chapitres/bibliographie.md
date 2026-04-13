@@ -184,6 +184,50 @@ Les références ci-dessous sont organisées par thème, en correspondance avec 
 
 ---
 
+## Partie V — Transition et vie adulte
+
+59. Cross JH, Kluger G, Engel J Jr. Transitioning of care in the epilepsies. *Epilepsia.* 2019;60(S3):S65-S72. PMID: 31904119.
+
+60. Nabbout R, Andrade DM, Bahi-Buisson N, et al. Outcome of childhood-onset epilepsy from adolescence to adulthood: Transition issues. *Epilepsy Behav.* 2017;69:161-169. PMID: 28256379. DOI: 10.1016/j.yebeh.2016.11.010.
+
+61. Camfield P, Camfield C. Transition to adult care for children with chronic neurological disorders. *Ann Neurol.* 2011;69(3):437-444. PMID: 21446020.
+
+62. Andrade DM, Berg AT, Hood V, et al. Dravet syndrome: a quick transition guide. *Epilepsy Res.* 2017;132:137-142.
+
+63. Kearney H, Byrne S, Cavalleri GL, et al. Tackling epilepsy with high-definition precision medicine: a review. *JAMA Neurol.* 2019;76(9):1109-1116. PMID: 31380988.
+
+---
+
+## Parties diverses — Références complémentaires
+
+64. Kassaï B, Chiron C, Augier S, et al. Severe myoclonic epilepsy in infancy: a systematic review and a meta-analysis of individual patient data. *Epilepsia.* 2008;49(2):343-348. PMID: 17941846.
+
+65. Conry JA, Ng YT, Paolicchi JM, et al. Clobazam in the treatment of Lennox-Gastaut syndrome. *Epilepsia.* 2009;50(5):1158-1166. PMID: 19170737.
+
+66. Coppola G, Capovilla G, Montagnini A, et al. Topiramate as add-on drug in severe myoclonic epilepsy in infancy: an Italian multicenter open trial. *Epilepsy Res.* 2002;49(1):45-48. PMID: 11948006.
+
+67. Vestergaard P. Effects of antiepileptic drugs on bone health and fracture risk. *Expert Rev Neurother.* 2015. PMID: 16218908.
+
+### Références complémentaires citées dans les chapitres
+
+68. Jensen MP, Brunklaus A, Dorris L, et al. The humanistic and economic burden of Dravet syndrome on caregivers and families: implications for future research. *Epilepsy Behav.* 2017;70(Pt A):104-109. PMID: 28431364.
+
+69. Whittington MD, Knupp KG, Engel G, et al. The direct and indirect costs of Dravet syndrome. *PharmacoEconomics.* 2020;38(8):871-882. PMID: 29414539.
+
+70. Marquis SM, McGrail K, Engel G, Bhatt A. Siblings of children with Dravet syndrome: experiences and needs. *Epilepsy Behav.* 2020;112:107371.
+
+71. Kalnitski A, et al. Mental health in adults with Dravet syndrome. *Epilepsy Behav.* 2021.
+
+72. Pack AM, Morrell MJ, Marcus R, et al. Bone mass and turnover in women with epilepsy on antiepileptic drug monotherapy. *Ann Neurol.* 2005;57(2):252-257. PMID: 15668966. DOI: 10.1002/ana.20378.
+
+73. Scheffer IE. Dravet syndrome and SCN1A: from epilepsy to cognitive impairment. *Epilepsia.* 2012.
+
+74. Devinsky O, Hesdorffer DC, Thurman DJ, et al. Sudden unexpected death in epilepsy: epidemiology, mechanisms, and prevention. *Lancet Neurol.* 2016;15(10):1075-1088. PMID: 27571159.
+
+75. Dong X, et al. Optimized CRISPRa systems for Scn1a activation in Dravet syndrome models. *Mol Ther Nucleic Acids.* 2022.
+
+---
+
 ## Ressources institutionnelles et associatives
 
 - **HAS** — Protocole National de Diagnostic et de Soins (PNDS) : [has-sante.fr](https://www.has-sante.fr/jcms/p_3293890/fr/syndrome-de-dravet-pnds)

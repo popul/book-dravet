@@ -3,9 +3,9 @@
 
 ### Ce que nous avons appris
 
-Au fil de ces pages, nous avons suivi un chemin qui part d'une seule lettre mal écrite dans un gène et qui mène à une vie entière. Une mutation du gène SCN1A, une porte défaillante dans les neurones, un frein cérébral qui lâche — et tout bascule. Nous avons vu comment cette erreur de code, présente dès la conception, ne se révèle souvent qu'au détour d'une fièvre, lorsque le cerveau échoue à un test de résistance qu'il n'était pas équipé pour passer.
+Au fil de ces pages, nous avons suivi un chemin qui part d'une seule lettre mal écrite dans un gène et qui mène à une vie entière. Une mutation du gène SCN1A, une porte défaillante dans les neurones, un frein cérébral qui lâche -- et tout bascule. Nous avons vu comment cette erreur de code, présente dès la conception, ne se révèle souvent qu'au détour d'une fièvre, lorsque le cerveau échoue à un test de résistance qu'il n'était pas équipé pour passer.
 
-Nous avons traversé la première année et ses crises inaugurales, l'enfance et ses combats quotidiens, l'adolescence et ses remaniements. Nous avons détaillé l'arsenal thérapeutique — des molécules classiques aux traitements ciblés, des protocoles d'urgence à la vigilance face à la SUDEP. Nous avons regardé en face l'impact sur les familles, la fratrie, l'équilibre du foyer. Nous avons abordé les droits, l'inclusion, la transition vers l'âge adulte, et accompagné le parcours jusqu'à la vie avancée, avec les questions éthiques qu'elle soulève. Et nous avons, enfin, ouvert la porte de demain — celle de la thérapie génique et des nouvelles molécules.
+Nous avons traversé la première année et ses crises inaugurales, l'enfance et ses combats quotidiens, l'adolescence et ses remaniements. Nous avons détaillé l'arsenal thérapeutique -- du stiripentol, premier traitement à avoir démontré une efficacité spécifique dans le Dravet, à la fenfluramine et au cannabidiol (CBD), jusqu'aux thérapies géniques en cours d'essai. Chaque étape a marqué un progrès : la gestion symptomatique s'est affinée, les protocoles d'urgence se sont structurés, la vigilance face à la SUDEP s'est organisée. Nous avons regardé en face l'impact sur les familles, la fratrie, l'équilibre du foyer. Nous avons abordé les droits, l'inclusion, la transition vers l'âge adulte, et accompagné le parcours jusqu'à la vie avancée, avec les questions éthiques qu'elle soulève. Et nous avons, enfin, ouvert la porte de demain -- celle de la thérapie génique et de la correction causale.
 
 Ce livre a tenté de tenir une promesse : construire un pont entre trois mondes qui parlent trop souvent des langues différentes. Il est temps, dans ces dernières lignes, de s'adresser à chacun de ces mondes.
 
@@ -25,7 +25,9 @@ Demander de l'aide n'est pas un aveu d'échec. C'est une stratégie de soin — 
 
 Vous qui cherchez à soigner, à comprendre, à affiner : le syndrome de Dravet vous rappelle que la médecine de précision n'est pas un luxe, mais une nécessité. Un diagnostic précoce change une trajectoire. Une contre-indication respectée évite une catastrophe. Un génotype corrélé au phénotype ouvre la voie à des traitements ciblés.
 
-La recherche avance. Les thérapies géniques passent du laboratoire aux essais cliniques. Les oligonucléotides antisens, les modulateurs de canaux sodiques, les approches de remplacement génique dessinent un avenir où l'on ne se contentera plus de freiner les crises, mais où l'on pourra s'attaquer à leur cause. Votre rôle est d'accompagner cette transition, de rester à la pointe, et de ne jamais oublier que derrière chaque dossier il y a une famille qui attend, espère et se bat.
+La recherche avance. Les thérapies géniques passent du laboratoire aux essais cliniques. STK-001 (technologie TANGO) augmente l'expression de l'allèle sain par modulation de l'épissage. ETX101 (vecteur AAV9) délivre un facteur de transcription ingénié aux interneurones GABAergiques. CRISPRa active la transcription sans couper l'ADN. Ces trois approches convergent vers un même objectif : compenser l'haploinsuffisance de NaV1.1. Nous passons progressivement de la gestion symptomatique à la correction causale. Votre rôle est d'accompagner cette transition, de rester à la pointe, et de ne jamais oublier que derrière chaque dossier il y a une famille qui attend, espère et se bat.
+
+La SUDEP reste un enjeu majeur de santé publique dans cette population, avec une incidence 15 fois supérieure à celle de l'épilepsie en général. La réduction du fardeau épileptique par les nouvelles thérapies pourrait contribuer à diminuer ce risque, mais la vigilance doit rester constante.
 
 Écoutez les parents. Leur expertise clinique informelle est un outil diagnostique que vous ne trouverez dans aucun manuel.
 
@@ -51,7 +53,13 @@ Le syndrome de Dravet est un adversaire redoutable. Mais il n'a jamais fait face
 
 ### Demain
 
-Il serait irresponsable de promettre une guérison imminente. Mais il serait tout aussi irresponsable de ne pas dire que les raisons d'espérer n'ont jamais été aussi concrètes. La thérapie génique n'est plus une hypothèse de laboratoire : des essais cliniques sont en cours. De nouvelles molécules, conçues pour agir sur le mécanisme même de la maladie, franchissent les étapes réglementaires. La compréhension du gène SCN1A et du canal NaV1.1 progresse chaque année.
+Il serait irresponsable de promettre une guérison imminente. Mais il serait tout aussi irresponsable de ne pas dire que les raisons d'espérer n'ont jamais été aussi concrètes.
+
+Le chemin parcouru est considérable. En quelques décennies, le syndrome de Dravet est passé d'une maladie sans nom à une maladie comprise, diagnosticable par un simple test génétique, et dotée de traitements spécifiques. Le stiripentol a ouvert la voie dans les années 2000. La fenfluramine et le cannabidiol ont élargi l'arsenal dans les années 2010. Aujourd'hui, les thérapies géniques -- STK-001, ETX101, CRISPRa -- s'attaquent directement à la cause du syndrome : l'insuffisance de protéine NaV1.1 dans les interneurones du cerveau. Les premiers résultats d'essais cliniques montrent des signaux encourageants, avec des approbations potentielles à l'horizon 2029-2031.
+
+Cette trajectoire -- de la gestion symptomatique vers la correction causale -- représente un changement de paradigme. Nous ne parlons plus seulement de freiner les crises, mais de restaurer le fonctionnement du cerveau à sa source.
+
+La SUDEP reste l'ombre la plus lourde sur le parcours des familles. Mais la réduction du fardeau épileptique par les nouvelles thérapies, combinée à l'amélioration de la surveillance (capteurs nocturnes, monitoring connecté), ouvre la perspective d'une diminution de ce risque.
 
 L'espoir ne réside pas dans un miracle unique. Il réside dans la convergence : des chercheurs qui avancent, des cliniciens qui traduisent, des familles qui participent aux essais, des professionnels qui maintiennent la qualité de vie pendant que la science fait son travail.
 
