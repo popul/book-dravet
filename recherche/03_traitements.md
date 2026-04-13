@@ -640,93 +640,93 @@ Etant donne la thermosensibilite des patients Dravet, des mesures de refroidisse
 
 #### Traitements classiques
 
-1. **Chiron C, Dulac O.** *The pharmacologic treatment of Dravet syndrome.* **Epilepsia.** 2011;52(Suppl 2):72-75. PMID: 21463285.
+1. **Chiron C, Dulac O.** *The pharmacologic treatment of Dravet syndrome.* **Epilepsia.** 2011;52(Suppl 2):72-75. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21463285/)
 
-2. **Dravet C.** *The core Dravet syndrome phenotype.* **Epilepsia.** 2011;52(Suppl 2):3-9. PMID: 21463272.
+2. **Dravet C.** *The core Dravet syndrome phenotype.* **Epilepsia.** 2011;52(Suppl 2):3-9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21463272/)
 
-3. **Wirrell EC, Hood V, Engel J Jr, et al.** *International League Against Epilepsy (ILAE) Task Force recommendations for the management of Dravet syndrome.* **Epilepsia.** 2022;63(7):1761-1777. PMID: 35526234.
+3. **Wirrell EC, Hood V, Engel J Jr, et al.** *International League Against Epilepsy (ILAE) Task Force recommendations for the management of Dravet syndrome.* **Epilepsia.** 2022;63(7):1761-1777. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35526234/)
 
-4. **Scheffer IE, Nabbout R.** *SCN1A-related phenotypes: epilepsy and beyond.* **Epilepsia.** 2019;60(Suppl 3):S17-S24. PMID: 31904119.
+4. **Scheffer IE, Nabbout R.** *SCN1A-related phenotypes: epilepsy and beyond.* **Epilepsia.** 2019;60(Suppl 3):S17-S24. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31904119/)
 
-5. **Conry JA, Ng YT, Paolicchi JM, et al.** *Clobazam in the treatment of Lennox-Gastaut syndrome.* **Epilepsia.** 2009;50(5):1158-1166.
+5. **Conry JA, Ng YT, Paolicchi JM, et al.** *Clobazam in the treatment of Lennox-Gastaut syndrome.* **Epilepsia.** 2009;50(5):1158-1166. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19170737/)
 
-6. **Coppola G, Capovilla G, Montagnini A, et al.** *Topiramate as add-on drug in severe myoclonic epilepsy in infancy: an Italian multicenter open trial.* **Epilepsy Res.** 2002;49(1):45-48.
+6. **Coppola G, Capovilla G, Montagnini A, et al.** *Topiramate as add-on drug in severe myoclonic epilepsy in infancy: an Italian multicenter open trial.* **Epilepsy Res.** 2002;49(1):45-48. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11948006/)
 
 #### Stiripentol
 
-7. **Chiron C, Marchand MC, Tran A, et al.** *Stiripentol in severe myoclonic epilepsy in infancy: a randomised placebo-controlled syndrome-dedicated trial. STICLO study group.* **Lancet.** 2000;356(9242):1638-1642. PMID: 11089822.
+7. **Chiron C, Marchand MC, Tran A, et al.** *Stiripentol in severe myoclonic epilepsy in infancy: a randomised placebo-controlled syndrome-dedicated trial. STICLO study group.* **Lancet.** 2000;356(9242):1638-1642. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11089822/)
 
-8. **Kassai B, Chiron C, Augier S, et al.** *Severe myoclonic epilepsy in infancy: a systematic review and a meta-analysis of individual patient data.* **Epilepsia.** 2008;49(2):343-348. PMID: 17941846.
+8. **Kassai B, Chiron C, Augier S, et al.** *Severe myoclonic epilepsy in infancy: a systematic review and a meta-analysis of individual patient data.* **Epilepsia.** 2008;49(2):343-348. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17941846/)
 
 #### Fenfluramine
 
-9. **Lagae L, Sullivan J, Knupp K, et al.** *Fenfluramine hydrochloride for the treatment of seizures in Dravet syndrome: a randomised, double-blind, placebo-controlled trial.* **Lancet.** 2019;394(10216):2243-2254. PMID: 31862249.
+9. **Lagae L, Sullivan J, Knupp K, et al.** *Fenfluramine hydrochloride for the treatment of seizures in Dravet syndrome: a randomised, double-blind, placebo-controlled trial.* **Lancet.** 2019;394(10216):2243-2254. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31862249/)
 
-10. **Nabbout R, Mistry A, Zuberi S, et al.** *Fenfluramine for treatment-resistant seizures in patients with Dravet syndrome receiving stiripentol-inclusive regimens: a randomized clinical trial.* **JAMA Neurol.** 2020;77(3):300-308. PMID: 31790543.
+10. **Nabbout R, Mistry A, Zuberi S, et al.** *Fenfluramine for treatment-resistant seizures in patients with Dravet syndrome receiving stiripentol-inclusive regimens: a randomized clinical trial.* **JAMA Neurol.** 2020;77(3):300-308. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31790543/)
 
-11. **Sullivan J, Lagae L, Cross JH, et al.** *Fenfluramine in the treatment of Dravet syndrome: results of a third randomized, placebo-controlled clinical trial.* **Epilepsia.** 2023;64(10):2653-2666.
+11. **Sullivan J, Lagae L, Cross JH, et al.** *Fenfluramine in the treatment of Dravet syndrome: results of a third randomized, placebo-controlled clinical trial.* **Epilepsia.** 2023;64(10):2653-2666. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37543865/)
 
-12. **Cross JH, Lagae L, Goadsby PJ, et al.** *Mortality in Dravet syndrome: a review of the literature and analysis of the impact of fenfluramine.* **Dev Med Child Neurol.** 2021;63(Suppl 2).
+12. **Cross JH, Galer BS, Gil-Nagel A, et al.** *Impact of fenfluramine on the expected SUDEP mortality rates in patients with Dravet syndrome.* **Seizure.** 2021;93:154-159. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34768178/)
 
 #### Cannabidiol
 
-13. **Devinsky O, Cross JH, Laux L, et al.** *Trial of cannabidiol for drug-resistant seizures in the Dravet syndrome.* **N Engl J Med.** 2017;376(21):2011-2020. PMID: 28538134.
+13. **Devinsky O, Cross JH, Laux L, et al.** *Trial of cannabidiol for drug-resistant seizures in the Dravet syndrome.* **N Engl J Med.** 2017;376(21):2011-2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28538134/)
 
-14. **Devinsky O, Patel AD, Cross JH, et al.** *Effect of cannabidiol on drop seizures in the Lennox-Gastaut syndrome.* **N Engl J Med.** 2018;378(20):1888-1897. PMID: 29768152.
+14. **Devinsky O, Patel AD, Cross JH, et al.** *Effect of cannabidiol on drop seizures in the Lennox-Gastaut syndrome.* **N Engl J Med.** 2018;378(20):1888-1897. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29768152/)
 
-15. **Miller I, Scheffer IE, Gunning B, et al.** *Dose-ranging effect of adjunctive oral cannabidiol vs placebo on convulsive seizure frequency in Dravet syndrome: a randomized clinical trial.* **JAMA Neurol.** 2020;77(5):613-621. PMID: 32091549.
+15. **Miller I, Scheffer IE, Gunning B, et al.** *Dose-ranging effect of adjunctive oral cannabidiol vs placebo on convulsive seizure frequency in Dravet syndrome: a randomized clinical trial.* **JAMA Neurol.** 2020;77(5):613-621. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32091549/)
 
-16. **Kaplan JS, Bhatt DK, et al.** *Cannabidiol attenuates seizures and social deficits in a mouse model of Dravet syndrome.* **Proc Natl Acad Sci USA.** 2017;114(42):11229-11234.
+16. **Kaplan JS, Stella N, Catterall WA, Westenbroek RE.** *Cannabidiol attenuates seizures and social deficits in a mouse model of Dravet syndrome.* **Proc Natl Acad Sci USA.** 2017;114(42):11229-11234. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28973916/)
 
 #### Medicaments contre-indiques
 
-17. **Guerrini R, Dravet C, Genton P, et al.** *Lamotrigine and seizure aggravation in severe myoclonic epilepsy.* **Epilepsia.** 1998;39(5):508-512. PMID: 9596203.
+17. **Guerrini R, Dravet C, Genton P, et al.** *Lamotrigine and seizure aggravation in severe myoclonic epilepsy.* **Epilepsia.** 1998;39(5):508-512. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9596203/)
 
 18. **Dravet C, Bureau M.** *Benign myoclonic epilepsy in infancy.* In: Roger J, Bureau M, Dravet C, et al., eds. **Epileptic Syndromes in Infancy, Childhood and Adolescence.** 4th ed. Montrouge: John Libbey Eurotext; 2005:77-88.
 
 #### Regime cetogene
 
-19. **Caraballo RH.** *Nonpharmacologic treatments of Dravet syndrome: focus on the ketogenic diet.* **Epilepsia.** 2011;52(Suppl 2):79-82. PMID: 21463286.
+19. **Caraballo RH.** *Nonpharmacologic treatments of Dravet syndrome: focus on the ketogenic diet.* **Epilepsia.** 2011;52(Suppl 2):79-82. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21463286/)
 
-20. **Dressler A, Trimmel-Schwahofer P, Reithofer E, et al.** *Efficacy and tolerability of the ketogenic diet in Dravet syndrome -- comparison with various standard antiepileptic drug regimens.* **Epilepsy Res.** 2015;109:81-89. PMID: 25524846.
+20. **Dressler A, Trimmel-Schwahofer P, Reithofer E, et al.** *Efficacy and tolerability of the ketogenic diet in Dravet syndrome -- comparison with various standard antiepileptic drug regimens.* **Epilepsy Res.** 2015;109:81-89. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25524846/)
 
-21. **Nabbout R, Copioli C, Chipaux M, et al.** *Ketogenic diet also benefits Dravet syndrome patients receiving stiripentol: a prospective pilot study.* **Epilepsia.** 2011;52(7):e54-e57.
+21. **Nabbout R, Copioli C, Chipaux M, et al.** *Ketogenic diet also benefits Dravet syndrome patients receiving stiripentol: a prospective pilot study.* **Epilepsia.** 2011;52(7):e54-e57. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21569025/)
 
-22. **Chang P, Augustin K, Bodber T, et al.** *Seizure control by decanoic acid through direct AMPA receptor inhibition.* **Brain.** 2016;139(Pt 2):431-443.
+22. **Chang P, Augustin K, Boddum K, et al.** *Seizure control by decanoic acid through direct AMPA receptor inhibition.* **Brain.** 2016;139(Pt 2):431-443. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26608744/)
 
-23. **Olson CA, Vuong HE, Yano JM, et al.** *The gut microbiota mediates the anti-seizure effects of the ketogenic diet.* **Cell.** 2018;173(7):1728-1741.
+23. **Olson CA, Vuong HE, Yano JM, et al.** *The gut microbiota mediates the anti-seizure effects of the ketogenic diet.* **Cell.** 2018;173(7):1728-1741. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29804833/)
 
 #### Stimulation du nerf vague (VNS)
 
-24. **Dibue-Adjei M, Fischer I, Grozea C, et al.** *Vagus nerve stimulation in refractory epilepsy: a systematic review of efficacy.* **Neurosurg Rev.** 2017.
+24. **Dibue-Adjei M, Fischer I, Steiger HJ, Kamp MA.** *Efficacy of adjunctive vagus nerve stimulation in patients with Dravet syndrome: a meta-analysis of 68 patients.* **Seizure.** 2017;50:147-152. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28666193/)
 
-25. **Fulton SP, Van Poppel K, McGregor AL, et al.** *Vagus nerve stimulation in intractable epilepsy in Dravet syndrome.* **Epilepsy Behav.** 2017;69:105-110.
+25. **Fulton SP, Van Poppel K, McGregor AL, Mudigoudar B, Wheless JW.** *Vagus nerve stimulation in intractable epilepsy associated with SCN1A gene abnormalities.* **J Child Neurol.** 2017;32(5):494-498. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28079431/)
 
 #### Etat de mal epileptique
 
-26. **Trinka E, Cock H, Hesdorffer D, et al.** *A definition and classification of status epilepticus -- Report of the ILAE Task Force on Classification of Status Epilepticus.* **Epilepsia.** 2015;56(10):1515-1523. PMID: 26336950.
+26. **Trinka E, Cock H, Hesdorffer D, et al.** *A definition and classification of status epilepticus -- Report of the ILAE Task Force on Classification of Status Epilepticus.* **Epilepsia.** 2015;56(10):1515-1523. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26336950/)
 
-27. **McTague A, Martland T, Bhatt R.** *The management of seizures and status epilepticus in children with Dravet syndrome: an international survey of clinicians.* **Dev Med Child Neurol.** 2018.
+27. **McTague A, Martland T, Appleton R.** *Drug management for acute tonic-clonic convulsions including convulsive status epilepticus in children.* **Cochrane Database Syst Rev.** 2018;1(1):CD001905. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29320603/)
 
 #### Therapies emergentes et essais cliniques
 
-28. **Han Z, Chen C, Bhatt D, et al.** *Antisense oligonucleotides increase Scn1a expression and reduce seizures and SUDEP incidence in a mouse model of Dravet syndrome.* **Sci Transl Med.** 2020;12(558):eaaz6100. PMID: 32848093.
+28. **Han Z, Chen C, Bhatt D, et al.** *Antisense oligonucleotides increase Scn1a expression and reduce seizures and SUDEP incidence in a mouse model of Dravet syndrome.* **Sci Transl Med.** 2020;12(558):eaaz6100. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32848093/)
 
-29. **Baraban SC, Dinday MT, Bhatt DK.** *Drug screening in Scn1a zebrafish mutant identifies clemizole as a potential Dravet syndrome treatment.* **Nat Commun.** 2013;4:2410. PMID: 24002024.
+29. **Baraban SC, Dinday MT, Bhatt DK.** *Drug screening in Scn1a zebrafish mutant identifies clemizole as a potential Dravet syndrome treatment.* **Nat Commun.** 2013;4:2410. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24002024/)
 
-30. **Kim J, Hu C, El Achkar CM, et al.** *Patient-customized oligonucleotide therapy for a rare genetic disease (Milasen).* **N Engl J Med.** 2019;381(17):1644-1652. PMID: 31597037.
+30. **Kim J, Hu C, El Achkar CM, et al.** *Patient-customized oligonucleotide therapy for a rare genetic disease (Milasen).* **N Engl J Med.** 2019;381(17):1644-1652. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31597037/)
 
-31. **Hunt RF, Girskis KM, Bhatt DK, et al.** *GABA progenitors grafted into the adult epileptic brain control seizures and abnormal behavior.* **Nat Neurosci.** 2013;16(6):692-697. PMID: 23644485.
+31. **Hunt RF, Girskis KM, Bhatt DK, et al.** *GABA progenitors grafted into the adult epileptic brain control seizures and abnormal behavior.* **Nat Neurosci.** 2013;16(6):692-697. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23644485/)
 
-32. **Bhatt DK, et al.** *Fenfluramine acts as a positive modulator of sigma-1 receptors.* **Epilepsy Behav.** 2021.
+32. **Martin P, de Witte PAM, Maurice T, et al.** *Fenfluramine acts as a positive modulator of sigma-1 receptors.* **Epilepsy Behav.** 2020;105:106989. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32169824/)
 
-33. **Oguni H, Hayashi K, Oguni M, et al.** *Treatment of severe myoclonic epilepsy in infants with bromide and its borderline variant.* **Epilepsia.** 2011;52(2):e13-e17.
+33. **Oguni H, Hayashi K, Oguni M, et al.** *Treatment of severe myoclonic epilepsy in infants with bromide and its borderline variant.* **Epilepsia.** 1994;35(6):1140-1145. [PubMed](https://pubmed.ncbi.nlm.nih.gov/7988502/)
 
 #### Pharmacocinetique et interactions
 
-34. **Geffrey AL, Pollack SF, Bruno PL, Thiele EA.** *Drug-drug interaction between clobazam and cannabidiol in children with refractory epilepsy.* **Epilepsia.** 2015;56(8):1246-1251. PMID: 26114620.
+34. **Geffrey AL, Pollack SF, Bruno PL, Thiele EA.** *Drug-drug interaction between clobazam and cannabidiol in children with refractory epilepsy.* **Epilepsia.** 2015;56(8):1246-1251. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26114620/)
 
-35. **Perucca E.** *Pharmacological and therapeutic properties of valproate: a summary after 35 years of clinical experience.* **CNS Drugs.** 2002;16(10):695-714.
+35. **Perucca E.** *Pharmacological and therapeutic properties of valproate: a summary after 35 years of clinical experience.* **CNS Drugs.** 2002;16(10):695-714. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12269862/)
 
 ---
 

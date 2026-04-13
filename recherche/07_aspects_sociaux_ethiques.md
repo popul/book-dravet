@@ -120,7 +120,7 @@ Les frères et soeurs d'un enfant atteint du syndrome de Dravet constituent une 
 ### 2.3 Références clés
 
 - Marquis SM et al. (2020). "Siblings of children with Dravet syndrome: experiences and needs." *Epilepsy & Behavior*, 112, 107371.
-- Besag FM (2006). "Cognitive and behavioral outcomes of epileptic syndromes: implications for education and clinical practice." *Epilepsia*, 47(Suppl 2), 119-125.
+- Besag FM (2006). "Cognitive and behavioral outcomes of epileptic syndromes: implications for education and clinical practice." *Epilepsia*, 47(Suppl 2), 119-125. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17105481/)
 - Groupe de travail "Fratrie et handicap", CNSA (2018). Recommandations pour l'accompagnement des fratries.
 
 ---
@@ -899,95 +899,95 @@ Le PNDS insiste sur la dimension médico-sociale de la prise en charge :
 
 ### 11.1 Impact familial et qualité de vie
 
-1. **Lagae L, Brambilla I, Mingorance A, Gibson E, Battersby A.** (2018). "Quality of life and comorbidities associated with Dravet syndrome severity: a multinational cohort survey." *Developmental Medicine & Child Neurology*, 60(1), 63-72.
+1. **Lagae L, Brambilla I, Mingorance A, Gibson E, Battersby A.** (2018). "Quality of life and comorbidities associated with Dravet syndrome severity: a multinational cohort survey." *Developmental Medicine & Child Neurology*, 60(1), 63-72. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28984349/)
    - Étude multinationale (584 aidants, 5 pays). Montre la corrélation entre sévérité du Dravet et altération de la qualité de vie familiale.
 
-2. **Campbell JD, Whittington MD, Kim CH, VanderVeen GR, Knupp KG, Gammaitoni A.** (2018). "Assessing the impact of caring for a child with Dravet syndrome: Results of a caregiver survey." *Epilepsy & Behavior*, 80, 152-156.
+2. **Campbell JD, Whittington MD, Kim CH, VanderVeen GR, Knupp KG, Gammaitoni A.** (2018). "Assessing the impact of caring for a child with Dravet syndrome: Results of a caregiver survey." *Epilepsy & Behavior*, 80, 152-156. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29414545/)
    - 72 % des aidants rapportent un impact négatif significatif sur leur santé mentale. Quantifie la charge temporelle et émotionnelle.
 
-3. **Nabbout R, Auvin S, Chiron C, Irwin J, Mistry A, Bonner N, Williamson N, Bennett B.** (2019). "Perception of impact of Dravet syndrome on children and caregivers in multiple countries: Looking beyond seizures." *Developmental Medicine & Child Neurology*, 61(10), 1229-1236.
+3. **Nabbout R, Auvin S, Chiron C, Irwin J, Mistry A, Bonner N, Williamson N, Bennett B.** (2019). "Perception of impact of Dravet syndrome on children and caregivers in multiple countries: Looking beyond seizures." *Developmental Medicine & Child Neurology*, 61(10), 1229-1236. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30828793/)
    - Étude DISCUSS. 89 % des aidants rapportent un impact modéré à sévère sur leur qualité de vie. Identifie les besoins non satisfaits au-delà du contrôle des crises.
 
-4. **Strzelczyk A, Schubert-Bast S, Bast T, Bettendorf U, Fiedler B, Hamer HM, et al.** (2019). "A multicenter, matched case-control analysis comparing burden-of-illness in Dravet syndrome to refractory epilepsy and seizure-free controls." *Epilepsia*, 60(8), 1697-1710.
+4. **Strzelczyk A, Schubert-Bast S, Bast T, Bettendorf U, Fiedler B, Hamer HM, et al.** (2019). "A multicenter, matched case-control analysis comparing burden-of-illness in Dravet syndrome to refractory epilepsy and seizure-free controls." *Epilepsia*, 60(8), 1697-1710. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31247127/)
    - Quantifie la charge économique et sociale du syndrome de Dravet comparée à d'autres épilepsies réfractaires.
 
-5. **Whittington MD, Knupp KG, Engel G, Kim CH, VanderVeen GR, Campbell JD.** (2020). "The Direct and Indirect Costs of Dravet Syndrome." *PharmacoEconomics*, 38(8), 871-882.
+5. **Whittington MD, Knupp KG, Engel G, Kim CH, VanderVeen GR, Campbell JD.** (2020). "The Direct and Indirect Costs of Dravet Syndrome." *PharmacoEconomics*, 38(8), 871-882. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29414539/)
    - Analyse des coûts directs et indirects. Les coûts indirects (perte de productivité) représentent 40-60 % du coût total.
 
-6. **Jensen MP, Brunklaus A, Dorris L, Zuberi SM, Knupp KG, Galer BS, Gammaitoni AR.** (2017). "The humanistic and economic burden of Dravet syndrome on caregivers and families: Implications for future research." *Epilepsy & Behavior*, 70(Pt A), 104-109.
+6. **Jensen MP, Brunklaus A, Dorris L, Zuberi SM, Knupp KG, Galer BS, Gammaitoni AR.** (2017). "The humanistic and economic burden of Dravet syndrome on caregivers and families: Implications for future research." *Epilepsy & Behavior*, 70(Pt A), 104-109. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28431364/)
    - Revue systématique de la charge humaniste et économique. Estime le coût annuel entre 40 000 et 100 000 euros/patient/an en Europe.
 
-7. **Villas N, Meskis MA, Bhatt A, Dravet Syndrome Patient Registry Study Group.** (2017). "Current and potential diagnosis and treatment of Dravet syndrome in the United States." *Epilepsy & Behavior*, 72, 77-84.
+7. **Villas N, Meskis MA, Bhatt A, Dravet Syndrome Patient Registry Study Group.** (2017). "Dravet syndrome: Characteristics, comorbidities, and caregiver concerns." *Epilepsy & Behavior*, 74, 81-86. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28732259/)
    - Données du registre de patients américain. Documente les parcours de soins et les besoins non satisfaits.
 
 ### 11.2 Scolarité et inclusion
 
-8. **Wolff M, Cassé-Perrot C, Dravet C.** (2006). "Severe myoclonic epilepsy of infants (Dravet syndrome): natural history and neuropsychological findings." *Epilepsia*, 47(Suppl 2), 45-48.
+8. **Wolff M, Cassé-Perrot C, Dravet C.** (2006). "Severe myoclonic epilepsy of infants (Dravet syndrome): natural history and neuropsychological findings." *Epilepsia*, 47(Suppl 2), 45-48. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17105460/)
    - Caractérisation du profil neuropsychologique : déficience intellectuelle progressive, troubles du langage et de la communication.
 
-9. **Chieffo D, Battaglia D, Lettori D, Del Re M, Brogna C, Dravet C, Mercuri E, Guzzetta F.** (2011). "Neuropsychological development in children with Dravet syndrome." *Epilepsy Research*, 95(1-2), 86-93.
+9. **Chieffo D, Battaglia D, Lettori D, Del Re M, Brogna C, Dravet C, Mercuri E, Guzzetta F.** (2011). "Neuropsychological development in children with Dravet syndrome." *Epilepsy Research*, 95(1-2), 86-93. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21474289/)
    - Suivi longitudinal du développement cognitif. Montre la stagnation puis le déclin relatif du QI au cours de l'enfance.
 
-10. **Nabbout R, Chemaly N, Chipaux M, Barcia G, Bouis C, Dubouch C, et al.** (2013). "Encephalopathy in children with Dravet syndrome is not a pure consequence of epilepsy." *Orphanet Journal of Rare Diseases*, 8, 176.
+10. **Nabbout R, Chemaly N, Chipaux M, Barcia G, Bouis C, Dubouch C, et al.** (2013). "Encephalopathy in children with Dravet syndrome is not a pure consequence of epilepsy." *Orphanet Journal of Rare Diseases*, 8, 176. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24225340/)
     - Démontre que la déficience intellectuelle n'est pas uniquement une conséquence des crises mais aussi du dysfonctionnement des canaux NaV1.1 dans le développement cérébral.
 
 ### 11.3 Éthique et aspects sociaux
 
-11. **Cross JH, Caraballo RH, Nabbout R, Vigevano F, Guerrini R, Lagae L.** (2019). "Dravet syndrome: Treatment options and management of prolonged seizures." *Epilepsia*, 60(Suppl 3), S39-S48.
+11. **Cross JH, Caraballo RH, Nabbout R, Vigevano F, Guerrini R, Lagae L.** (2019). "Dravet syndrome: Treatment options and management of prolonged seizures." *Epilepsia*, 60(Suppl 3), S39-S48. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31904119/)
     - Recommandations de prise en charge incluant les aspects éthiques de la gestion de l'état de mal réfractaire.
 
-12. **Skluzacek JV, Watts KP, Parsy O, Wical B, Camfield P.** (2011). "Dravet syndrome and parent associations: The IDEA League experience with comorbid conditions, mortality, management, adaptation, and grief." *Epilepsia*, 52(Suppl 2), 95-101.
+12. **Skluzacek JV, Watts KP, Parsy O, Wical B, Camfield P.** (2011). "Dravet syndrome and parent associations: The IDEA League experience with comorbid conditions, mortality, management, adaptation, and grief." *Epilepsia*, 52(Suppl 2), 95-101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21463290/)
     - Étude par les associations de parents. Aborde les thèmes du deuil, de l'adaptation et de la mortalité. Données sur la qualité de vie et les comorbidités perçues par les familles.
 
-13. **Scheffer IE, Nabbout R.** (2019). "SCN1A-related phenotypes: Epilepsy and beyond." *Epilepsia*, 60(Suppl 3), S17-S24.
+13. **Scheffer IE, Nabbout R.** (2019). "SCN1A-related phenotypes: Epilepsy and beyond." *Epilepsia*, 60(Suppl 3), S17-S24. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31904117/)
     - Spectre phénotypique SCN1A, incluant les implications pour le conseil génétique et les questions éthiques associées.
 
-14. **Dravet C.** (2011). "The core Dravet syndrome phenotype." *Epilepsia*, 52(Suppl 2), 3-9.
+14. **Dravet C.** (2011). "The core Dravet syndrome phenotype." *Epilepsia*, 52(Suppl 2), 3-9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21463272/)
     - Article fondateur de Charlotte Dravet décrivant le phénotype complet, y compris les dimensions sociales et comportementales.
 
 ### 11.4 Droit et cadre juridique
 
-15. **Loi n° 2005-102 du 11 février 2005** pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées. *JORF n° 36 du 12 février 2005.*
+15. **Loi n° 2005-102 du 11 février 2005** pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées. *JORF n° 36 du 12 février 2005.* [Légifrance](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000809647)
 
-16. **Loi n° 2007-308 du 5 mars 2007** portant réforme de la protection juridique des majeurs. *JORF n° 56 du 7 mars 2007.*
+16. **Loi n° 2007-308 du 5 mars 2007** portant réforme de la protection juridique des majeurs. *JORF n° 56 du 7 mars 2007.* [Légifrance](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000430707)
 
-17. **Ordonnance n° 2015-1288 du 15 octobre 2015** portant simplification et modernisation du droit de la famille (habilitation familiale). *JORF n° 0240 du 16 octobre 2015.*
+17. **Ordonnance n° 2015-1288 du 15 octobre 2015** portant simplification et modernisation du droit de la famille (habilitation familiale). *JORF n° 0240 du 16 octobre 2015.* [Légifrance](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031319729)
 
-18. **Loi n° 2016-87 du 2 février 2016** créant de nouveaux droits en faveur des malades et des personnes en fin de vie (loi Claeys-Leonetti). *JORF n° 0028 du 3 février 2016.*
+18. **Loi n° 2016-87 du 2 février 2016** créant de nouveaux droits en faveur des malades et des personnes en fin de vie (loi Claeys-Leonetti). *JORF n° 0028 du 3 février 2016.* [Légifrance](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000031970253)
 
-19. **Loi n° 2019-791 du 26 juillet 2019** pour une École de la confiance. *JORF n° 0174 du 28 juillet 2019.*
+19. **Loi n° 2019-791 du 26 juillet 2019** pour une École de la confiance. *JORF n° 0174 du 28 juillet 2019.* [Légifrance](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000038829065)
 
-20. **Loi n° 2002-303 du 4 mars 2002** relative aux droits des malades et à la qualité du système de santé (loi Kouchner). *JORF du 5 mars 2002.*
+20. **Loi n° 2002-303 du 4 mars 2002** relative aux droits des malades et à la qualité du système de santé (loi Kouchner). *JORF du 5 mars 2002.* [Légifrance](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000227015)
 
-21. **Loi n° 2021-1017 du 2 août 2021** relative à la bioéthique. *JORF n° 0178 du 3 août 2021.*
+21. **Loi n° 2021-1017 du 2 août 2021** relative à la bioéthique. *JORF n° 0178 du 3 août 2021.* [Légifrance](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000043884384)
 
 ### 11.5 PNDS et recommandations
 
-22. **HAS - Centre de Référence des Épilepsies Rares.** "Protocole National de Diagnostic et de Soins (PNDS) : Syndrome de Dravet." Haute Autorité de Santé.
+22. **HAS - Centre de Référence des Épilepsies Rares.** "Protocole National de Diagnostic et de Soins (PNDS) : Syndrome de Dravet." Haute Autorité de Santé. [HAS](https://www.has-sante.fr/jcms/p_3293892/fr/syndrome-de-dravet)
     - Document de référence pour la prise en charge diagnostique, thérapeutique et d'accompagnement.
 
-23. **Wirrell EC, Hood V, Shah S, Grinspan ZM, et al.** (2022). "International consensus on diagnosis and management of Dravet syndrome." *Epilepsia*, 63(7), 1761-1777.
+23. **Wirrell EC, Hood V, Shah S, Grinspan ZM, et al.** (2022). "International consensus on diagnosis and management of Dravet syndrome." *Epilepsia*, 63(7), 1761-1777. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35490361/)
     - Consensus international sur le diagnostic et la prise en charge, incluant les aspects non médicaux.
 
-24. **NICE Guideline NG217.** "Epilepsies in children, young people and adults." National Institute for Health and Care Excellence, mise à jour 2022.
+24. **NICE Guideline NG217.** "Epilepsies in children, young people and adults." National Institute for Health and Care Excellence, mise à jour 2022. [NICE](https://www.nice.org.uk/guidance/ng217)
 
 ### 11.6 Fratrie et soutien familial
 
 25. **Marquis SM, McGrail K, Engel G, Bhatt A.** (2020). "Siblings of children with Dravet syndrome: Experiences and needs." *Epilepsy & Behavior*, 112, 107371.
     - Première étude spécifiquement dédiée au vécu des frères et soeurs d'enfants Dravet.
 
-26. **Knupp KG, Scarbro S, Engel G, et al.** (2017). "Dravet Syndrome: caregiver comorbidity rating and daily treatment." *Epilepsy & Behavior*, 70, 124-130.
+26. **Knupp KG, Scarbro S, Engel G, et al.** (2017). "Parental Perception of Comorbidities in Children With Dravet Syndrome." *Pediatric Neurology*, 76, 60-65. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28982531/)
     - Évaluation des comorbidités par les aidants. Souligne les besoins en accompagnement global.
 
 ### 11.7 Répit et solutions de soutien
 
 27. **CNSA (Caisse Nationale de Solidarité pour l'Autonomie).** (2021). "Guide de l'accueil temporaire des personnes handicapées." CNSA.
 
-28. **Rapport IGAS.** (2019). "Évaluation de la politique publique de soutien aux aidants." Inspection Générale des Affaires Sociales.
+28. **Rapport IGAS.** (2019). "Évaluation de la politique publique de soutien aux aidants." Inspection Générale des Affaires Sociales. [IGAS](https://igas.gouv.fr/sites/igas/files/2024-04/Soutenir%20les%20aidants%20en%20levant%20les%20freins%20au%20d%C3%A9veloppement%20de%20solutions%20de%20r%C3%A9pit.pdf)
 
-29. **Plan national de santé publique 2018-2022.** Axe "soutien aux aidants".
+29. **Plan national de santé publique 2018-2022.** Axe "soutien aux aidants". [sante.gouv.fr](https://sante.gouv.fr/IMG/pdf/dossier_sns_2017_vdef.pdf)
 
-30. **Stratégie nationale pour les aidants 2020-2022.** "Agir pour les aidants." Ministère des Solidarités et de la Santé.
+30. **Stratégie nationale pour les aidants 2020-2022.** "Agir pour les aidants." Ministère des Solidarités et de la Santé. [solidarites.gouv.fr](https://solidarites.gouv.fr/agir-pour-les-aidants)
 
 ---
 

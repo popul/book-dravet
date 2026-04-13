@@ -733,108 +733,106 @@ Le SD est associe a un risque tres eleve de SUDEP (environ 15-20% des patients a
 
 ### Publications fondatrices
 
-1. **Claes L, Del-Favero J, Ceulemans B, Lagae L, Van Broeckhoven C, De Jonghe P.** De novo mutations in the sodium-channel gene SCN1A cause severe myoclonic epilepsy of infancy. *American Journal of Human Genetics*, 2001, 68(6):1327-1332. PMID: 11359211.
+1. **Claes L, Del-Favero J, Ceulemans B, Lagae L, Van Broeckhoven C, De Jonghe P.** De novo mutations in the sodium-channel gene SCN1A cause severe myoclonic epilepsy of infancy. *American Journal of Human Genetics*, 2001, 68(6):1327-1332. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11359211/)
 
-2. **Yu FH, Mantegazza M, Bhatt DK, et al., Catterall WA.** Reduced sodium current in GABAergic interneurons in a mouse model of severe myoclonic epilepsy in infancy. *Nature Neuroscience*, 2006, 9(9):1142-1149. PMID: 16921370.
+2. **Yu FH, Mantegazza M, Bhatt DK, et al., Catterall WA.** Reduced sodium current in GABAergic interneurons in a mouse model of severe myoclonic epilepsy in infancy. *Nature Neuroscience*, 2006, 9(9):1142-1149. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16921370/)
    > *Verifier les co-auteurs complets sur PubMed via le PMID.*
 
-3. **Ogiwara I, Miyamoto H, Morita N, et al., Yamakawa K.** NaV1.1 localizes to axons of parvalbumin-positive inhibitory interneurons: a circuit basis for epileptic seizures in mice carrying an Scn1a gene mutation. *Journal of Neuroscience*, 2007, 27(22):5903-5914. PMID: 17537961.
+3. **Ogiwara I, Miyamoto H, Morita N, et al., Yamakawa K.** NaV1.1 localizes to axons of parvalbumin-positive inhibitory interneurons: a circuit basis for epileptic seizures in mice carrying an Scn1a gene mutation. *Journal of Neuroscience*, 2007, 27(22):5903-5914. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17537961/)
    > *Verifier les co-auteurs complets sur PubMed via le PMID.*
 
-4. **Oakley JC, Kalume F, Yu FH, Scheuer T, Catterall WA.** Temperature- and age-dependent seizures in a mouse model of severe myoclonic epilepsy in infancy. *Proceedings of the National Academy of Sciences*, 2009, 106(10):3994-3999. PMID: 19234125.
+4. **Oakley JC, Kalume F, Yu FH, Scheuer T, Catterall WA.** Temperature- and age-dependent seizures in a mouse model of severe myoclonic epilepsy in infancy. *Proceedings of the National Academy of Sciences*, 2009, 106(10):3994-3999. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19234125/)
 
-5. **Catterall WA, Kalume F, Oakley JC.** NaV1.1 channels and epilepsy. *Journal of Physiology*, 2010, 588(Pt 11):1849-1859. PMID: 20194124.
+5. **Catterall WA, Kalume F, Oakley JC.** NaV1.1 channels and epilepsy. *Journal of Physiology*, 2010, 588(Pt 11):1849-1859. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20194124/)
 
 ### Interneurones et desequilibre E/I
 
-6. **Tai C, Abe Y, et al., Catterall WA.** Impaired excitability of somatostatin- and parvalbumin-expressing cortical interneurons in a mouse model of Dravet syndrome. *Proceedings of the National Academy of Sciences*, 2014, 111(30):E3139-E3148. PMID: 25024183.
+6. **Tai C, Abe Y, et al., Catterall WA.** Impaired excitability of somatostatin- and parvalbumin-expressing cortical interneurons in a mouse model of Dravet syndrome. *Proceedings of the National Academy of Sciences*, 2014, 111(30):E3139-E3148. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25024183/)
    > *Verifier les co-auteurs complets sur PubMed via le PMID.*
 
-7. **Favero M, Sotuyo NP, Lopez E, et al., Bhatt DK, Goldberg EM.** A transient developmental window of fast-spiking interneuron dysfunction in a mouse model of Dravet syndrome. *Journal of Neuroscience*, 2018, 38(36):7912-7927. PMID: 30049889.
+7. **Favero M, Sotuyo NP, Lopez E, et al., Bhatt DK, Goldberg EM.** A transient developmental window of fast-spiking interneuron dysfunction in a mouse model of Dravet syndrome. *Journal of Neuroscience*, 2018, 38(36):7912-7927. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30049889/)
    > *Verifier les co-auteurs complets sur PubMed via le PMID.*
 
-8. **Goff KM, Goldberg EM.** Vasoactive intestinal peptide-expressing interneurons are impaired in a mouse model of Dravet syndrome. *Epilepsia*, 2019, 60(12):2447-2458. PMID: 31648370.
+8. **Goff KM, Goldberg EM.** Vasoactive intestinal peptide-expressing interneurons are impaired in a mouse model of Dravet syndrome. *Epilepsia*, 2019, 60(12):2447-2458. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31648370/)
 
-9. **Rubinstein M, Han S, et al., Catterall WA.** Dissecting the phenotypes of Dravet syndrome by gene deletion. *Brain*, 2015, 138(Pt 8):2219-2233. PMID: 26017580.
+9. **Rubinstein M, Han S, et al., Catterall WA.** Dissecting the phenotypes of Dravet syndrome by gene deletion. *Brain*, 2015, 138(Pt 8):2219-2233. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26017580/)
    > *Verifier les co-auteurs complets sur PubMed via le PMID.*
 
 ### Modeles conditionnels
 
-10. **Cheah CS, Yu FH, Westenbroek RE, et al., Scheuer T, Catterall WA.** Specific deletion of NaV1.1 sodium channels in inhibitory interneurons causes seizures and premature death in a mouse model of Dravet syndrome. *Proceedings of the National Academy of Sciences*, 2012, 109(36):14646-14651. PMID: 22912404.
+10. **Cheah CS, Yu FH, Westenbroek RE, et al., Scheuer T, Catterall WA.** Specific deletion of NaV1.1 sodium channels in inhibitory interneurons causes seizures and premature death in a mouse model of Dravet syndrome. *Proceedings of the National Academy of Sciences*, 2012, 109(36):14646-14651. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22912404/)
     > *Verifier les co-auteurs complets sur PubMed via le PMID.*
 
 ### SUDEP
 
-11. **Kalume F, Westenbroek RE, et al., Scheuer T, Catterall WA.** Sudden unexpected death in a mouse model of Dravet syndrome. *Journal of Clinical Investigation*, 2013, 123(4):1798-1808. PMID: 23524966.
+11. **Kalume F, Westenbroek RE, et al., Scheuer T, Catterall WA.** Sudden unexpected death in a mouse model of Dravet syndrome. *Journal of Clinical Investigation*, 2013, 123(4):1798-1808. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23524966/)
     > *Verifier les co-auteurs complets sur PubMed via le PMID.*
 
 ### Troubles du sommeil
 
-12. **Kalume F, Oakley JC, et al., Scheuer T, Catterall WA.** Sleep dysfunction in a mouse model of Dravet syndrome. *Journal of Neuroscience*, 2015, 35(15):10236-10245.
-    > *Verifier PMID et co-auteurs complets sur PubMed.*
+12. **Kalume F, Oakley JC, Westenbroek RE, Gile J, de la Iglesia HO, Scheuer T, Catterall WA.** Sleep impairment and reduced interneuron excitability in a mouse model of Dravet syndrome. *Neurobiology of Disease*, 2015, 77:141-154. DOI: 10.1016/j.nbd.2015.02.016. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25766678/)
 
 ### Therapie genique et ASO
 
-13. **Colasante G, Lignani G, Brusco S, et al.** dCas9-based Scn1a gene activation restores inhibitory interneuron excitability and attenuates seizures in Dravet syndrome mice. *Molecular Therapy*, 2020, 28(1):235-253. PMID: 31607539.
+13. **Colasante G, Lignani G, Brusco S, et al.** dCas9-based Scn1a gene activation restores inhibitory interneuron excitability and attenuates seizures in Dravet syndrome mice. *Molecular Therapy*, 2020, 28(1):235-253. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31607539/)
 
-14. **Han Z, Chen C, Christiansen A, et al.** Antisense oligonucleotides increase Scn1a expression and reduce seizures and SUDEP incidence in a mouse model of Dravet syndrome. *Science Translational Medicine*, 2020, 12(558):eaaz6100. PMID: 32848093.
+14. **Han Z, Chen C, Christiansen A, et al.** Antisense oligonucleotides increase Scn1a expression and reduce seizures and SUDEP incidence in a mouse model of Dravet syndrome. *Science Translational Medicine*, 2020, 12(558):eaaz6100. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32848093/)
 
 ### Traitements pharmacologiques
 
-15. **Devinsky O, Cross JH, Laux L, et al.** Trial of cannabidiol for drug-resistant seizures in the Dravet syndrome. *New England Journal of Medicine*, 2017, 376(21):2011-2020. PMID: 28538134.
+15. **Devinsky O, Cross JH, Laux L, et al.** Trial of cannabidiol for drug-resistant seizures in the Dravet syndrome. *New England Journal of Medicine*, 2017, 376(21):2011-2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28538134/)
 
-16. **Baraban SC, Dinday MT, Hainaut GA.** Drug screening in Scn1a zebrafish mutant identifies clemizole as a potential Dravet syndrome treatment. *Nature Communications*, 2013, 4:2410. PMID: 24002024.
+16. **Baraban SC, Dinday MT, Hainaut GA.** Drug screening in Scn1a zebrafish mutant identifies clemizole as a potential Dravet syndrome treatment. *Nature Communications*, 2013, 4:2410. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24002024/)
 
-17. **Griffin A, Hamling KR, Knupp K, Hong S, Lee LP, Baraban SC.** Clemizole and modulators of serotonin signaling suppress seizures in Dravet syndrome. *Brain*, 2017, 140(3):669-683. PMID: 28073790.
+17. **Griffin A, Hamling KR, Knupp K, Hong S, Lee LP, Baraban SC.** Clemizole and modulators of serotonin signaling suppress seizures in Dravet syndrome. *Brain*, 2017, 140(3):669-683. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28073790/)
 
-18. **Lagae L, Sullivan J, Cross JH, et al.** Fenfluramine for treatment of seizures associated with Dravet syndrome. *Epilepsia*, 2023 (et publications anterieures de phase 3, 2019-2022).
+18. **Sullivan J, Lagae L, Cross JH, et al.** Fenfluramine in the treatment of Dravet syndrome: Results of a third randomized, placebo-controlled clinical trial. *Epilepsia*, 2023, 64(10):2653-2666. DOI: 10.1111/epi.17737. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37543865/)
 
 ### Genetique et spectre mutationnel
 
-19. **Marini C, Scheffer IE, Nabbout R, et al.** The genetics of Dravet syndrome. *Epilepsia*, 2011, 52 Suppl 2:24-29. PMID: 21463275.
+19. **Marini C, Scheffer IE, Nabbout R, et al.** The genetics of Dravet syndrome. *Epilepsia*, 2011, 52 Suppl 2:24-29. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21463275/)
 
-20. **Depienne C, Trouillard O, Saint-Martin C, et al.** Spectrum of SCN1A gene mutations associated with Dravet syndrome: analysis of 333 patients. *Journal of Medical Genetics*, 2009, 46(3):183-191. PMID: 18930999.
+20. **Depienne C, Trouillard O, Saint-Martin C, et al.** Spectrum of SCN1A gene mutations associated with Dravet syndrome: analysis of 333 patients. *Journal of Medical Genetics*, 2009, 46(3):183-191. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18930999/)
 
-21. **Brunklaus A, Ellis R, Reavey E, Forbes GH, Zuberi SM.** Prognostic, clinical and demographic features in SCN1A mutation-positive Dravet syndrome. *Brain*, 2012, 135(Pt 8):2329-2336. PMID: 22719002.
+21. **Brunklaus A, Ellis R, Reavey E, Forbes GH, Zuberi SM.** Prognostic, clinical and demographic features in SCN1A mutation-positive Dravet syndrome. *Brain*, 2012, 135(Pt 8):2329-2336. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22719002/)
 
 ### Dependance au courant sodique et fond genetique
 
-22. **Mistry AM, Thompson CH, Miller AR, Vanoye CG, George AL Jr, Kearney JA.** Strain- and age-dependent hippocampal neuron sodium currents correlate with epilepsy severity in Dravet syndrome mice. *Neurobiology of Disease*, 2014, 65:1-11. PMID: 24434335.
-    > *Verifier les co-auteurs complets sur PubMed via le PMID.*
+22. **Mistry AM, Thompson CH, Miller AR, Vanoye CG, George AL Jr, Kearney JA.** Strain- and age-dependent hippocampal neuron sodium currents correlate with epilepsy severity in Dravet syndrome mice. *Neurobiology of Disease*, 2014, 65:1-11. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24434335/)
 
 ### Modeles iPSC
 
-23. **Higurashi N, Uchida T, Lossin C, et al.** A human Dravet syndrome model from patient induced pluripotent stem cells. *Molecular Brain*, 2013, 6:19. PMID: 23639079.
+23. **Higurashi N, Uchida T, Lossin C, et al.** A human Dravet syndrome model from patient induced pluripotent stem cells. *Molecular Brain*, 2013, 6:19. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23639079/)
 
 ### Reviews et syntheses recommandees
 
-24. **Dravet C, Oguni H.** Dravet syndrome (severe myoclonic epilepsy in infancy). *Handbook of Clinical Neurology*, 2013, 111:627-633.
+24. **Dravet C, Oguni H.** Dravet syndrome (severe myoclonic epilepsy in infancy). *Handbook of Clinical Neurology*, 2013, 111:627-633. PMID: 23622210. [DOI](https://doi.org/10.1016/B978-0-444-52891-9.00065-8)
 
-25. **Wirrell EC, Laux L, Donner E, et al.** Optimizing the diagnosis and management of Dravet syndrome: Recommendations from a North American consensus panel. *Pediatric Neurology*, 2017, 68:18-34.e3. PMID: 28284397.
+25. **Wirrell EC, Laux L, Donner E, et al.** Optimizing the diagnosis and management of Dravet syndrome: Recommendations from a North American consensus panel. *Pediatric Neurology*, 2017, 68:18-34.e3. [DOI](https://doi.org/10.1016/j.pediatrneurol.2017.01.025) -- [PubMed](https://pubmed.ncbi.nlm.nih.gov/28284397/)
 
-26. **Scheffer IE, Nabbout R.** SCN1A-related phenotypes: Epilepsy and beyond. *Epilepsia*, 2019, 60 Suppl 3:S17-S24.
+26. **Scheffer IE, Nabbout R.** SCN1A-related phenotypes: Epilepsy and beyond. *Epilepsia*, 2019, 60 Suppl 3:S17-S24. [DOI](https://doi.org/10.1111/epi.16386) -- [PubMed](https://pubmed.ncbi.nlm.nih.gov/31904117/)
 
-27. **Catterall WA.** Sodium channels, inherited epilepsy, and antiepileptic drugs. *Annual Review of Pharmacology and Toxicology*, 2014, 54:317-338. PMID: 24392695.
+27. **Catterall WA.** Sodium channels, inherited epilepsy, and antiepileptic drugs. *Annual Review of Pharmacology and Toxicology*, 2014, 54:317-338. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24392695/)
 
-28. **Steel D, Symonds JD, Zuberi SM, Brunklaus A.** Dravet syndrome and its mimics: Beyond SCN1A. *Epilepsia*, 2017, 58(11):1807-1816.
+28. **Steel D, Symonds JD, Zuberi SM, Brunklaus A.** Dravet syndrome and its mimics: Beyond SCN1A. *Epilepsia*, 2017, 58(11):1807-1816. [DOI](https://doi.org/10.1111/epi.13889) -- [PubMed](https://pubmed.ncbi.nlm.nih.gov/28880996/)
 
 29. **Guerrini R, Dravet C.** Dravet syndrome. *In: Bureau M, Genton P, Dravet C, et al., eds. Epileptic Syndromes in Infancy, Childhood and Adolescence*. 5th ed. John Libbey Eurotext, 2012.
 
 ### Pharmacologie et traitements
 
-30. **Chiron C, Marchand MC, Tran A, et al.** Stiripentol in severe myoclonic epilepsy in infancy: a randomised placebo-controlled syndrome-dedicated trial. *Lancet*, 2000, 356(9242):1638-1642. PMID: 11089822.
+30. **Chiron C, Marchand MC, Tran A, et al.** Stiripentol in severe myoclonic epilepsy in infancy: a randomised placebo-controlled syndrome-dedicated trial. *Lancet*, 2000, 356(9242):1638-1642. [DOI](https://doi.org/10.1016/S0140-6736(00)03157-3) -- [PubMed](https://pubmed.ncbi.nlm.nih.gov/11089822/)
 
 ### Activateurs selectifs de NaV1.1
 
-31. **Richards KL, Milligan CJ, Richardson RJ, et al.** Selective NaV1.1 activation rescues Dravet syndrome mice from seizures and premature death. *Proceedings of the National Academy of Sciences*, 2018, 115(34):E8077-E8085. PMID: 30082393.
+31. **Richards KL, Milligan CJ, Richardson RJ, et al.** Selective NaV1.1 activation rescues Dravet syndrome mice from seizures and premature death. *Proceedings of the National Academy of Sciences*, 2018, 115(34):E8077-E8085. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30082393/)
 
 ### Revues recentes
 
-32. **Brunklaus A, Brunger T, et al.** Prognostic and therapeutic implications of genetic testing in Dravet syndrome. *Epilepsia*, 2020 et suivants. (Verifier les publications les plus recentes du groupe de Brunklaus sur PubMed.)
+32. **Brunklaus A, Schorge S, Smith AD, et al.** SCN1A variants from bench to bedside -- improved clinical prediction from functional characterization. *Human Mutation*, 2020, 41(2):363-374. DOI: 10.1002/humu.23943. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31782251/)
 
-33. **Goldberg EM.** Electrophysiological biomarkers and mechanisms in Dravet syndrome. *Epilepsy Currents*, 2022. (Verifier sur PubMed.)
+33. **Goldberg EM.** Dravet syndrome as an example of precision medicine in epilepsy. *Epilepsy Currents*, 2023, 23(1):42-48. DOI: 10.1177/15357597221106281. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36923331/)
 
-34. **Stoke Therapeutics** -- publications et communiques relatifs aux essais cliniques STK-001 (2020-2025). Consulter ClinicalTrials.gov (NCT04442295 et NCT04740476).
+34. **Stoke Therapeutics** -- publications et communiques relatifs aux essais cliniques STK-001 (2020-2025). [ClinicalTrials.gov NCT04442295](https://clinicaltrials.gov/study/NCT04442295) -- [ClinicalTrials.gov NCT04740476](https://clinicaltrials.gov/study/NCT04740476)
 
 35. **Encoded Therapeutics / Neurocrine Biosciences** -- publications et communiques relatifs a ETX-101 (2023-2025). Consulter ClinicalTrials.gov.
 

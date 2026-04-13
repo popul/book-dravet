@@ -525,127 +525,127 @@ Les points suivants font l'objet d'un large consensus dans la communaute scienti
 
 ### 13.1 Articles fondateurs et decouverte genetique
 
-1. **Claes L, Del-Favero J, Ceulemans B, Lagae L, Van Broeckhoven C, De Jonghe P.** De novo mutations in the sodium-channel gene SCN1A cause severe myoclonic epilepsy of infancy. *Am J Hum Genet*. 2001;68(6):1327-1332. DOI: 10.1086/320609
+1. **Claes L, Del-Favero J, Ceulemans B, Lagae L, Van Broeckhoven C, De Jonghe P.** De novo mutations in the sodium-channel gene SCN1A cause severe myoclonic epilepsy of infancy. *Am J Hum Genet*. 2001;68(6):1327-1332. [DOI](https://doi.org/10.1086/320609)
    - **Article fondateur** identifiant SCN1A comme le gene responsable du SD
 
 2. **Dravet C.** Les epilepsies graves de l'enfant. *Vie Med*. 1978;8:543-548.
    - Description originale du syndrome par Charlotte Dravet
 
-3. **Escayg A, MacDonald BT, Meisler MH, Baulac S, Huberfeld G, An-Gourfinkel I, et al.** Mutations of SCN1A, encoding a neuronal sodium channel, in two families with GEFS+2. *Nat Genet*. 2000;24(4):343-345. DOI: 10.1038/74159
+3. **Escayg A, MacDonald BT, Meisler MH, Baulac S, Huberfeld G, An-Gourfinkel I, et al.** Mutations of SCN1A, encoding a neuronal sodium channel, in two families with GEFS+2. *Nat Genet*. 2000;24(4):343-345. [DOI](https://doi.org/10.1038/74159)
    - Premiere identification de mutations SCN1A dans GEFS+
 
-4. **Sugawara T, Mazaki-Miyazaki E, Fukushima K, Shimomura J, Fujiwara T, Hamano S, et al.** Frequent mutations of SCN1A in severe myoclonic epilepsy in infancy. *Neurology*. 2002;58(7):1122-1124. DOI: 10.1212/wnl.58.7.1122
+4. **Sugawara T, Mazaki-Miyazaki E, Fukushima K, Shimomura J, Fujiwara T, Hamano S, et al.** Frequent mutations of SCN1A in severe myoclonic epilepsy in infancy. *Neurology*. 2002;58(7):1122-1124. [DOI](https://doi.org/10.1212/wnl.58.7.1122)
 
 ### 13.2 Correlations genotype-phenotype
 
-5. **Marini C, Scheffer IE, Nabbout R, Suls A, De Jonghe P, Zara F, et al.** The genetics of Dravet syndrome. *Epilepsia*. 2011;52 Suppl 2:24-29. DOI: 10.1111/j.1528-1167.2011.02997.x
+5. **Marini C, Scheffer IE, Nabbout R, Suls A, De Jonghe P, Zara F, et al.** The genetics of Dravet syndrome. *Epilepsia*. 2011;52 Suppl 2:24-29. [DOI](https://doi.org/10.1111/j.1528-1167.2011.02997.x)
 
-6. **Brunklaus A, Ellis R, Reavey E, Forbes GH, Zuberi SM.** Prognostic, clinical and demographic features in SCN1A mutation-positive Dravet syndrome. *Brain*. 2012;135(Pt 8):2329-2336. DOI: 10.1093/brain/aws151
+6. **Brunklaus A, Ellis R, Reavey E, Forbes GH, Zuberi SM.** Prognostic, clinical and demographic features in SCN1A mutation-positive Dravet syndrome. *Brain*. 2012;135(Pt 8):2329-2336. [DOI](https://doi.org/10.1093/brain/aws151)
 
 7. **Brunklaus A, Dorris L, Ellis R, Reavey E, Lee E, Forbes G, et al.** The clinical significance of the SCN1A gene mutation and its phenotype. *Brain*. 2014;137(Pt 11):e284.
 
-8. **Depienne C, Trouillard O, Saint-Martin C, Gourfinkel-An I, Bouteiller D, Carpentier W, et al.** Spectrum of SCN1A gene mutations associated with Dravet syndrome: analysis of 333 patients. *J Med Genet*. 2009;46(3):183-191. DOI: 10.1136/jmg.2008.062323
+8. **Depienne C, Trouillard O, Saint-Martin C, Gourfinkel-An I, Bouteiller D, Carpentier W, et al.** Spectrum of SCN1A gene mutations associated with Dravet syndrome: analysis of 333 patients. *J Med Genet*. 2009;46(3):183-191. [DOI](https://doi.org/10.1136/jmg.2008.062323)
 
-9. **Zuberi SM, Brunklaus A, Birber B, Regan BM, Phillips HA, Scheffer IE, et al.** Genotype-phenotype associations in SCN1A-related epilepsies. *Neurology*. 2011;76(7):594-600.
+9. **Zuberi SM, Brunklaus A, Birber B, Regan BM, Phillips HA, Scheffer IE, et al.** Genotype-phenotype associations in SCN1A-related epilepsies. *Neurology*. 2011;76(7):594-600. [DOI](https://doi.org/10.1212/WNL.0b013e31820c309b)
 
-10. **Brunklaus A, Schorge S, Smith AD, Sherr EH, Bhatt DK, et al.** SCN1A variants from bench to bedside -- improved clinical prediction from functional characterization. *Hum Mutat*. 2020;41(2):363-374. DOI: 10.1002/humu.23943
+10. **Brunklaus A, Schorge S, Smith AD, Sherr EH, Bhatt DK, et al.** SCN1A variants from bench to bedside -- improved clinical prediction from functional characterization. *Hum Mutat*. 2020;41(2):363-374. [DOI](https://doi.org/10.1002/humu.23943)
 
 11. **Ishii A, Kang JQ, Bhatt DK, et al.** A de novo SCN1A missense mutation with gain-of-function property as well as loss-of-function. *Hum Mutat*. 2017;38(2):181-186.
 
 ### 13.3 Mosaicisme et mutations de novo
 
-12. **Depienne C, Arzimanoglou A, Trouillard O, Fedirko E, Baulac S, Saint-Martin C, et al.** Parental mosaicism can cause recurrent transmission of SCN1A mutations associated with severe myoclonic epilepsy of infancy. *J Med Genet*. 2006;43(10):818-823. DOI: 10.1136/jmg.2005.040329
+12. **Depienne C, Arzimanoglou A, Trouillard O, Fedirko E, Baulac S, Saint-Martin C, et al.** Parental mosaicism can cause recurrent transmission of SCN1A mutations associated with severe myoclonic epilepsy of infancy. *J Med Genet*. 2006;43(10):818-823. [DOI](https://doi.org/10.1136/jmg.2005.040329)
 
-13. **Heron SE, Scheffer IE, Ber BH, et al.** De novo SCN1A mutations in Dravet syndrome and related epileptic encephalopathies are largely of paternal origin. *J Med Genet*. 2010;47(2):137-141. DOI: 10.1136/jmg.2008.065912
+13. **Heron SE, Scheffer IE, Ber BH, et al.** De novo SCN1A mutations in Dravet syndrome and related epileptic encephalopathies are largely of paternal origin. *J Med Genet*. 2010;47(2):137-141. [DOI](https://doi.org/10.1136/jmg.2008.065912)
 
-14. **Xu X, Yang X, Wu Q, Liu A, Yang X, Ye AY, et al.** Amplicon resequencing identified parental mosaicism for approximately 10% of "de novo" SCN1A mutations in children with Dravet syndrome. *Hum Mutat*. 2015;36(9):861-872. DOI: 10.1002/humu.22819
+14. **Xu X, Yang X, Wu Q, Liu A, Yang X, Ye AY, et al.** Amplicon resequencing identified parental mosaicism for approximately 10% of "de novo" SCN1A mutations in children with Dravet syndrome. *Hum Mutat*. 2015;36(9):861-872. [DOI](https://doi.org/10.1002/humu.22819)
 
-15. **de Lange IM, Koudijs MJ, van 't Slot R, Sonsma ACM, Mulder F, Zinkstok JR, et al.** Assessment of parental mosaicism in SCN1A-related epilepsy by single-molecule molecular inversion probes and next-generation sequencing. *J Med Genet*. 2019;56(2):75-80. DOI: 10.1136/jmedgenet-2018-105672
+15. **de Lange IM, Koudijs MJ, van 't Slot R, Sonsma ACM, Mulder F, Zinkstok JR, et al.** Assessment of parental mosaicism in SCN1A-related epilepsy by single-molecule molecular inversion probes and next-generation sequencing. *J Med Genet*. 2019;56(2):75-80. [DOI](https://doi.org/10.1136/jmedgenet-2018-105672)
 
-16. **Myers CT, Hollingsworth G, Muir AM, Schneider AL, Thuesmunn Z, Knupp KG, et al.** Parental mosaicism in "de novo" epileptic encephalopathies. *N Engl J Med*. 2018;378(17):1646-1648. DOI: 10.1056/NEJMc1714579
+16. **Myers CT, Hollingsworth G, Muir AM, Schneider AL, Thuesmunn Z, Knupp KG, et al.** Parental mosaicism in "de novo" epileptic encephalopathies. *N Engl J Med*. 2018;378(17):1646-1648. [DOI](https://doi.org/10.1056/NEJMc1714579)
 
-17. **Stosser MB, Lindy AS, Butler E, Retterer K, Piccirillo-Stosser CM, Richard G, et al.** High frequency of mosaic pathogenic variants in genes causing epilepsy-related neurodevelopmental disorders. *Genet Med*. 2018;20(4):403-410. DOI: 10.1038/gim.2017.114
+17. **Stosser MB, Lindy AS, Butler E, Retterer K, Piccirillo-Stosser CM, Richard G, et al.** High frequency of mosaic pathogenic variants in genes causing epilepsy-related neurodevelopmental disorders. *Genet Med*. 2018;20(4):403-410. [DOI](https://doi.org/10.1038/gim.2017.114)
 
 ### 13.4 Physiopathologie et modeles animaux
 
-18. **Yu FH, Mantegazza M, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Reduced sodium current in GABAergic interneurons in a mouse model of severe myoclonic epilepsy in infancy. *Nat Neurosci*. 2006;9(9):1142-1149. DOI: 10.1038/nn1754
+18. **Yu FH, Mantegazza M, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Reduced sodium current in GABAergic interneurons in a mouse model of severe myoclonic epilepsy in infancy. *Nat Neurosci*. 2006;9(9):1142-1149. [DOI](https://doi.org/10.1038/nn1754)
 
-19. **Ogiwara I, Miyamoto H, Morita N, Atapour N, Mazaki E, Inoue I, et al.** Nav1.1 localizes to axons of parvalbumin-positive inhibitory interneurons: a circuit basis for epileptic seizures in mice carrying an Scn1a gene mutation. *J Neurosci*. 2007;27(22):5903-5914. DOI: 10.1523/JNEUROSCI.5270-06.2007
+19. **Ogiwara I, Miyamoto H, Morita N, Atapour N, Mazaki E, Inoue I, et al.** Nav1.1 localizes to axons of parvalbumin-positive inhibitory interneurons: a circuit basis for epileptic seizures in mice carrying an Scn1a gene mutation. *J Neurosci*. 2007;27(22):5903-5914. [DOI](https://doi.org/10.1523/JNEUROSCI.5270-06.2007)
 
-20. **Kalume F, Yu FH, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Sleep impairment and reduced interneuron excitability in a mouse model of Dravet Syndrome. *Neurobiol Dis*. 2015;77:141-154.
+20. **Kalume F, Yu FH, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Sleep impairment and reduced interneuron excitability in a mouse model of Dravet Syndrome. *Neurobiol Dis*. 2015;77:141-154. [DOI](https://doi.org/10.1016/j.nbd.2015.02.016)
 
-21. **Kalume F, Westenbroek RE, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Sudden unexpected death in a mouse model of Dravet syndrome. *J Clin Invest*. 2013;123(4):1798-1808. DOI: 10.1172/JCI66220
+21. **Kalume F, Westenbroek RE, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Sudden unexpected death in a mouse model of Dravet syndrome. *J Clin Invest*. 2013;123(4):1798-1808. [DOI](https://doi.org/10.1172/JCI66220)
 
-22. **Cheah CS, Yu FH, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Specific deletion of NaV1.1 sodium channels in inhibitory interneurons causes seizures and premature death in a mouse model of Dravet syndrome. *Proc Natl Acad Sci U S A*. 2012;109(36):14646-14651. DOI: 10.1073/pnas.1211591109
+22. **Cheah CS, Yu FH, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Specific deletion of NaV1.1 sodium channels in inhibitory interneurons causes seizures and premature death in a mouse model of Dravet syndrome. *Proc Natl Acad Sci U S A*. 2012;109(36):14646-14651. [DOI](https://doi.org/10.1073/pnas.1211591109)
 
-23. **Baraban SC, Dinday MT, Bhatt DK, Bhatt DK.** Drug screening in Scn1a zebrafish mutant identifies clemizole as a potential Dravet syndrome treatment. *Nat Commun*. 2013;4:2410. DOI: 10.1038/ncomms3410
+23. **Baraban SC, Dinday MT, Bhatt DK, Bhatt DK.** Drug screening in Scn1a zebrafish mutant identifies clemizole as a potential Dravet syndrome treatment. *Nat Commun*. 2013;4:2410. [DOI](https://doi.org/10.1038/ncomms3410)
 
-24. **Tai C, Abe Y, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Impaired excitability of somatostatin- and parvalbumin-expressing cortical interneurons in a mouse model of Dravet syndrome. *Proc Natl Acad Sci U S A*. 2014;111(30):E3139-E3148. DOI: 10.1073/pnas.1411131111
+24. **Tai C, Abe Y, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Impaired excitability of somatostatin- and parvalbumin-expressing cortical interneurons in a mouse model of Dravet syndrome. *Proc Natl Acad Sci U S A*. 2014;111(30):E3139-E3148. [DOI](https://doi.org/10.1073/pnas.1411131111)
 
-25. **Jiao J, Yang Y, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Modeling Dravet syndrome using induced pluripotent stem cells (iPSCs) and directly converted neurons. *Hum Mol Genet*. 2013;22(21):4241-4252. DOI: 10.1093/hmg/ddt275
+25. **Jiao J, Yang Y, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Modeling Dravet syndrome using induced pluripotent stem cells (iPSCs) and directly converted neurons. *Hum Mol Genet*. 2013;22(21):4241-4252. [DOI](https://doi.org/10.1093/hmg/ddt275)
 
 ### 13.5 Autres genes et diagnostics differentiels
 
-26. **Patino GA, Claes LR, Lopez-Santiago LF, Bhatt DK, Bhatt DK, Bhatt DK, et al.** A functional null mutation of SCN1B in a patient with Dravet syndrome. *J Neurosci*. 2009;29(34):10764-10778. DOI: 10.1523/JNEUROSCI.2475-09.2009
+26. **Patino GA, Claes LR, Lopez-Santiago LF, Bhatt DK, Bhatt DK, Bhatt DK, et al.** A functional null mutation of SCN1B in a patient with Dravet syndrome. *J Neurosci*. 2009;29(34):10764-10778. [DOI](https://doi.org/10.1523/JNEUROSCI.2475-09.2009)
 
-27. **Depienne C, Bouteiller D, Keren B, Cheuret E, Porier K, Trouillard O, et al.** Sporadic infantile epileptic encephalopathy caused by mutations in PCDH19 resembles Dravet syndrome but mainly affects females. *PLoS Genet*. 2009;5(2):e1000381. DOI: 10.1371/journal.pgen.1000381
+27. **Depienne C, Bouteiller D, Keren B, Cheuret E, Porier K, Trouillard O, et al.** Sporadic infantile epileptic encephalopathy caused by mutations in PCDH19 resembles Dravet syndrome but mainly affects females. *PLoS Genet*. 2009;5(2):e1000381. [DOI](https://doi.org/10.1371/journal.pgen.1000381)
 
-28. **Carvill GL, Weckhuysen S, McMahon JM, Bhatt DK, Bhatt DK, Bhatt DK, et al.** GABRA1 and STXBP1: novel genetic causes of Dravet syndrome. *Neurology*. 2014;82(14):1245-1253. DOI: 10.1212/WNL.0000000000000291
+28. **Carvill GL, Weckhuysen S, McMahon JM, Bhatt DK, Bhatt DK, Bhatt DK, et al.** GABRA1 and STXBP1: novel genetic causes of Dravet syndrome. *Neurology*. 2014;82(14):1245-1253. [DOI](https://doi.org/10.1212/WNL.0000000000000291)
 
-29. **Singh R, Scheffer IE, Crossland K, Berkovic SF.** Generalized epilepsy with febrile seizures plus: a common childhood-onset genetic epilepsy syndrome. *Ann Neurol*. 1999;45(1):75-81.
+29. **Singh R, Scheffer IE, Crossland K, Berkovic SF.** Generalized epilepsy with febrile seizures plus: a common childhood-onset genetic epilepsy syndrome. *Ann Neurol*. 1999;45(1):75-81. [PubMed](https://pubmed.ncbi.nlm.nih.gov/9894880/)
 
 ### 13.6 Reviews et syntheses recentes
 
-30. **Dravet C, Oguni H.** Dravet syndrome (severe myoclonic epilepsy in infancy). *Handb Clin Neurol*. 2013;111:627-633. DOI: 10.1016/B978-0-444-52891-9.00065-8
+30. **Dravet C, Oguni H.** Dravet syndrome (severe myoclonic epilepsy in infancy). *Handb Clin Neurol*. 2013;111:627-633. [DOI](https://doi.org/10.1016/B978-0-444-52891-9.00065-8)
    - Review par Charlotte Dravet elle-meme
 
-31. **Wirrell EC, Laux L, Donner E, Joshi C, Keator C, et al.** Optimizing the diagnosis and management of Dravet syndrome: Recommendations from a North American consensus panel. *Pediatr Neurol*. 2017;68:18-34.e3. DOI: 10.1016/j.pediatrneurol.2017.01.025
+31. **Wirrell EC, Laux L, Donner E, Joshi C, Keator C, et al.** Optimizing the diagnosis and management of Dravet syndrome: Recommendations from a North American consensus panel. *Pediatr Neurol*. 2017;68:18-34.e3. [DOI](https://doi.org/10.1016/j.pediatrneurol.2017.01.025)
 
-32. **Scheffer IE, Berkovic S, Capovilla G, Connolly MB, French J, Guilhoto L, et al.** ILAE classification of the epilepsies: Position paper of the ILAE Commission for Classification and Terminology. *Epilepsia*. 2017;58(4):512-521. DOI: 10.1111/epi.13709
+32. **Scheffer IE, Berkovic S, Capovilla G, Connolly MB, French J, Guilhoto L, et al.** ILAE classification of the epilepsies: Position paper of the ILAE Commission for Classification and Terminology. *Epilepsia*. 2017;58(4):512-521. [DOI](https://doi.org/10.1111/epi.13709)
 
-33. **Brunklaus A, Zuberi SM.** Dravet syndrome -- from epileptic encephalopathy to channelopathy. *Epilepsia*. 2014;55(7):979-984. DOI: 10.1111/epi.12652
+33. **Brunklaus A, Zuberi SM.** Dravet syndrome -- from epileptic encephalopathy to channelopathy. *Epilepsia*. 2014;55(7):979-984. [DOI](https://doi.org/10.1111/epi.12652)
 
-34. **Mei D, Cetica V, Marini C, Guerrini R.** Dravet syndrome as part of the clinical and genetic spectrum of sodium channel epilepsies and encephalopathies. *Epilepsia*. 2019;60 Suppl 3:S2-S7. DOI: 10.1111/epi.16054
+34. **Mei D, Cetica V, Marini C, Guerrini R.** Dravet syndrome as part of the clinical and genetic spectrum of sodium channel epilepsies and encephalopathies. *Epilepsia*. 2019;60 Suppl 3:S2-S7. [DOI](https://doi.org/10.1111/epi.16054)
 
-35. **Steel D, Symonds JD, Zuberi SM, Brunklaus A.** Dravet syndrome and its mimics: Beyond SCN1A. *Epilepsia*. 2017;58(11):1807-1816. DOI: 10.1111/epi.13889
+35. **Steel D, Symonds JD, Zuberi SM, Brunklaus A.** Dravet syndrome and its mimics: Beyond SCN1A. *Epilepsia*. 2017;58(11):1807-1816. [DOI](https://doi.org/10.1111/epi.13889)
 
-36. **Nabbout R, Mistry A, Zuberi SM, Villeneuve N, Gil-Nagel A, Brunklaus A, et al.** Fenfluramine for treatment-resistant seizures in patients with Dravet syndrome receiving stiripentol-inclusive regimens: a randomized clinical trial. *JAMA Neurol*. 2020;77(3):300-308. DOI: 10.1001/jamaneurol.2019.4113
+36. **Nabbout R, Mistry A, Zuberi SM, Villeneuve N, Gil-Nagel A, Brunklaus A, et al.** Fenfluramine for treatment-resistant seizures in patients with Dravet syndrome receiving stiripentol-inclusive regimens: a randomized clinical trial. *JAMA Neurol*. 2020;77(3):300-308. [DOI](https://doi.org/10.1001/jamaneurol.2019.4113)
 
 37. **Sullivan J, Scheffer IE, Bhatt DK, et al.** The clinical spectrum and natural history of SCN1A-related Dravet syndrome. *Epilepsia*. 2022;63:S1-S10.
 
 ### 13.7 Therapies geniques et ASO (references cles)
 
-38. **Colasante G, Lignani G, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** dCas9-based Scn1a gene activation restores inhibitory interneuron excitability and attenuates seizures in Dravet syndrome mice. *Mol Ther*. 2020;28(1):235-253. DOI: 10.1016/j.ymthe.2019.08.018
+38. **Colasante G, Lignani G, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** dCas9-based Scn1a gene activation restores inhibitory interneuron excitability and attenuates seizures in Dravet syndrome mice. *Mol Ther*. 2020;28(1):235-253. [DOI](https://doi.org/10.1016/j.ymthe.2019.08.018)
 
-39. **Han Z, Chen C, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Antisense oligonucleotides increase Scn1a expression and reduce seizures and SUDEP incidence in a mouse model of Dravet syndrome. *Sci Transl Med*. 2020;12(558):eaaz6100. DOI: 10.1126/scitranslmed.aaz6100
+39. **Han Z, Chen C, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Antisense oligonucleotides increase Scn1a expression and reduce seizures and SUDEP incidence in a mouse model of Dravet syndrome. *Sci Transl Med*. 2020;12(558):eaaz6100. [DOI](https://doi.org/10.1126/scitranslmed.aaz6100)
    - Base preclinique pour STK-001
 
-40. **Lenk GM, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Scn8a antisense oligonucleotide is protective in mouse models and is well tolerated in nonhuman primates. *Ann Neurol*. 2020;87(6):947-955.
+40. **Lenk GM, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Scn8a antisense oligonucleotide is protective in mouse models and is well tolerated in nonhuman primates. *Ann Neurol*. 2020;87(6):947-955. [DOI](https://doi.org/10.1002/ana.25676)
 
-41. **Lim KH, Han Z, Jeon HY, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Antisense oligonucleotide modulation of non-productive alternative splicing upregulates gene expression. *Nat Commun*. 2020;11(1):3501. DOI: 10.1038/s41467-020-17093-9
+41. **Lim KH, Han Z, Jeon HY, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Antisense oligonucleotide modulation of non-productive alternative splicing upregulates gene expression. *Nat Commun*. 2020;11(1):3501. [DOI](https://doi.org/10.1038/s41467-020-17093-9)
    - Description de l'approche TANGO utilisee par Stoke Therapeutics
 
-42. **Tanenhaus A, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Cell-selective adeno-associated virus-mediated SCN1A gene regulation therapy rescues mortality and seizures in a Dravet syndrome mouse model. *Hum Gene Ther*. 2022;33(11-12):638-648.
+42. **Tanenhaus A, Bhatt DK, Bhatt DK, Bhatt DK, et al.** Cell-selective adeno-associated virus-mediated SCN1A gene regulation therapy rescues mortality and seizures in a Dravet syndrome mouse model. *Hum Gene Ther*. 2022;33(11-12):638-648. [DOI](https://doi.org/10.1089/hum.2022.037)
 
 ### 13.8 Guides et recommandations
 
-43. **Richards S, Aziz N, Bale S, Bick D, Das S, Gastier-Foster J, et al.** Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology. *Genet Med*. 2015;17(5):405-424. DOI: 10.1038/gim.2015.30
+43. **Richards S, Aziz N, Bale S, Bick D, Das S, Gastier-Foster J, et al.** Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology. *Genet Med*. 2015;17(5):405-424. [DOI](https://doi.org/10.1038/gim.2015.30)
    - Criteres ACMG/AMP pour la classification des variants
 
-44. **Helbig I, Scheffer IE, Mulley JC, Berkovic SF.** Navigating the channels and beyond: unravelling the genetics of the epilepsies. *Lancet Neurol*. 2008;7(3):231-245. DOI: 10.1016/S1474-4422(08)70039-5
+44. **Helbig I, Scheffer IE, Mulley JC, Berkovic SF.** Navigating the channels and beyond: unravelling the genetics of the epilepsies. *Lancet Neurol*. 2008;7(3):231-245. [DOI](https://doi.org/10.1016/S1474-4422(08)70039-5)
 
 45. **HAS (Haute Autorite de Sante).** Protocole National de Diagnostic et de Soins (PNDS) : Epilepsies rares. 2020.
    - Disponible sur le site de la HAS et du CReER
 
-46. **Guerrini R, Aicardi J.** Epileptic encephalopathies with myoclonic seizures in infants and children (severe myoclonic epilepsy and myoclonic-astatic epilepsy). *J Clin Neurophysiol*. 2003;20(6):449-461.
+46. **Guerrini R, Aicardi J.** Epileptic encephalopathies with myoclonic seizures in infants and children (severe myoclonic epilepsy and myoclonic-astatic epilepsy). *J Clin Neurophysiol*. 2003;20(6):449-461. [DOI](https://doi.org/10.1097/00004691-200311000-00007)
 
 ### 13.9 Epidemiologie
 
-47. **Wu YW, Sullivan J, McDaniel SS, Meisler MH, Walsh EM, Li SX, et al.** Incidence of Dravet syndrome in a US population. *Pediatrics*. 2015;136(5):e1310-e1315. DOI: 10.1542/peds.2015-1807
+47. **Wu YW, Sullivan J, McDaniel SS, Meisler MH, Walsh EM, Li SX, et al.** Incidence of Dravet syndrome in a US population. *Pediatrics*. 2015;136(5):e1310-e1315. [DOI](https://doi.org/10.1542/peds.2015-1807)
 
-48. **Bayat A, Hjalgrim H, Moller RS.** The incidence of SCN1A-related Dravet syndrome in Denmark is 1:22,000: a population-based study from 2004 to 2009. *Epilepsia*. 2015;56(4):e36-e39. DOI: 10.1111/epi.12927
+48. **Bayat A, Hjalgrim H, Moller RS.** The incidence of SCN1A-related Dravet syndrome in Denmark is 1:22,000: a population-based study from 2004 to 2009. *Epilepsia*. 2015;56(4):e36-e39. [DOI](https://doi.org/10.1111/epi.12927)
 
-49. **Symonds JD, Zuberi SM, Stewart K, McLellan A, O'Regan M, MacLeod S, et al.** Incidence and phenotypes of childhood-onset genetic epilepsies: a prospective population-based national cohort. *Brain*. 2019;142(8):2303-2318. DOI: 10.1093/brain/awz195
+49. **Symonds JD, Zuberi SM, Stewart K, McLellan A, O'Regan M, MacLeod S, et al.** Incidence and phenotypes of childhood-onset genetic epilepsies: a prospective population-based national cohort. *Brain*. 2019;142(8):2303-2318. [DOI](https://doi.org/10.1093/brain/awz195)
 
 ---
 

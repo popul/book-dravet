@@ -664,16 +664,16 @@ La sante mentale des aidants est etroitement liee a celle des patients :
 
 ### 12.1 Articles fondateurs sur l'adulte Dravet
 
-1. **Dravet C.** "The core Dravet syndrome phenotype." *Epilepsia*. 2011;52 Suppl 2:3-9. PMID: 21463272.
+1. **Dravet C.** "The core Dravet syndrome phenotype." *Epilepsia*. 2011;52 Suppl 2:3-9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21463272/)
    - *Synthese par Charlotte Dravet elle-meme de l'evolution a long terme, incluant les donnees sur l'age adulte.*
 
-2. **Genton P, Velizarova R, Dravet C.** "Dravet syndrome: the long-term outcome." *Epilepsia*. 2011;52 Suppl 2:44-49. PMID: 21463279.
+2. **Genton P, Velizarova R, Dravet C.** "Dravet syndrome: the long-term outcome." *Epilepsia*. 2011;52 Suppl 2:44-49. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21463279/)
    - *Etude de cohorte de 24 adultes suivis au Centre Saint-Paul, Marseille. Premiere description detaillee du devenir adulte.*
 
-3. **Catarino CB, Liu JY, Liagkouras I, et al.** "Dravet syndrome as epileptic encephalopathy: evidence from long-term course and neuropathology." *Brain*. 2011;134(Pt 10):2982-3010. PMID: 21903728.
+3. **Catarino CB, Liu JY, Liagkouras I, et al.** "Dravet syndrome as epileptic encephalopathy: evidence from long-term course and neuropathology." *Brain*. 2011;134(Pt 10):2982-3010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21903728/)
    - *Analyse detaillee de 22 adultes incluant donnees neuropathologiques.*
 
-4. **Akiyama M, Kobayashi K, Yoshinaga H, Ohtsuka Y.** "A long-term follow-up study of Dravet syndrome up to adulthood." *Epilepsia*. 2010;51(6):1043-1052. PMID: 20096822.
+4. **Akiyama M, Kobayashi K, Yoshinaga H, Ohtsuka Y.** "A long-term follow-up study of Dravet syndrome up to adulthood." *Epilepsia*. 2010;51(6):1043-1052. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20096822/)
    - *Suivi longitudinal japonais avec patients jusqu'a 58 ans.*
 
 ### 12.2 Transition de soins
@@ -681,90 +681,90 @@ La sante mentale des aidants est etroitement liee a celle des patients :
 5. **Cross JH, Kluger G, Engel J Jr.** "Transitioning of care in the epilepsies." *Epilepsia*. 2019;60(S3):65-72.
    - *Recommandations ILAE pour la transition, incluant les epilepsies encephalopathiques.*
 
-6. **Camfield P, Camfield C.** "Transition to adult care for children with chronic neurological disorders." *Ann Neurol*. 2011;69(3):437-444. PMID: 21446020.
+6. **Camfield P, Camfield C.** "Transition to adult care for children with chronic neurological disorders." *Ann Neurol*. 2011;69(3):437-444. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21446020/)
    - *Revue sur la transition des epilepsies pediatriques complexes.*
 
-7. **Nabbout R, Andrade DM, Bahi-Buisson N, et al.** "Outcome of childhood-onset epilepsy from adolescence to adulthood: Transition issues." *Epilepsy Behav*. 2017;69:161-169.
+7. **Nabbout R, Andrade DM, Bahi-Buisson N, et al.** "Outcome of childhood-onset epilepsy from adolescence to adulthood: Transition issues." *Epilepsy Behav*. 2017;69:161-169. [DOI](https://doi.org/10.1016/j.yebeh.2016.11.010) | PMID: 28256379
    - *Consensus d'experts europeens sur la transition dans les epilepsies rares, avec recommandations specifiques au Dravet.*
 
 ### 12.3 Mortalite et SUDEP
 
-8. **Cooper MS, McIntosh A, Crompton DE, et al.** "Mortality in Dravet syndrome." *Epilepsy Res*. 2016;128:43-47. PMID: 27810515.
+8. **Cooper MS, McIntosh A, Crompton DE, et al.** "Mortality in Dravet syndrome." *Epilepsy Res*. 2016;128:43-47. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27810515/)
    - *Meta-analyse de la mortalite : taux cumule de 10-20% a 20 ans.*
 
-9. **Shmuely S, Sisodiya SM, Gunning WB, Sander JW, Thijs RD.** "Mortality in Dravet syndrome: A review." *Epilepsy Behav*. 2016;64(Pt A):69-74. PMID: 27732916.
+9. **Shmuely S, Sisodiya SM, Gunning WB, Sander JW, Thijs RD.** "Mortality in Dravet syndrome: A review." *Epilepsy Behav*. 2016;64(Pt A):69-74. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27732916/)
    - *Analyse de 100 deces rapportes, identification de la SUDEP comme cause principale (49%).*
 
-10. **Kalume F, Westenbroek RE, Bhatt DK, et al.** "A mouse model of Dravet syndrome reveals roles for Nav1.1 in SUDEP mechanisms." *J Clin Invest*. 2013;123(4):1798-1808.
+10. **Kalume F, Westenbroek RE, Bhatt DK, et al.** "Sudden unexpected death in a mouse model of Dravet syndrome." *J Clin Invest*. 2013;123(4):1798-1808. [DOI](https://doi.org/10.1172/JCI66220) | PMID: 23524966
     - *Mecanismes de SUDEP dans le modele murin Scn1a+/-.*
 
-11. **Sakauchi M, Oguni H, Kato I, et al.** "Retrospective multiinstitutional study of the prevalence of early death in Dravet syndrome." *Epilepsia*. 2011;52(6):1144-1149. PMID: 21569017.
+11. **Sakauchi M, Oguni H, Kato I, et al.** "Retrospective multiinstitutional study of the prevalence of early death in Dravet syndrome." *Epilepsia*. 2011;52(6):1144-1149. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21569017/)
     - *Cohorte japonaise de 144 patients, taux de mortalite de 14.5%.*
 
-12. **Skluzacek JV, Watts KP, Parsy O, et al.** "Dravet syndrome and parent associations: the IDEA League experience with comorbid conditions, mortality, management, adaptation, and grief." *Epilepsia*. 2011;52 Suppl 2:95-101. PMID: 21463290.
+12. **Skluzacek JV, Watts KP, Parsy O, et al.** "Dravet syndrome and parent associations: the IDEA League experience with comorbid conditions, mortality, management, adaptation, and grief." *Epilepsia*. 2011;52 Suppl 2:95-101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21463290/)
     - *Donnees de 833 patients de la Dravet Syndrome Foundation.*
 
-13. **Devinsky O, Hesdorffer DC, Thurman DJ, Lhatoo S, Richerson G.** "Sudden unexpected death in epilepsy: epidemiology, mechanisms, and prevention." *Lancet Neurol*. 2016;15(10):1075-1088. PMID: 27571159.
+13. **Devinsky O, Hesdorffer DC, Thurman DJ, Lhatoo S, Richerson G.** "Sudden unexpected death in epilepsy: epidemiology, mechanisms, and prevention." *Lancet Neurol*. 2016;15(10):1075-1088. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27571159/)
     - *Revue de reference sur la SUDEP, facteurs de risque et mecanismes.*
 
 ### 12.4 Cognition et comportement
 
-14. **Nabbout R, Chemaly N, Chipaux M, et al.** "Encephalopathy in children with Dravet syndrome is not a pure consequence of epilepsy." *Orphanet J Rare Dis*. 2013;8:176.
+14. **Nabbout R, Chemaly N, Chipaux M, et al.** "Encephalopathy in children with Dravet syndrome is not a pure consequence of epilepsy." *Orphanet J Rare Dis*. 2013;8:176. [DOI](https://doi.org/10.1186/1750-1172-8-176) | PMID: 24225340
     - *Trajectoires cognitives : le plateau cognitif est independant de la frequence des crises.*
 
 15. **Brunklaus A, Dorris L, Zuberi SM.** "The diagnosis and management of Dravet syndrome." *Arch Dis Child*. 2012;97(9):825-831.
     - *Correlation genotype-phenotype et prediction du pronostic cognitif.*
 
-16. **Villeneuve N, Laguitton V, Viellard M, et al.** "Cognitive and adaptive evaluation of 21 consecutive patients with Dravet syndrome." *Epilepsy Behav*. 2014;31:143-148.
+16. **Villeneuve N, Laguitton V, Viellard M, et al.** "Cognitive and adaptive evaluation of 21 consecutive patients with Dravet syndrome." *Epilepsy Behav*. 2014;31:143-148. [DOI](https://doi.org/10.1016/j.yebeh.2013.11.021) | PMID: 24412860
     - *Evaluation neuropsychologique detaillee chez des patients adolescents et adultes.*
 
 ### 12.5 Genetique et conseil reproductif
 
-17. **Depienne C, Trouillard O, Gourfinkel-An I, et al.** "Mechanisms for variable expressivity of inherited SCN1A mutations causing Dravet syndrome." *J Med Genet*. 2009;46(11):766-772. PMID: 19578035.
+17. **Depienne C, Trouillard O, Gourfinkel-An I, et al.** "Mechanisms for variable expressivity of inherited SCN1A mutations causing Dravet syndrome." *J Med Genet*. 2009;46(11):766-772. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19578035/)
     - *Mise en evidence du mosaicisme parental dans 7% des cas.*
 
-18. **Myers KA, Johnstone DL, Dyment DA.** "Epilepsy genetics: Current knowledge, applications, and future directions." *Clin Genet*. 2019;95(1):95-111.
+18. **Myers KA, Johnstone DL, Dyment DA.** "Epilepsy genetics: Current knowledge, applications, and future directions." *Clin Genet*. 2019;95(1):95-111. [DOI](https://doi.org/10.1111/cge.13414) | PMID: 29992546
     - *Revue des aspects genetiques du conseil reproductif dans les epilepsies monogeniques.*
 
 ### 12.6 Traitements et grossesse
 
-19. **Tomson T, Battino D, Bonizzoni E, et al.** "Comparative risk of major congenital malformations with eight different antiepileptic drugs: a prospective cohort study of the EURAP registry." *Lancet Neurol*. 2018;17(6):530-538. PMID: 29680205.
+19. **Tomson T, Battino D, Bonizzoni E, et al.** "Comparative risk of major congenital malformations with eight different antiepileptic drugs: a prospective cohort study of the EURAP registry." *Lancet Neurol*. 2018;17(6):530-538. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29680205/)
     - *Donnees du registre EURAP sur la teratogenicite des antiepileptiques.*
 
-20. **Chiron C, Marchand MC, Tran A, et al.** "Stiripentol in severe myoclonic epilepsy in infancy: a randomised placebo-controlled syndrome-dedicated trial." *Lancet*. 2000;356(9242):1638-1642. PMID: 11089822.
+20. **Chiron C, Marchand MC, Tran A, et al.** "Stiripentol in severe myoclonic epilepsy in infancy: a randomised placebo-controlled syndrome-dedicated trial." *Lancet*. 2000;356(9242):1638-1642. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11089822/)
     - *Essai pivotal du stiripentol.*
 
 ### 12.7 Cannabidiol et fenfluramine
 
-21. **Devinsky O, Cross JH, Laux L, et al.** "Trial of Cannabidiol for Drug-Resistant Seizures in the Dravet Syndrome." *N Engl J Med*. 2017;376(21):2011-2020. PMID: 28538134.
+21. **Devinsky O, Cross JH, Laux L, et al.** "Trial of Cannabidiol for Drug-Resistant Seizures in the Dravet Syndrome." *N Engl J Med*. 2017;376(21):2011-2020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28538134/)
     - *Essai GWPCARE1 : reduction de 39% de la frequence des crises.*
 
-22. **Devinsky O, Patel AD, Cross JH, et al.** "Effect of Cannabidiol on Drop Seizures in the Lennox-Gastaut Syndrome." *N Engl J Med*. 2018;378(20):1888-1897.
+22. **Devinsky O, Patel AD, Cross JH, et al.** "Effect of Cannabidiol on Drop Seizures in the Lennox-Gastaut Syndrome." *N Engl J Med*. 2018;378(20):1888-1897. [DOI](https://doi.org/10.1056/NEJMoa1714631) | PMID: 29768152
     - *Donnees complementaires sur le cannabidiol.*
 
-23. **Lagae L, Sullivan J, Knupp K, et al.** "Fenfluramine hydrochloride for the treatment of seizures in Dravet syndrome: a randomised, double-blind, placebo-controlled trial." *Lancet*. 2019;394(10216):2243-2254.
+23. **Lagae L, Sullivan J, Knupp K, et al.** "Fenfluramine hydrochloride for the treatment of seizures in Dravet syndrome: a randomised, double-blind, placebo-controlled trial." *Lancet*. 2019;394(10216):2243-2254. [DOI](https://doi.org/10.1016/S0140-6736(19)32500-0) | PMID: 31862249
     - *Essai pivot de la fenfluramine dans le syndrome de Dravet.*
 
 ### 12.8 Qualite de vie et impact psychosocial
 
-24. **Lagae L, Brambilla I, Mingorance A, Gibson E, Battersby A.** "Quality of life and comorbidities associated with Dravet syndrome severity: a multinational cohort survey." *Dev Med Child Neurol*. 2018;60(1):63-72.
+24. **Lagae L, Brambilla I, Mingorance A, Gibson E, Battersby A.** "Quality of life and comorbidities associated with Dravet syndrome severity: a multinational cohort survey." *Dev Med Child Neurol*. 2018;60(1):63-72. [DOI](https://doi.org/10.1111/dmcn.13591) | PMID: 28984349
     - *Enquete europeenne sur la qualite de vie, incluant des adultes.*
 
-25. **Campbell JD, Whittington MD, Kim CH, et al.** "Assessing the impact of caring for a child with Dravet syndrome: Results of a caregiver survey." *Epilepsy Behav*. 2018;80:152-156.
+25. **Campbell JD, Whittington MD, Kim CH, et al.** "Assessing the impact of caring for a child with Dravet syndrome: Results of a caregiver survey." *Epilepsy Behav*. 2018;80:152-156. [DOI](https://doi.org/10.1016/j.yebeh.2018.01.003) | PMID: 29414545
     - *Impact sur les aidants familiaux.*
 
-26. **Brunklaus A, Schorge S, Smith AD, et al.** "SCN1A variants from bench to bedside - improved clinical interpretation." *Hum Mutat*. 2020;41(2):363-374.
+26. **Brunklaus A, Schorge S, Smith AD, et al.** "SCN1A variants from bench to bedside - improved clinical prediction from functional characterization." *Hum Mutat*. 2020;41(2):363-374. [DOI](https://doi.org/10.1002/humu.23943) | PMID: 31782251
     - *Donnees phenotypiques de la cohorte internationale.*
 
 ### 12.9 Effets osseux et metaboliques
 
-27. **Vestergaard P.** "Epilepsy, osteoporosis and fracture risk - a meta-analysis." *Acta Neurol Scand*. 2005;112(5):277-286.
+27. **Vestergaard P.** "Epilepsy, osteoporosis and fracture risk - a meta-analysis." *Acta Neurol Scand*. 2005;112(5):277-286. [DOI](https://doi.org/10.1111/j.1600-0404.2005.00474.x) | PMID: 16218908
     - *Meta-analyse sur le risque fracturaire sous antiepileptiques.*
 
-28. **Pack AM, Morrell MJ, Marcus R, et al.** "Bone mass and turnover in women with epilepsy on antiepileptic drug monotherapy." *Ann Neurol*. 2005;57(2):252-257.
+28. **Pack AM, Morrell MJ, Marcus R, et al.** "Bone mass and turnover in women with epilepsy on antiepileptic drug monotherapy." *Ann Neurol*. 2005;57(2):252-257. [DOI](https://doi.org/10.1002/ana.20378) | PMID: 15668966
     - *Prevalence de l'osteopenie et de l'osteoporose chez les patients epileptiques.*
 
-29. **Verrotti A, Mencaroni E, Cofini M, et al.** "Valproic acid metabolism and its consequences on sexual functions." *Curr Drug Metab*. 2016;17(6):573-581.
+29. **Verrotti A, Mencaroni E, Cofini M, et al.** "Valproic acid metabolism and its consequences on sexual functions." *Curr Drug Metab*. 2016;17(6):573-581. [DOI](https://doi.org/10.2174/1389200217666160322143504) | PMID: 27000076
     - *Revue des effets endocriniens et metaboliques du valproate.*
 
 ### 12.10 Sante mentale

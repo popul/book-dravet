@@ -547,43 +547,43 @@ Ce modele est soutenu par les donnees des modeles murins conditionnels montrant 
 
 ### Retard neurodeveloppemental et cognition
 
-1. Wolff M, Casse-Perrot C, Dravet C. Severe myoclonic epilepsy of infants (Dravet syndrome): natural history and neuropsychological findings. *Epilepsia*. 2006;47 Suppl 2:45-48. PMID: 17105460.
+1. Wolff M, Casse-Perrot C, Dravet C. Severe myoclonic epilepsy of infants (Dravet syndrome): natural history and neuropsychological findings. *Epilepsia*. 2006;47 Suppl 2:45-48. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17105460/)
 
-2. Ragona F, Brazzo D, De Giorgi I, et al. Dravet syndrome: early clinical manifestations and cognitive outcome in 37 Italian patients. *Brain Dev*. 2010;32(1):71-77. PMID: 19783107.
+2. Ragona F, Brazzo D, De Giorgi I, et al. Dravet syndrome: early clinical manifestations and cognitive outcome in 37 Italian patients. *Brain Dev*. 2010;32(1):71-77. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19783107/)
 
-3. Brunklaus A, Dorris L, Ellis R, et al. The clinical utility of an SCN1A genetic diagnosis in infantile-onset epilepsy. *Dev Med Child Neurol*. 2013;55(2):154-161. PMID: 23163896.
+3. Brunklaus A, Dorris L, Ellis R, et al. The clinical utility of an SCN1A genetic diagnosis in infantile-onset epilepsy. *Dev Med Child Neurol*. 2013;55(2):154-161. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23163896/)
 
-4. Nabbout R, Chemaly N, Chipaux M, et al. Encephalopathy in children with Dravet syndrome is not a pure consequence of epilepsy. *Orphanet J Rare Dis*. 2013;8:176. PMID: 24225340.
+4. Nabbout R, Chemaly N, Chipaux M, et al. Encephalopathy in children with Dravet syndrome is not a pure consequence of epilepsy. *Orphanet J Rare Dis*. 2013;8:176. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24225340/)
 
-5. Genton P, Velizarova R, Dravet C. Dravet syndrome: the long-term outcome. *Epilepsia*. 2011;52 Suppl 2:44-49. PMID: 21463279.
+5. Genton P, Velizarova R, Dravet C. Dravet syndrome: the long-term outcome. *Epilepsia*. 2011;52 Suppl 2:44-49. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21463279/)
 
-6. Chieffo D, Battaglia D, Lettori D, et al. Neuropsychological development in children with Dravet syndrome. *Epilepsy Res*. 2011;95(1-2):86-93. PMID: 21530185.
+6. Chieffo D, Battaglia D, Lettori D, et al. Neuropsychological development in children with Dravet syndrome. *Epilepsy Res*. 2011;95(1-2):86-93. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21530185/)
 
-7. Catarino CB, Liu JY, Liagkouras I, et al. Dravet syndrome as epileptic encephalopathy: evidence from long-term course and neuropathology. *Brain*. 2011;134(Pt 10):2982-3010. PMID: 21903728.
+7. Catarino CB, Liu JY, Liagkouras I, et al. Dravet syndrome as epileptic encephalopathy: evidence from long-term course and neuropathology. *Brain*. 2011;134(Pt 10):2982-3010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21903728/)
 
-8. Licheni SH, McMahon JM, Schneider AL, et al. Sleep problems in Dravet syndrome: a modifiable comorbidity. *Dev Med Child Neurol*. 2018;60(9):936-940. PMID: 29806694.
+8. Licheni SH, McMahon JM, Schneider AL, et al. Sleep problems in Dravet syndrome: a modifiable comorbidity. *Dev Med Child Neurol*. 2018;60(9):936-940. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29806694/)
 
-9. Wirrell EC, Laux L, Donner E, et al. Optimizing the diagnosis and management of Dravet syndrome: recommendations from a North American consensus panel. *Pediatr Neurol*. 2017;68:18-34.e3. PMID: 28284397.
+9. Wirrell EC, Laux L, Donner E, et al. Optimizing the diagnosis and management of Dravet syndrome: recommendations from a North American consensus panel. *Pediatr Neurol*. 2017;68:18-34.e3. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28284397/)
 
 10. Chipaux M, Szurhaj W, Ferrand-Sorbets S, et al. Factors influencing outcome in children with Dravet syndrome. *Epilepsia*. 2010;51(Suppl. 4):90.
 
 ### Troubles du spectre autistique
 
-11. Li BM, Liu XR, Yi YH, et al. Autism in Dravet syndrome: prevalence, features, and relationship to the clinical characteristics of epilepsy and mental retardation. *Epilepsy Behav*. 2011;21(3):291-295. PMID: 21620773.
+11. Li BM, Liu XR, Yi YH, et al. Autism in Dravet syndrome: prevalence, features, and relationship to the clinical characteristics of epilepsy and mental retardation. *Epilepsy Behav*. 2011;21(3):291-295. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21620773/)
 
-12. Berkvens JJ, Vos PJ, van den Broek FA, et al. Autism and behavior in adult patients with Dravet syndrome (DS). *Epilepsy Behav*. 2015;47:11-16. PMID: 25913752.
+12. Berkvens JJ, Vos PJ, van den Broek FA, et al. Autism and behavior in adult patients with Dravet syndrome (DS). *Epilepsy Behav*. 2015;47:11-16. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25913752/)
 
-13. Han S, Bhatt DK, et al. Autistic-like behaviour in Scn1a+/- mice and rescue by enhanced GABA-mediated neurotransmission. *Nature*. 2012;489(7416):385-390. PMID: 22914087.
+13. Han S, Bhatt DK, et al. Autistic-like behaviour in Scn1a+/- mice and rescue by enhanced GABA-mediated neurotransmission. *Nature*. 2012;489(7416):385-390. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22914087/)
 
-14. Villeneuve N, Laguitton V, Viellard M, et al. Cognitive and adaptive evaluation of 21 consecutive patients with Dravet syndrome. *Epilepsy Behav*. 2014;31:143-148. PMID: 24389024.
+14. Villeneuve N, Laguitton V, Viellard M, et al. Cognitive and adaptive evaluation of 21 consecutive patients with Dravet syndrome. *Epilepsy Behav*. 2014;31:143-148. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24389024/)
 
-15. Spurling Jeste S, Tuchman R. Autism spectrum disorder and epilepsy: two sides of the same coin? *J Child Neurol*. 2015;30(14):1963-1971. PMID: 26350728.
+15. Spurling Jeste S, Tuchman R. Autism spectrum disorder and epilepsy: two sides of the same coin? *J Child Neurol*. 2015;30(14):1963-1971. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26350728/)
 
-16. Gogolla N, LeBlanc JJ, Bhatt DK, et al. Common circuit defect of excitatory-inhibitory balance in mouse models of autism. *J Neurodev Disord*. 2009;1(2):172-181. PMID: 20664807.
+16. Gogolla N, LeBlanc JJ, Bhatt DK, et al. Common circuit defect of excitatory-inhibitory balance in mouse models of autism. *J Neurodev Disord*. 2009;1(2):172-181. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20664807/)
 
-17. Rubenstein JLR, Merzenich MM. Model of autism: increased ratio of excitation/inhibition in key neural systems. *Genes Brain Behav*. 2003;2(5):255-267. PMID: 14606691.
+17. Rubenstein JLR, Merzenich MM. Model of autism: increased ratio of excitation/inhibition in key neural systems. *Genes Brain Behav*. 2003;2(5):255-267. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14606691/)
 
-18. Lagae L, Brambilla I, Mingorance A, et al. Quality of life and comorbidities associated with Dravet syndrome severity: a multinational cohort survey. *Dev Med Child Neurol*. 2018;60(1):63-72. PMID: 28990196.
+18. Lagae L, Brambilla I, Mingorance A, et al. Quality of life and comorbidities associated with Dravet syndrome severity: a multinational cohort survey. *Dev Med Child Neurol*. 2018;60(1):63-72. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28990196/)
 
 ### TDAH et troubles de l'attention
 
@@ -595,57 +595,57 @@ Ce modele est soutenu par les donnees des modeles murins conditionnels montrant 
 
 ### Troubles moteurs et ataxie
 
-22. Rodda JM, Scheffer IE, McMahon JM, et al. Progressive gait deterioration in adolescents with Dravet syndrome. *Arch Neurol*. 2012;69(7):873-878. PMID: 22409937.
+22. Rodda JM, Scheffer IE, McMahon JM, et al. Progressive gait deterioration in adolescents with Dravet syndrome. *Arch Neurol*. 2012;69(7):873-878. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22409937/)
 
 23. Fasano A, Bhatt DK, et al. Gait disorders in Dravet syndrome. *Neurology*. 2014;82:S51.001.
 
-24. Kalume F, Yu FH, Bhatt DK, et al. Reduced sodium current in Purkinje neurons from Nav1.1 mutant mice: implications for ataxia in severe myoclonic epilepsy in infancy. *J Neurosci*. 2007;27(41):11065-11074. PMID: 17928448.
+24. Kalume F, Yu FH, Bhatt DK, et al. Reduced sodium current in Purkinje neurons from Nav1.1 mutant mice: implications for ataxia in severe myoclonic epilepsy in infancy. *J Neurosci*. 2007;27(41):11065-11074. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17928448/)
 
 25. Genton P, Velizarova R, Dravet C. (2011) -- voir ref. 5.
 
-26. Verheyen K, Verbecque E, Ceulemans B, et al. Motor development in patients with Dravet syndrome. *Dev Med Child Neurol*. 2019;61(8):950-956. PMID: 30684280.
+26. Verheyen K, Verbecque E, Ceulemans B, et al. Motor development in patients with Dravet syndrome. *Dev Med Child Neurol*. 2019;61(8):950-956. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30684280/)
 
 ### Troubles du sommeil
 
-27. Kalume F, Oakley JC, Bhatt DK, et al. Sleep impairment and reduced interneuron excitability in a mouse model of Dravet syndrome. *Neurobiol Dis*. 2015;77:141-154. PMID: 25766673.
+27. Kalume F, Oakley JC, Bhatt DK, et al. Sleep impairment and reduced interneuron excitability in a mouse model of Dravet syndrome. *Neurobiol Dis*. 2015;77:141-154. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25766673/)
 
-28. Dhamija R, Eckert S, Wirrell EC. Ketogenic diet. *J Child Neurol*. 2013;28(8):1024-1029.
+28. Dhamija R, Eckert S, Wirrell EC. Ketogenic diet. *Can J Neurol Sci*. 2013;40(2):158-167. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23419562/)
 
 29. Licheni SH, McMahon JM, Schneider AL, et al. (2018) -- voir ref. 8.
 
-30. Nabbout R, Auvin S, Chiron C, et al. Perception of impact of Dravet syndrome on children and caregivers in multiple European countries: result of a real-world survey (DISCUSS). *Epilepsy Behav*. 2019;94:104-111.
+30. Nabbout R, Auvin S, Chiron C, et al. Perception of impact of Dravet syndrome on children and caregivers in multiple countries: looking beyond seizures. *Dev Med Child Neurol*. 2019;61(10):1229-1236. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30828793/)
 
-31. Schoonjans AS, Marchau F, Paelinck BP, et al. Cardiovascular safety of low-dose fenfluramine in Dravet syndrome: a review of its benefit-risk profile in a new patient population. *Curr Med Res Opin*. 2017;33(10):1773-1781.
+31. Schoonjans AS, Marchau F, Paelinck BP, et al. Cardiovascular safety of low-dose fenfluramine in Dravet syndrome: a review of its benefit-risk profile in a new patient population. *Curr Med Res Opin*. 2017;33(10):1773-1781. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28704161/)
 
 ### Troubles du comportement
 
-32. Villas N, Meskis MA, Bhardwaj A. Dravet syndrome: characteristics, comorbidities, and caregiver concerns. *Epilepsy Behav*. 2017;74:81-86. PMID: 28732228.
+32. Villas N, Meskis MA, Bhardwaj A. Dravet syndrome: characteristics, comorbidities, and caregiver concerns. *Epilepsy Behav*. 2017;74:81-86. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28732228/)
 
 33. Nabbout R, Chemaly N, Chipaux M, et al. (2013) -- voir ref. 4.
 
 34. Lagae L, Brambilla I, Mingorance A, et al. (2018) -- voir ref. 18.
 
-35. de Lange IM, Gunning B, Sonsma ACM, et al. Influence of contraindicated medication use on cognitive outcome in Dravet syndrome and age at first afebrile seizure as a clinical predictor. *Epilepsia*. 2018;59(4):842-849. PMID: 29528101.
+35. de Lange IM, Gunning B, Sonsma ACM, et al. Influence of contraindicated medication use on cognitive outcome in Dravet syndrome and age at first afebrile seizure as a clinical predictor. *Epilepsia*. 2018;59(4):842-849. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29528101/)
 
 ### SUDEP
 
-36. Kalume F, Westenbroek RE, Bhatt DK, et al. Sudden unexpected death in a mouse model of Dravet syndrome. *J Clin Invest*. 2013;123(4):1798-1808. PMID: 23524966.
+36. Kalume F, Westenbroek RE, Bhatt DK, et al. Sudden unexpected death in a mouse model of Dravet syndrome. *J Clin Invest*. 2013;123(4):1798-1808. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23524966/)
 
-37. Shmuely S, Sisodiya SM, Gunning WB, et al. Mortality in Dravet syndrome: a review. *Epilepsy Behav*. 2016;64(Pt A):69-74. PMID: 27732919.
+37. Shmuely S, Sisodiya SM, Gunning WB, et al. Mortality in Dravet syndrome: a review. *Epilepsy Behav*. 2016;64(Pt A):69-74. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27732919/)
 
-38. Cooper MS, McIntosh A, Crompton DE, et al. Mortality in Dravet syndrome. *Epilepsy Res*. 2016;128:43-47. PMID: 27810513.
+38. Cooper MS, McIntosh A, Crompton DE, et al. Mortality in Dravet syndrome. *Epilepsy Res*. 2016;128:43-47. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27810513/)
 
-39. Kearney H, Byrne S, Cavalleri GL, et al. Tackling epilepsy with high-definition precision medicine: a review. *JAMA Neurol*. 2019;76(9):1109-1116.
+39. Kearney H, Byrne S, Cavalleri GL, et al. Tackling epilepsy with high-definition precision medicine: a review. *JAMA Neurol*. 2019;76(9):1109-1116. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31380988/)
 
-40. Auerbach DS, Jones J, Bhardwaj A, et al. Altered cardiac electrophysiology and SUDEP in a model of Dravet syndrome. *PLoS ONE*. 2013;8(10):e77843. PMID: 24155979.
+40. Auerbach DS, Jones J, Bhardwaj A, et al. Altered cardiac electrophysiology and SUDEP in a model of Dravet syndrome. *PLoS ONE*. 2013;8(10):e77843. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24155979/)
 
-41. Harden C, Tomson T, Gloss D, et al. Practice guideline summary: sudden unexpected death in epilepsy incidence rates and risk factors. *Neurology*. 2017;88(17):1674-1680. PMID: 28438841.
+41. Harden C, Tomson T, Gloss D, et al. Practice guideline summary: sudden unexpected death in epilepsy incidence rates and risk factors. *Neurology*. 2017;88(17):1674-1680. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28438841/)
 
-42. Skluzacek JV, Watts KP, Parsy O, et al. Dravet syndrome and parent associations: the IDEA League experience with comorbid conditions, mortality, management, adaptation, and grief. *Epilepsia*. 2011;52 Suppl 2:95-101. PMID: 21463290.
+42. Skluzacek JV, Watts KP, Parsy O, et al. Dravet syndrome and parent associations: the IDEA League experience with comorbid conditions, mortality, management, adaptation, and grief. *Epilepsia*. 2011;52 Suppl 2:95-101. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21463290/)
 
-43. Nashef L, So EL, Ryvlin P, Tomson T. Unifying the definitions of sudden unexpected death in epilepsy. *Epilepsia*. 2012;53(2):227-233. PMID: 22191982.
+43. Nashef L, So EL, Ryvlin P, Tomson T. Unifying the definitions of sudden unexpected death in epilepsy. *Epilepsia*. 2012;53(2):227-233. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22191982/)
 
-44. Delogu AB, Spinelli A, et al. Electrical and autonomic cardiac function in patients with Dravet syndrome. *Epilepsia*. 2011;52 Suppl 2:55-58.
+44. Delogu AB, Spinelli A, et al. Electrical and autonomic cardiac function in patients with Dravet syndrome. *Epilepsia*. 2011;52 Suppl 2:55-58. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21463281/)
 
 45. Tupal S, Bhatt DK, et al. Serotonergic mechanisms in a mouse model of SUDEP in Dravet syndrome. *Epilepsia*. 2022;63(S1):abstract.
 
@@ -653,7 +653,7 @@ Ce modele est soutenu par les donnees des modeles murins conditionnels montrant 
 
 46. Lagae L, Brambilla I, Mingorance A, et al. (2018) -- voir ref. 18.
 
-47. Brunklaus A, Zuberi SM. Dravet syndrome -- from epileptic encephalopathy to channelopathy. *Epilepsia*. 2014;55(7):979-984. PMID: 24861491.
+47. Brunklaus A, Zuberi SM. Dravet syndrome -- from epileptic encephalopathy to channelopathy. *Epilepsia*. 2014;55(7):979-984. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24861491/)
 
 48. Nabbout R, Auvin S, Chiron C, et al. (2019) -- voir ref. 30.
 
@@ -661,25 +661,25 @@ Ce modele est soutenu par les donnees des modeles murins conditionnels montrant 
 
 50. Striano P, Auvin S, Bhatt DK, et al. The burden of Dravet syndrome: a systematic literature review. *Epilepsia Open*. 2021;6(4):687-698.
 
-51. Jensen MP, Brunklaus A. Outcome measures for Dravet syndrome clinical trials. *Epilepsy Behav*. 2017;73:132-136.
+51. Jensen MP, Brunklaus A, et al. The humanistic and economic burden of Dravet syndrome on caregivers and families: implications for future research. *Epilepsy Behav*. 2017;70(Pt A):104-109. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28431364/)
 
 ### References complementaires
 
-52. Wu YW, Sullivan J, McDaniel SS, et al. Incidence of Dravet syndrome in a US population. *Pediatrics*. 2015;136(5):e1310-e1315. PMID: 26438699.
+52. Wu YW, Sullivan J, McDaniel SS, et al. Incidence of Dravet syndrome in a US population. *Pediatrics*. 2015;136(5):e1310-e1315. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26438699/)
 
-53. Bayat A, Hjalgrim H, Moller RS. The incidence of SCN1A-related Dravet syndrome in Denmark is 1:22,000: a population-based study from 2004 to 2009. *Epilepsia*. 2015;56(4):e36-e39. PMID: 25851171.
+53. Bayat A, Hjalgrim H, Moller RS. The incidence of SCN1A-related Dravet syndrome in Denmark is 1:22,000: a population-based study from 2004 to 2009. *Epilepsia*. 2015;56(4):e36-e39. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25851171/)
 
-54. Ishii A, Watkins JC, Chen D, et al. Clinical implications of SCN1A missense and truncation variants in a large Japanese cohort with Dravet syndrome. *Epilepsia*. 2017;58(2):282-290. PMID: 28012174.
+54. Ishii A, Watkins JC, Chen D, et al. Clinical implications of SCN1A missense and truncation variants in a large Japanese cohort with Dravet syndrome. *Epilepsia*. 2017;58(2):282-290. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28012174/)
 
-55. Dravet C. The core Dravet syndrome phenotype. *Epilepsia*. 2011;52 Suppl 2:3-9. PMID: 21463272.
+55. Dravet C. The core Dravet syndrome phenotype. *Epilepsia*. 2011;52 Suppl 2:3-9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21463272/)
 
-56. Braam W, Smits MG, Didden R, et al. Exogenous melatonin for sleep problems in individuals with intellectual disability: a meta-analysis. *Dev Med Child Neurol*. 2009;51(5):340-349. PMID: 19379289.
+56. Braam W, Smits MG, Didden R, et al. Exogenous melatonin for sleep problems in individuals with intellectual disability: a meta-analysis. *Dev Med Child Neurol*. 2009;51(5):340-349. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19379289/)
 
-57. Arends J, Thijs RD, Gutter T, et al. Multimodal nocturnal seizure detection in a residential care setting: a long-term prospective trial. *Neurology*. 2018;91(21):e2010-e2019. PMID: 30381367.
+57. Arends J, Thijs RD, Gutter T, et al. Multimodal nocturnal seizure detection in a residential care setting: a long-term prospective trial. *Neurology*. 2018;91(21):e2010-e2019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30381367/)
 
-58. Sullivan J, Scheffer IE, Lagae L, et al. Fenfluramine in the treatment of Dravet syndrome: results of a third randomized, placebo-controlled clinical trial. *Epilepsia*. 2022;63(8):2022-2031.
+58. Sullivan J, Scheffer IE, Lagae L, et al. Fenfluramine in the treatment of Dravet syndrome: results of a third randomized, placebo-controlled clinical trial. *Epilepsia*. 2023;64(10):2653-2666. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37543865/)
 
-59. Han S, Bhatt DK, et al. Enhancement of inhibitory neurotransmission by GABAA receptors having alpha2,3-subunits ameliorates behavioral deficits in a mouse model of autism. *Neuron*. 2014;81(6):1282-1289.
+59. Han S, Tai C, Jones CJ, et al. Enhancement of inhibitory neurotransmission by GABAA receptors having alpha2,3-subunits ameliorates behavioral deficits in a mouse model of autism. *Neuron*. 2014;81(6):1282-1289. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24656250/)
 
 ---
 

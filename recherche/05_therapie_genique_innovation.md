@@ -89,7 +89,7 @@ STK-001 se lie specifiquement a la region du pre-ARNm entourant cet exon poison 
 
 #### 2.2.3 Developpement clinique
 
-**Essai MONARCH (Phase 1/2a) - NCT04442295**
+**Essai MONARCH (Phase 1/2a) - [NCT04442295](https://clinicaltrials.gov/study/NCT04442295)**
 - **Phase :** 1/2a (dose-escalade, ouvert)
 - **Sponsor :** Stoke Therapeutics
 - **Population :** Patients ages de 2 a 18 ans atteints de syndrome de Dravet avec mutation confirmee SCN1A
@@ -104,7 +104,7 @@ STK-001 se lie specifiquement a la region du pre-ARNm entourant cet exon poison 
 - **Signal d'efficacite :** Reduction mediane de la frequence des crises convulsives observee chez certains patients aux doses superieures
 - Pas de toxicite dose-limitante identifiee dans les cohortes initiales
 
-**Essai SWALLOWTAIL (Phase 2) - NCT05639088**
+**Essai SWALLOWTAIL (Phase 2) - [NCT05639088](https://clinicaltrials.gov/study/NCT05639088)**
 - **Phase :** 2 (randomise, en double aveugle, controle par placebo)
 - **Sponsor :** Stoke Therapeutics
 - **Population :** Patients de 2 a 18 ans avec syndrome de Dravet, mutation SCN1A confirmee
@@ -113,7 +113,7 @@ STK-001 se lie specifiquement a la region du pre-ARNm entourant cet exon poison 
 - **Critere principal :** Variation en pourcentage de la frequence des crises convulsives par rapport a la periode de base
 - **Statut (mai 2025) :** Recrutement en cours ; resultats intermediaires attendus courant 2025
 
-**Essai LONGWING (Extension ouverte) - NCT05656716**
+**Essai LONGWING (Extension ouverte) - [NCT05656716](https://clinicaltrials.gov/study/NCT05656716)**
 - **Phase :** Extension ouverte a long terme
 - **Objectif :** Evaluer la securite et l'efficacite a long terme de STK-001
 - **Statut :** En cours ; tous les patients ayant complete MONARCH ou SWALLOWTAIL sont eligibles
@@ -209,7 +209,7 @@ ETX101 utilise un vecteur AAV9 pour delivrer un **facteur de transcription ingen
 
 #### 3.2.4 Developpement clinique
 
-**Essai EMBRAVE (Phase 1/2) - NCT05696639**
+**Essai EMBRAVE (Phase 1/2) - [NCT05696639](https://clinicaltrials.gov/study/NCT05696639)**
 - **Phase :** 1/2 (dose-escalade, ouvert)
 - **Sponsor :** Neurocrine Biosciences
 - **Population :** Enfants ages de 2 a 18 ans avec syndrome de Dravet et mutation SCN1A confirmee
@@ -476,10 +476,10 @@ La diversite des mutations SCN1A (>1 800 variants) implique une heterogeneite da
 
 | Intervention | Identifiant | Phase | Sponsor | Statut | Population | Voie admin. |
 |---|---|---|---|---|---|---|
-| **STK-001** (ASO TANGO) | NCT04442295 (MONARCH) | 1/2a | Stoke Therapeutics | Completee / Suivi en cours | 2-18 ans, Dravet SCN1A+ | Intrathequale |
-| **STK-001** (ASO TANGO) | NCT05639088 (SWALLOWTAIL) | 2 | Stoke Therapeutics | Recrutement en cours | 2-18 ans, Dravet SCN1A+ | Intrathequale |
-| **STK-001** (ASO TANGO) | NCT05656716 (LONGWING) | Extension OL | Stoke Therapeutics | En cours | Completeurs MONARCH/SWALLOWTAIL | Intrathequale |
-| **ETX101** (AAV9-eTF) | NCT05696639 (EMBRAVE) | 1/2 | Neurocrine Biosciences | Recrutement en cours | 2-18 ans, Dravet SCN1A+ | ICV |
+| **STK-001** (ASO TANGO) | [NCT04442295](https://clinicaltrials.gov/study/NCT04442295) (MONARCH) | 1/2a | Stoke Therapeutics | Completee / Suivi en cours | 2-18 ans, Dravet SCN1A+ | Intrathequale |
+| **STK-001** (ASO TANGO) | [NCT05639088](https://clinicaltrials.gov/study/NCT05639088) (SWALLOWTAIL) | 2 | Stoke Therapeutics | Recrutement en cours | 2-18 ans, Dravet SCN1A+ | Intrathequale |
+| **STK-001** (ASO TANGO) | [NCT05656716](https://clinicaltrials.gov/study/NCT05656716) (LONGWING) | Extension OL | Stoke Therapeutics | En cours | Completeurs MONARCH/SWALLOWTAIL | Intrathequale |
+| **ETX101** (AAV9-eTF) | [NCT05696639](https://clinicaltrials.gov/study/NCT05696639) (EMBRAVE) | 1/2 | Neurocrine Biosciences | Recrutement en cours | 2-18 ans, Dravet SCN1A+ | ICV |
 
 [A VERIFIER/ACTUALISER : Nouveaux essais enregistres sur ClinicalTrials.gov apres mai 2025]
 
@@ -608,17 +608,17 @@ La diversite des mutations SCN1A (>1 800 variants) implique une heterogeneite da
 
 ### 10.1 Publications fondatrices
 
-1. Claes L, Del-Favero J, Ceulemans B, Lagae L, Van Broeckhoven C, De Jonghe P. "De novo mutations in the sodium-channel gene SCN1A cause severe myoclonic epilepsy of infancy." *American Journal of Human Genetics*. 2001;68(6):1327-1332. PMID: 11359211.
+1. Claes L, Del-Favero J, Ceulemans B, Lagae L, Van Broeckhoven C, De Jonghe P. "De novo mutations in the sodium-channel gene SCN1A cause severe myoclonic epilepsy of infancy." *American Journal of Human Genetics*. 2001;68(6):1327-1332. PMID: 11359211. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11359211/)
 
-2. Yu FH, Mantegazza M, Bhatt D, et al. "Reduced sodium current in GABAergic interneurons in a mouse model of severe myoclonic epilepsy in infancy." *Nature Neuroscience*. 2006;9(9):1142-1149. PMID: 16921370.
+2. Yu FH, Mantegazza M, Bhatt D, et al. "Reduced sodium current in GABAergic interneurons in a mouse model of severe myoclonic epilepsy in infancy." *Nature Neuroscience*. 2006;9(9):1142-1149. PMID: 16921370. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16921370/)
 
-3. Ogiwara I, Miyamoto H, Morita N, et al. "Nav1.1 localizes to axons of parvalbumin-positive inhibitory interneurons: a circuit basis for epileptic seizures in mice carrying an Scn1a gene mutation." *Journal of Neuroscience*. 2007;27(22):5903-5914. PMID: 17537961.
+3. Ogiwara I, Miyamoto H, Morita N, et al. "Nav1.1 localizes to axons of parvalbumin-positive inhibitory interneurons: a circuit basis for epileptic seizures in mice carrying an Scn1a gene mutation." *Journal of Neuroscience*. 2007;27(22):5903-5914. PMID: 17537961. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17537961/)
 
 ### 10.2 Oligonucleotides antisens (ASO) / TANGO
 
-4. Han Z, Chen C, Christiansen A, et al. "Antisense oligonucleotides increase Scn1a expression and reduce seizures and SUDEP incidence in a mouse model of Dravet syndrome." *Science Translational Medicine*. 2020;12(558):eaaz6100. PMID: 32848094.
+4. Han Z, Chen C, Christiansen A, et al. "Antisense oligonucleotides increase Scn1a expression and reduce seizures and SUDEP incidence in a mouse model of Dravet syndrome." *Science Translational Medicine*. 2020;12(558):eaaz6100. PMID: 32848094. [DOI](https://doi.org/10.1126/scitranslmed.aaz6100)
 
-5. Lim KH, Han Z, Jeon HY, et al. "Antisense oligonucleotide modulation of non-productive alternative splicing upregulates gene expression." *Nature Communications*. 2020;11(1):3501. PMID: 32647113.
+5. Lim KH, Han Z, Jeon HY, et al. "Antisense oligonucleotide modulation of non-productive alternative splicing upregulates gene expression." *Nature Communications*. 2020;11(1):3501. PMID: 32647113. [DOI](https://doi.org/10.1038/s41467-020-17093-9)
 
 6. Lenk GM, Bhatt S, et al. "STK-001, an antisense oligonucleotide targeting SCN1A, demonstrates dose-dependent increases in SCN1A mRNA and NaV1.1 protein in mouse brain." *Poster, American Epilepsy Society Annual Meeting*. 2020.
 
@@ -626,7 +626,7 @@ La diversite des mutations SCN1A (>1 800 variants) implique une heterogeneite da
 
 ### 10.3 Therapie genique AAV (ETX101)
 
-8. Colasante G, Lignani G, Bhatt S, et al. "dCas9-Based Scn1a Gene Activation Restores Inhibitory Interneuron Excitability and Attenuates Seizures in Dravet Syndrome Mice." *Molecular Therapy*. 2020;28(1):235-253. PMID: 31607539.
+8. Colasante G, Lignani G, Bhatt S, et al. "dCas9-Based Scn1a Gene Activation Restores Inhibitory Interneuron Excitability and Attenuates Seizures in Dravet Syndrome Mice." *Molecular Therapy*. 2020;28(1):235-253. PMID: 31607539. [DOI](https://doi.org/10.1016/j.ymthe.2019.08.018)
 
 9. Tanenhaus A, Bhatt S, et al. "Cell-type-specific gene therapy approach for Dravet syndrome using an engineered transcription factor." *Poster, American Society of Gene & Cell Therapy Annual Meeting*. 2021.
 
@@ -634,27 +634,27 @@ La diversite des mutations SCN1A (>1 800 variants) implique une heterogeneite da
 
 ### 10.4 CRISPR et edition genomique
 
-11. Yamagata T, Ogiwara I, Mazaki E, et al. "CRISPR/dCas9-based Scn1a gene activation in inhibitory neurons ameliorates epileptic and behavioral phenotypes of Dravet syndrome model mice." *Neurobiology of Disease*. 2020;141:104954. PMID: 32442679.
+11. Yamagata T, Ogiwara I, Mazaki E, et al. "CRISPR/dCas9-based Scn1a gene activation in inhibitory neurons ameliorates epileptic and behavioral phenotypes of Dravet syndrome model mice." *Neurobiology of Disease*. 2020;141:104954. PMID: 32442679. [DOI](https://doi.org/10.1016/j.nbd.2020.104954)
 
-12. Colasante G, Qiu Y, Bhatt S, et al. "In vivo CRISPRa decreases seizures and rescues cognitive deficits in a rodent model of epilepsy." *Brain*. 2020;143(3):891-905. PMID: 32129831.
+12. Colasante G, Qiu Y, Bhatt S, et al. "In vivo CRISPRa decreases seizures and rescues cognitive deficits in a rodent model of epilepsy." *Brain*. 2020;143(3):891-905. PMID: 32129831. [DOI](https://doi.org/10.1093/brain/awaa045)
 
 13. Dong X, et al. "Optimized CRISPRa systems for Scn1a activation in Dravet syndrome models." *Molecular Therapy - Nucleic Acids*. 2022.
 
 ### 10.5 Biomarqueurs et medecine de precision
 
-14. Brunklaus A, Ellis R, Reavey E, et al. "Prognostic, clinical and demographic features in SCN1A mutation-positive Dravet syndrome." *Brain*. 2012;135(8):2329-2336. PMID: 22719002.
+14. Brunklaus A, Ellis R, Reavey E, et al. "Prognostic, clinical and demographic features in SCN1A mutation-positive Dravet syndrome." *Brain*. 2012;135(8):2329-2336. PMID: 22719002. [DOI](https://doi.org/10.1093/brain/aws151)
 
-15. Wirrell EC, Laux L, Donner E, et al. "Optimizing the Diagnosis and Management of Dravet Syndrome: Recommendations From a North American Consensus Panel." *Pediatric Neurology*. 2017;68:18-34.e3. PMID: 28284397.
+15. Wirrell EC, Laux L, Donner E, et al. "Optimizing the Diagnosis and Management of Dravet Syndrome: Recommendations From a North American Consensus Panel." *Pediatric Neurology*. 2017;68:18-34.e3. PMID: 28284397. [DOI](https://doi.org/10.1016/j.pediatrneurol.2016.11.017)
 
 16. Nouri MN, Zuberi SM, et al. "Serum neurofilament light chain as a biomarker in Dravet syndrome." *Epilepsia*. 2022;63(11):2891-2901.
 
-17. Steel D, Symonds JD, Zuberi SM, Brunklaus A. "Dravet syndrome and its mimics: Beyond SCN1A." *Epilepsia*. 2017;58(11):1807-1816. PMID: 28944449.
+17. Steel D, Symonds JD, Zuberi SM, Brunklaus A. "Dravet syndrome and its mimics: Beyond SCN1A." *Epilepsia*. 2017;58(11):1807-1816. PMID: 28944449. [DOI](https://doi.org/10.1111/epi.13889)
 
 ### 10.6 Revues generales et perspectives
 
 18. Guerrini R, Dravet C, Genton P, et al. "Dravet syndrome and SCN1A gene mutation related-epilepsies." *Revue Neurologique*. 2011;167(5):372-383.
 
-19. Dravet C. "The core Dravet syndrome phenotype." *Epilepsia*. 2011;52 Suppl 2:3-9. PMID: 21463272.
+19. Dravet C. "The core Dravet syndrome phenotype." *Epilepsia*. 2011;52 Suppl 2:3-9. PMID: 21463272. [DOI](https://doi.org/10.1111/j.1528-1167.2011.02952.x)
 
 20. Wirrell EC, Hood V, Shah SS, et al. "Looking toward the future of Dravet syndrome: gene therapy." *Epilepsia*. 2022;63 Suppl 1:S22-S33.
 
@@ -664,10 +664,10 @@ La diversite des mutations SCN1A (>1 800 variants) implique une heterogeneite da
 
 ### 10.7 Registres d'essais cliniques
 
-23. ClinicalTrials.gov. NCT04442295 -- "A Study to Evaluate STK-001 in Patients With Dravet Syndrome (MONARCH)."
-24. ClinicalTrials.gov. NCT05639088 -- "A Study to Evaluate the Efficacy and Safety of STK-001 in Patients With Dravet Syndrome (SWALLOWTAIL)."
-25. ClinicalTrials.gov. NCT05656716 -- "An Open-Label Extension Study of STK-001 in Patients With Dravet Syndrome (LONGWING)."
-26. ClinicalTrials.gov. NCT05696639 -- "A Study to Evaluate the Safety and Efficacy of ETX101 in Participants With Dravet Syndrome (EMBRAVE)."
+23. ClinicalTrials.gov. NCT04442295 -- "A Study to Evaluate STK-001 in Patients With Dravet Syndrome (MONARCH)." [ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT04442295)
+24. ClinicalTrials.gov. NCT05639088 -- "A Study to Evaluate the Efficacy and Safety of STK-001 in Patients With Dravet Syndrome (SWALLOWTAIL)." [ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT05639088)
+25. ClinicalTrials.gov. NCT05656716 -- "An Open-Label Extension Study of STK-001 in Patients With Dravet Syndrome (LONGWING)." [ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT05656716)
+26. ClinicalTrials.gov. NCT05696639 -- "A Study to Evaluate the Safety and Efficacy of ETX101 in Participants With Dravet Syndrome (EMBRAVE)." [ClinicalTrials.gov](https://clinicaltrials.gov/study/NCT05696639)
 
 ---
 
