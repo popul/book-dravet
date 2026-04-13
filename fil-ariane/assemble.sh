@@ -37,8 +37,8 @@ pdf_options:
   margin: 20mm
   printBackground: true
   displayHeaderFooter: true
-  headerTemplate: '<div style="font-size:8px;width:100%;text-align:center;color:#999;">Le Fil d'Ariane — Guide d'action adulte Dravet</div>'
-  footerTemplate: '<div style="font-size:8px;width:100%;text-align:center;color:#999;"><span class="pageNumber"></span> / <span class="totalPages"></span></div>'
+  headerTemplate: "<div style=\"font-size:8px;width:100%;text-align:center;color:#999;\">Le Fil d&#39;Ariane</div>"
+  footerTemplate: "<div style=\"font-size:8px;width:100%;text-align:center;color:#999;\"><span class=\"pageNumber\"></span> / <span class=\"totalPages\"></span></div>"
 stylesheet: style.css
 ---
 FRONTMATTER
