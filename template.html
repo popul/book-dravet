@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>$title$</title>
+$for(css)$
+  <link rel="stylesheet" href="$css$">
+$endfor$
+  <style>
+    /* Adaptations web */
+    body { max-width: 900px; margin: 0 auto; padding: 20px; }
+    .title-page { padding-top: 60px; }
+    h1 { page-break-before: unset; }
+    h2 { page-break-before: unset; }
+    nav#TOC { margin-bottom: 40px; border: 1px solid #ddd; padding: 20px; border-radius: 4px; background: #fafafa; }
+    nav#TOC > ul { list-style: none; padding-left: 0; }
+    .download-banner { background: #2c3e50; color: white; padding: 12px 20px; border-radius: 4px; margin-bottom: 30px; text-align: center; }
+    .download-banner a { color: #3498db; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <div class="download-banner">
+    Version PDF disponible dans les <a href="https://github.com/$github-repo$/releases/latest">Releases GitHub</a>
+  </div>
+$body$
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true, theme: 'base',
+      themeVariables: { primaryColor: '#ecf0f1', primaryBorderColor: '#2c3e50', lineColor: '#2c3e50' }
+    });
+  </script>
+</body>
+</html>

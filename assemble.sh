@@ -1,8 +1,52 @@
 #!/bin/bash
-OUTPUT="livre_complet.md"
+#
+# Assemble les chapitres en un seul fichier markdown.
+#
+# Usage:
+#   ./assemble.sh                   # sortie PDF (frontmatter md-to-pdf, sans mermaid)
+#   ./assemble.sh --html            # sortie HTML (sans frontmatter, mermaid conservé)
+#   ./assemble.sh --html -o out.md  # idem, fichier de sortie personnalisé
+#
 
-# Garder le frontmatter YAML existant
-# Ajouter la page de titre
+MODE="pdf"
+OUTPUT=""
+
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    --html) MODE="html"; shift ;;
+    -o)     OUTPUT="$2"; shift 2 ;;
+    *)      echo "Option inconnue : $1" >&2; exit 1 ;;
+  esac
+done
+
+# Fichier de sortie par défaut
+if [[ -z "$OUTPUT" ]]; then
+  if [[ "$MODE" == "html" ]]; then
+    OUTPUT="livre_complet_web.md"
+  else
+    OUTPUT="livre_complet.md"
+  fi
+fi
+
+# Frontmatter md-to-pdf (uniquement pour le PDF)
+if [[ "$MODE" == "pdf" ]]; then
+  cat > "$OUTPUT" << 'FRONTMATTER'
+---
+pdf_options:
+  format: A4
+  margin: 20mm
+  printBackground: true
+  displayHeaderFooter: true
+  headerTemplate: '<div style="font-size:8px;width:100%;text-align:center;color:#999;">Syndrome de Dravet — Ouvrage de Référence</div>'
+  footerTemplate: '<div style="font-size:8px;width:100%;text-align:center;color:#999;"><span class="pageNumber"></span> / <span class="totalPages"></span></div>'
+stylesheet: style.css
+---
+FRONTMATTER
+else
+  : > "$OUTPUT"
+fi
+
+# Page de titre
 cat >> "$OUTPUT" << 'EOF'
 
 <div class="title-page">
@@ -89,9 +133,13 @@ FILES=(
 
 for f in "${FILES[@]}"; do
   echo "" >> "$OUTPUT"
-  # Supprimer les blocs mermaid (ne seront pas rendus en PDF)
-  sed '/^```mermaid$/,/^```$/d' "$f" >> "$OUTPUT"
+  if [[ "$MODE" == "pdf" ]]; then
+    # Supprimer les blocs mermaid (non rendus en PDF)
+    sed '/^```mermaid$/,/^```$/d' "$f" >> "$OUTPUT"
+  else
+    cat "$f" >> "$OUTPUT"
+  fi
   echo "" >> "$OUTPUT"
 done
 
-echo "Assemblage terminé: $(wc -l < "$OUTPUT") lignes"
+echo "Assemblage terminé ($MODE): $(wc -l < "$OUTPUT") lignes -> $OUTPUT"
