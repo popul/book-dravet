@@ -29,11 +29,11 @@ html-fil-ariane:
 ## --- Les deux en HTML (pour GitHub Pages) ---
 
 html: html-livre html-fil-ariane
-	@mkdir -p _site
-	@cp -r livre/_site/* _site/ 2>/dev/null || true
-	@cp fil-ariane/_site/index.html _site/fil-ariane.html 2>/dev/null || true
-	@cp fil-ariane/style.css _site/fil-ariane-style.css 2>/dev/null || true
-	@echo "=> _site/ (livre + fil d'ariane)"
+	@mkdir -p _site/livre _site/fil-ariane
+	@cp index.html _site/
+	@cp -r livre/_site/* _site/livre/ 2>/dev/null || true
+	@cp -r fil-ariane/_site/* _site/fil-ariane/ 2>/dev/null || true
+	@echo "=> _site/ (accueil + livre + fil d'ariane)"
 
 ## --- PDF ---
 
