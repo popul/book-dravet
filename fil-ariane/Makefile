@@ -86,7 +86,7 @@ pdf: check-deps-pdf $(OUTPUT_PDF)
 
 $(OUTPUT_PDF): $(OUTPUT_MD) $(STYLE)
 	@echo "Rendu des diagrammes Mermaid..."
-	@npx --yes -p @mermaid-js/mermaid-cli mmdc -i $(OUTPUT_MD) -o _mermaid_rendered.md --quiet 2>/dev/null || cp $(OUTPUT_MD) _mermaid_rendered.md
+	@npx --yes -p @mermaid-js/mermaid-cli mmdc -i $(OUTPUT_MD) -o _mermaid_rendered.md --quiet -p puppeteer-config.json 2>/dev/null || npx --yes -p @mermaid-js/mermaid-cli mmdc -i $(OUTPUT_MD) -o _mermaid_rendered.md --quiet || cp $(OUTPUT_MD) _mermaid_rendered.md
 	@echo "Generation du PDF..."
 	@npx --yes md-to-pdf _mermaid_rendered.md
 	@mv _mermaid_rendered.pdf $(OUTPUT_PDF)
