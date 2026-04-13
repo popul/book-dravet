@@ -43,6 +43,11 @@ jobs:
         env:
           PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
 
+      - name: Construire le Recueil de recherche
+        run: make -C recherche-recueil md && make -C recherche-recueil pdf
+        env:
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
+
       - name: Uploader les PDF
         uses: actions/upload-artifact@v4
         with:
@@ -51,3 +56,4 @@ jobs:
             livre/livre_complet.pdf
             fil-ariane/fil_ariane_complet.pdf
             guide-equipes/guide_equipes_complet.pdf
+            recherche-recueil/recherche_complet.pdf

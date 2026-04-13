@@ -5,10 +5,10 @@
 #   2. fil-ariane/   — Guide d'action pour l'adulte Dravet en structure
 #
 
-.PHONY: all livre fil-ariane guide-equipes html html-livre html-fil-ariane html-guide-equipes pdf clean deps help
+.PHONY: all livre fil-ariane guide-equipes recherche-recueil html html-livre html-fil-ariane html-guide-equipes html-recherche pdf clean deps help
 
 ## Cible par defaut : tout construire
-all: livre fil-ariane guide-equipes
+all: livre fil-ariane guide-equipes recherche-recueil
 
 ## --- Livre ---
 
@@ -34,19 +34,28 @@ guide-equipes:
 html-guide-equipes:
 	@$(MAKE) -C guide-equipes html
 
-## --- Les trois en HTML (pour GitHub Pages) ---
+## --- Recueil de recherche ---
 
-html: html-livre html-fil-ariane html-guide-equipes
-	@mkdir -p _site/livre _site/fil-ariane _site/guide-equipes
+recherche-recueil:
+	@$(MAKE) -C recherche-recueil pdf
+
+html-recherche:
+	@$(MAKE) -C recherche-recueil html
+
+## --- Les quatre en HTML (pour GitHub Pages) ---
+
+html: html-livre html-fil-ariane html-guide-equipes html-recherche
+	@mkdir -p _site/livre _site/fil-ariane _site/guide-equipes _site/recherche
 	@cp index.html _site/
 	@cp -r livre/_site/* _site/livre/ 2>/dev/null || true
 	@cp -r fil-ariane/_site/* _site/fil-ariane/ 2>/dev/null || true
 	@cp -r guide-equipes/_site/* _site/guide-equipes/ 2>/dev/null || true
-	@echo "=> _site/ (accueil + 3 livrables)"
+	@cp -r recherche-recueil/_site/* _site/recherche/ 2>/dev/null || true
+	@echo "=> _site/ (accueil + 4 livrables)"
 
 ## --- PDF ---
 
-pdf: livre fil-ariane guide-equipes
+pdf: livre fil-ariane guide-equipes recherche-recueil
 
 ## --- Dependances ---
 
@@ -59,6 +68,7 @@ clean:
 	@$(MAKE) -C livre clean
 	@$(MAKE) -C fil-ariane clean
 	@$(MAKE) -C guide-equipes clean
+	@$(MAKE) -C recherche-recueil clean
 	rm -rf _site
 
 ## --- Aide ---
