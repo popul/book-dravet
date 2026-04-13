@@ -86,7 +86,7 @@ pdf: check-deps-pdf $(OUTPUT_PDF)
 
 $(OUTPUT_PDF): $(OUTPUT_MD) $(STYLE)
 	@echo "Rendu des diagrammes Mermaid..."
-	@mmdc -i $(OUTPUT_MD) -o _mermaid_rendered.md --quiet -p $(CURDIR)/puppeteer-config.json 2>/dev/null || mmdc -i $(OUTPUT_MD) -o _mermaid_rendered.md --quiet 2>/dev/null || cp $(OUTPUT_MD) _mermaid_rendered.md
+	@mmdc -i $(OUTPUT_MD) -o _mermaid_rendered.md --quiet -p $(CURDIR)/puppeteer-config.json || mmdc -i $(OUTPUT_MD) -o _mermaid_rendered.md --quiet || (echo "mmdc indisponible, mermaid non rendu" && cp $(OUTPUT_MD) _mermaid_rendered.md)
 	@echo "Generation du PDF..."
 	@npx --yes md-to-pdf _mermaid_rendered.md
 	@mv _mermaid_rendered.pdf $(OUTPUT_PDF)
