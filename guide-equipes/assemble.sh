@@ -70,20 +70,20 @@ cat >> "$OUTPUT" << 'EOF'
 
 # Sommaire
 
-[**Introduction**](#introduction) — Pourquoi ce guide, comment l'utiliser
+[**Introduction**](#introduction-comment-utiliser-ce-guide) — Pourquoi ce guide, comment l'utiliser
 
 **Les 10 fiches pratiques**
 
-- [Fiche 1 : Identite Dravet](#fiche-1--identite-dravet) — Ce qu'il faut savoir en priorite
-- [Fiche 2 : Medicaments interdits](#fiche-2--medicaments-interdits) — Les molecules a ne jamais administrer
-- [Fiche 3 : Protocole crise](#fiche-3--protocole-crise) — Que faire pendant et apres une crise
-- [Fiche 4 : SUDEP et surveillance](#fiche-4--sudep-et-surveillance) — Comprendre et reduire le risque
-- [Fiche 5 : Vie quotidienne](#fiche-5--vie-quotidienne) — Amenager l'environnement et les activites
-- [Fiche 6 : Reconnaitre la douleur](#fiche-6--reconnaitre-la-douleur) — Evaluer ce qui ne se dit pas
-- [Fiche 7 : Crises et quotidien](#fiche-7--crises-et-quotidien) — Gerer les situations du jour le jour
-- [Fiche 8 : Communication famille](#fiche-8--communication-famille) — Construire le lien avec les proches
-- [Fiche 9 : Droits du resident](#fiche-9--droits-du-resident) — Cadre juridique et bonnes pratiques
-- [Fiche 10 : Carte d'urgence](#fiche-10--carte-durgence) — Le document a avoir sur soi
+- [Fiche 1 : Le syndrome de Dravet en 5 minutes](#fiche-1-le-syndrome-de-dravet-en-5-minutes)
+- [Fiche 2 : Les medicaments interdits](#fiche-2-les-medicaments-interdits)
+- [Fiche 3 : Protocole de crise](#fiche-3-protocole-de-crise-arbre-decisionnel)
+- [Fiche 4 : SUDEP, le risque nocturne](#fiche-4-sudep-le-risque-nocturne)
+- [Fiche 5 : La journee type d'un resident Dravet](#fiche-5-la-journee-type-dun-resident-dravet)
+- [Fiche 6 : Reconnaitre la douleur sans les mots](#fiche-6-reconnaitre-la-douleur-sans-les-mots)
+- [Fiche 7 : Crises dans la vie quotidienne](#fiche-7-crises-dans-la-vie-quotidienne)
+- [Fiche 8 : Communiquer avec la famille](#fiche-8-communiquer-avec-la-famille)
+- [Fiche 9 : Les droits du resident](#fiche-9-les-droits-du-resident-rappel)
+- [Fiche 10 : Carte d'urgence](#fiche-10-carte-durgence-a-imprimer)
 
 EOF
 
