@@ -27,23 +27,47 @@ Un **Point de Liaison** clôt chaque chapitre avec un tableau comparatif des tro
 ## Structure du dépôt
 
 ```
-chapitres/          17 chapitres + introduction, glossaire, bibliographie
-recherche/          7 fiches de synthèse scientifique (génétique, physiopathologie, traitements…)
+chapitres/              17 chapitres + introduction, glossaire, bibliographie
+recherche/              7 fiches de synthèse scientifique
 specifications_projet.md   Plan et directives de production
 PROGRESS_TRACKER.md        État d'avancement
 assemble.sh                Script d'assemblage du livre complet
 style.css                  Feuille de style pour l'export PDF
-livre_complet.md           Manuscrit assemblé
-livre_complet.pdf          Version PDF générée
+Makefile                   Build multi-OS (deps, assemblage, PDF)
+.github/workflows/         CI : build, release, GitHub Pages
+template.html              Template HTML pour le site web
 ```
 
-## Générer le PDF
+## Générer le livre
 
 ```bash
-./assemble.sh
+make deps     # Installer les dépendances (Node.js, pandoc, md-to-pdf) — macOS / Linux
+make          # Assembler le markdown et générer le PDF
+make md       # Assembler uniquement le markdown
+make pdf      # Générer le PDF
+make html     # Générer le site HTML (GitHub Pages, avec diagrammes Mermaid)
+make clean    # Supprimer les fichiers générés
 ```
 
-Le script assemble tous les chapitres dans `livre_complet.md`, qui peut ensuite être converti en PDF.
+### Prérequis
+
+- **PDF** : [md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) (Node.js + Chromium headless)
+- **HTML** : [pandoc](https://pandoc.org)
+
+`make deps` installe tout automatiquement via Homebrew (macOS) ou apt (Linux).
+
+### CI / CD
+
+Le dépôt inclut trois workflows GitHub Actions :
+
+- **Build** : génère le PDF à chaque push/PR sur `master` (artefact téléchargeable)
+- **Release** : crée une release GitHub avec le PDF à chaque push de tag `v*`
+- **Pages** : déploie le livre en HTML sur GitHub Pages à chaque push sur `master`
+
+```bash
+git tag v1.0.0
+git push origin v1.0.0   # Déclenche la release
+```
 
 ## Avertissement médical
 

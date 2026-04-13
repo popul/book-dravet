@@ -1,0 +1,46 @@
+name: Release PDF
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Installer les dependances systeme (Chromium pour Puppeteer)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser || sudo apt-get install -y chromium
+
+      - name: Installer md-to-pdf
+        run: npm install -g md-to-pdf
+
+      - name: Assembler le markdown
+        run: make md
+
+      - name: Generer le PDF
+        run: make pdf
+        env:
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
+
+      - name: Creer la release GitHub
+        uses: softprops/action-gh-release@v2
+        with:
+          name: "Syndrome de Dravet — ${{ github.ref_name }}"
+          body: |
+            Nouvelle version de l'ouvrage de reference sur le syndrome de Dravet.
+
+            Telecharger le PDF ci-dessous.
+          files: livre_complet.pdf
+          generate_release_notes: true
