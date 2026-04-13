@@ -100,7 +100,7 @@ html: check-deps-html $(OUTPUT_HTML)
 $(OUTPUT_HTML): $(OUTPUT_WEB) $(STYLE) $(TEMPLATE)
 	@mkdir -p _site
 	@echo "Generation du HTML..."
-	@pandoc $(OUTPUT_WEB) \
+	@pandoc -f markdown+ascii_identifiers $(OUTPUT_WEB) \
 		-o $(OUTPUT_HTML) \
 		--standalone \
 		--template=$(TEMPLATE) \

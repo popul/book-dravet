@@ -73,32 +73,32 @@ cat >> "$OUTPUT" << 'EOF'
 **Introduction** — [Guide de lecture](#introduction)
 
 **Partie I : L'Architecture du Chaos**
-- [Chapitre 1 : Le Code Source (Étiologie)](#chapitre-1-le-code-source-étiologie)
-- [Chapitre 2 : La Tempête Électrique (Physiopathologie)](#chapitre-2-la-tempête-électrique-physiopathologie)
-- [Chapitre 3 : La Diversité des Visages (Hétérogénéité)](#chapitre-3-la-diversité-des-visages-hétérogénéité)
+- [Chapitre 1 : Le Code Source (Étiologie)](#chapitre-1-le-code-source-etiologie)
+- [Chapitre 2 : La Tempête Électrique (Physiopathologie)](#chapitre-2-la-tempete-electrique-physiopathologie)
+- [Chapitre 3 : La Diversité des Visages (Hétérogénéité)](#chapitre-3-la-diversite-des-visages-heterogeneite)
 
 **Partie II : La Chronique d'une Maladie**
-- [Chapitre 4 : L'Éveil de la Maladie (La Première Année)](#chapitre-4-léveil-de-la-maladie-la-première-année)
-- [Chapitre 5 : La Traversée du Développement](#chapitre-5-la-traversée-du-développement-enfance-et-adolescence)
-- [Chapitre 6 : Les Comorbidités (Le Spectre Étendu)](#chapitre-6-les-comorbidités-le-spectre-étendu)
+- [Chapitre 4 : L'Éveil de la Maladie (La Première Année)](#chapitre-4-leveil-de-la-maladie-la-premiere-annee)
+- [Chapitre 5 : La Traversée du Développement](#chapitre-5-la-traversee-du-developpement-enfance-et-adolescence)
+- [Chapitre 6 : Les Comorbidités (Le Spectre Étendu)](#chapitre-6-les-comorbidites-le-spectre-etendu)
 
 **Partie III : L'Arsenal Thérapeutique**
-- [Chapitre 7 : La Pharmacopée Classique](#chapitre-7-la-pharmacopée-classique)
-- [Chapitre 8 : La Révolution Moléculaire (Traitements Ciblés)](#chapitre-8-la-révolution-moléculaire-traitements-ciblés)
+- [Chapitre 7 : La Pharmacopée Classique](#chapitre-7-la-pharmacopee-classique)
+- [Chapitre 8 : La Révolution Moléculaire (Traitements Ciblés)](#chapitre-8-la-revolution-moleculaire-traitements-cibles)
 - [Chapitre 9 : Le Protocole d'Urgence (Gestion des crises et SUDEP)](#chapitre-9-le-protocole-durgence-gestion-des-crises-et-sudep)
 
 **Partie IV : L'Impact Global**
-- [Chapitre 10 : L'Écosystème Familial](#chapitre-10-lécosystème-familial)
-- [Chapitre 11 : Inclusion et Droits](#chapitre-11-inclusion-et-droits-scolarité-juridique-social)
+- [Chapitre 10 : L'Écosystème Familial](#chapitre-10-lecosysteme-familial)
+- [Chapitre 11 : Inclusion et Droits](#chapitre-11-inclusion-et-droits-scolarite-juridique-social)
 
 **Partie V : L'Horizon de Vie**
-- [Chapitre 12 : La Transition Critique (Pédiatrie vers Adulte)](#chapitre-12-la-transition-critique-pédiatrie-vers-adulte)
+- [Chapitre 12 : La Transition Critique (Pédiatrie vers Adulte)](#chapitre-12-la-transition-critique-pediatrie-vers-adulte)
 - [Chapitre 13 : La Vie Adulte Active (25-45 ans)](#chapitre-13-la-vie-adulte-active-25-45-ans)
 - [Chapitre 14 : Le Grand Virage (45 ans et +)](#chapitre-14-le-grand-virage-45-ans-et)
-- [Chapitre 15 : Éthique, Autonomie et Fin de Vie](#chapitre-15-éthique-autonomie-et-fin-de-vie)
+- [Chapitre 15 : Éthique, Autonomie et Fin de Vie](#chapitre-15-ethique-autonomie-et-fin-de-vie)
 
 **Partie VI : Demain**
-- [Chapitre 16 : La Frontière de l'Espoir (Thérapies géniques)](#chapitre-16-la-frontière-de-lespoir-thérapies-géniques)
+- [Chapitre 16 : La Frontière de l'Espoir (Thérapies géniques)](#chapitre-16-la-frontiere-de-lespoir-therapies-geniques)
 - [Chapitre 17 : Conclusion — Trois Mondes, Un Seul Combat](#chapitre-17-conclusion-trois-mondes-un-seul-combat)
 
 [**Glossaire**](#glossaire) — [**Bibliographie**](#bibliographie)

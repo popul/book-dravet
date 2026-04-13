@@ -72,22 +72,22 @@ cat >> "$OUTPUT" << 'EOF'
 
 **Science fondamentale**
 
-- [01 — Genetique et SCN1A](#genetique-du-syndrome-de-dravet--le-gene-scn1a)
+- [01 — Genetique et SCN1A](#recherche-genetique-et-etiologie-du-syndrome-de-dravet)
 - [02 — Physiopathologie](#physiopathologie-du-syndrome-de-dravet)
-- [03 — Traitements pharmacologiques](#traitements-pharmacologiques-du-syndrome-de-dravet)
+- [03 — Traitements pharmacologiques](#recherche-traitements-du-syndrome-de-dravet)
 
 **Clinique et developpement**
 
-- [04 — Comorbidites et developpement](#comorbidites-et-developpement-dans-le-syndrome-de-dravet)
-- [05 — Therapie genique et innovation](#therapie-genique-et-approches-innovantes-dans-le-syndrome-de-dravet)
-- [06 — Vie adulte et vieillissement](#vie-adulte-et-vieillissement-dans-le-syndrome-de-dravet)
+- [04 — Comorbidites et developpement](#chapitre-4-comorbidites-et-developpement-neurologique-dans-le-syndrome-de-dravet)
+- [05 — Therapie genique et innovation](#recherche-therapies-geniques-et-approches-innovantes-pour-le-syndrome-de-dravet)
+- [06 — Vie adulte et vieillissement](#recherche-vie-adulte-vieillissement-et-transition-de-soins-dans-le-syndrome-de-dravet)
 
 **Dimension humaine et sociale**
 
-- [07 — Aspects sociaux et ethiques](#aspects-sociaux-economiques-et-ethiques-du-syndrome-de-dravet)
-- [08 — Non-reponse therapeutique](#non-reponse-therapeutique-dans-le-syndrome-de-dravet)
-- [09 — Vie en structure residentielle](#vie-en-structure-residentielle-pour-adultes-avec-syndrome-de-dravet)
-- [10 — Vieillissement des aidants et succession](#vieillissement-des-parents-aidants-et-planification-de-la-succession)
+- [07 — Aspects sociaux et ethiques](#recherche-aspects-sociaux-familiaux-juridiques-et-ethiques-du-syndrome-de-dravet)
+- [08 — Non-reponse therapeutique](#recherche-non-reponse-therapeutique-dans-le-syndrome-de-dravet)
+- [09 — Vie en structure residentielle](#recherche-vie-en-structure-residentielle-pour-adultes-avec-syndrome-de-dravet-et-epilepsies-severes)
+- [10 — Vieillissement des aidants et succession](#recherche-vieillissement-des-parents-aidants-et-planification-de-la-succession-de-laccompagnement)
 
 EOF
 
