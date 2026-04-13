@@ -84,6 +84,24 @@ Un protocole d'urgence individualise doit etre affiche dans le dossier de votre 
 **Etape 5 -- Verifier que le personnel est forme**
 Le personnel de nuit est-il forme a la reconnaissance des crises, a l'administration du midazolam buccal, et aux gestes de reanimation de base ? La formation Epipair couvre ces competences. Elle devrait etre renouvelee tous les 12 a 24 mois.
 
+## Arbre decisionnel du monitoring nocturne
+
+```mermaid
+graph TD
+    A["Crises nocturnes<br/>frequentes ?"] -->|Oui| B["NightWatch<br/>85-96 % detection"]
+    A -->|Non| C["Reevaluer<br/>le risque"]
+    B --> D["Oreiller<br/>anti-etouffement"]
+    D --> E["Protocole post-ictal<br/>affiche"]
+    E --> F{"Financement ?"}
+    F -->|Individuel| G["PCH<br/>aide technique"]
+    F -->|Structure| H["Budget soins<br/>etablissement"]
+    G --> I{"Personnel<br/>forme ?"}
+    H --> I
+    I -->|Oui| J["Protocole<br/>en place"]
+    I -->|Non| K["Formation<br/>Epipair"]
+    K --> J
+```
+
 ## Ce qu'il faut retenir
 
 La SUDEP est evitable dans beaucoup de cas. La surveillance nocturne multimodale reduit le risque. Un bracelet NightWatch coute entre 500 et 800 euros. Un oreiller anti-etouffement coute 30 euros. Un protocole post-ictal affiche dans la chambre ne coute rien. Ce sont des gestes concrets qui protegent la vie.

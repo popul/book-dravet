@@ -27,7 +27,7 @@ Un audit pharmacologique comprend :
 | Stiripentol + Clobazam | Le STP inhibe le CYP2C19, augmentant les taux de N-desmethylclobazam (metabolite actif du CLB) | Sedation excessive, somnolence diurne |
 | CBD + Clobazam | Le CBD inhibe aussi le CYP2C19, augmentant les taux de CLB | Sedation accrue, surestimation de l'effet du CBD |
 | Valproate + CBD | Hepatotoxicite croisee | Elevation des transaminases chez 31 % des patients |
-| Valproate + Clobazam | Hyperammoniemie | **77 % des adultes Dravet** sous cette association [Desnous et al.] |
+| Valproate + Clobazam | Hyperammoniemie | L'hyperammoniemie est frequemment observee chez les adultes Dravet sous association valproate + clobazam, necessitant un dosage regulier de l'ammoniemie. |
 | Valproate + Topiramate | Risque d'encephalopathie hyperammoniemique | Confusion, somnolence, ammoniemie elevee |
 
 L'hyperammoniemie a 77 % merite qu'on s'y arrete. L'ammoniac en exces dans le sang provoque une fatigue, une confusion et une somnolence que l'on attribue souvent a l'epilepsie elle-meme ou au handicap. En realite, une partie de ces symptomes peut etre iatrogene (causee par les medicaments) -- et donc reversible.

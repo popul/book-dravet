@@ -60,7 +60,7 @@ Les comorbidités de l'adulte Dravet sont multiples et nécessitent un dépistag
 *   **Syndrome métabolique :** prise de poids (40-70 % sous valproate), risque de diabète de type 2, dyslipidémie. Bilan lipidique et glycémie annuels.
 *   **Ostéoporose :** risque relatif de fracture de 1,7 à 6,2 selon les antiépileptiques [Vestergaard, 2015]. Le valproate est associé à une réduction de la formation osseuse indépendamment de la vitamine D. Facteurs aggravants : sédentarité, alimentation déséquilibrée, défaut d'exposition solaire.
 
-**2. Prise en charge médicale quotidienne en structure**
+**3. Prise en charge médicale quotidienne en structure**
 
 *Organisation des soins et observance thérapeutique.* En MAS, la distribution des médicaments est assurée par l'IDE (infirmier diplômé d'État) présent en continu. En FAM, l'IDE prépare les piluliers et supervise la distribution, qui peut être réalisée par un éducateur formé conformément à l'article L. 313-26 du CASF (acte de la vie courante sous protocole). L'observance est un enjeu majeur chez l'adulte Dravet sous polythérapie complexe : toute modification non intentionnelle des horaires ou des doses peut déstabiliser l'équilibre épileptique. Un protocole écrit de distribution, incluant les horaires, les doses exactes et les interactions alimentaires (stiripentol à prendre pendant le repas), doit être affiché et accessible à toute l'équipe.
 
@@ -81,20 +81,20 @@ Les comorbidités de l'adulte Dravet sont multiples et nécessitent un dépistag
 *   Changement de poids corporel significatif (adaptation des doses).
 *   Introduction d'un nouveau médicament non antiépileptique (risque d'interactions, notamment avec les psychotropes).
 
-**3. Suivi pharmacologique au long cours**
+**4. Suivi pharmacologique au long cours**
 La polythérapie reste la règle. Le monitoring doit inclure :
 *   **Valproate** : bilan hépatique, ammoniémie, NFS, bilan lipidique, glycémie (risque de syndrome métabolique). Prise de poids chez 40-70 % des patients. Chez la femme : surveillance du SOPK (syndrome des ovaires polykystiques).
 *   **Stiripentol** : surveillance des taux plasmatiques (interaction CYP2C19 avec le valproate). Profil de sécurité acceptable au long cours.
 *   **Cannabidiol (Epidyolex)** : transaminases hépatiques (élévation chez 15-20 % en association avec le valproate), interaction avec le clobazam (élévation du N-desméthylclobazam).
 *   **Fenfluramine (Fintepla)** : échocardiographie tous les 6 mois (surveillance du risque de valvulopathie, non observé aux doses épileptiques).
 
-**4. Conseil génétique et parentalité**
+**5. Conseil génétique et parentalité**
 *   Mutations de novo (>90 % des cas) : risque de récurrence faible pour la fratrie (1-2 %, lié au mosaïcisme germinal). Mosaïcisme parental somatique ou germinal détecté chez 5-10 % des parents apparemment non atteints [Depienne et al., 2006].
 *   Si le patient Dravet porteur d'une mutation SCN1A devient parent : risque de transmission de 50 %, avec expressivité variable (de l'épilepsie fébrile simple au syndrome de Dravet complet).
 *   **Valproate et grossesse** : taux de malformations congénitales majeures de 10,3 % [Tomson et al., 2018], réduction du QI de l'enfant de 7 à 10 points. Contre-indication formelle. Discussion précoce de la contraception et du projet parental.
 *   Diagnostic préimplantatoire (DPI) ou prénatal (DPN) à proposer aux familles concernées.
 
-**5. Santé de la femme et suivi gynécologique**
+**6. Santé de la femme et suivi gynécologique**
 *   **SOPK et valproate** : prévalence du SOPK jusqu'à 90 % sous valproate initié avant 20 ans [Isojärvi et al., 1993]. Hyperandrogénie, oligo/anovulation, prise de poids. Bilan hormonal (LH, FSH, testostérone, SHBG) recommandé annuellement.
 *   **Fibromes utérins** : les perturbations hormonales induites par le valproate (augmentation de la synthèse d'androgènes ovariens, conversion en estrogènes par aromatisation) peuvent favoriser la croissance de fibromes utérins, tumeurs estrogéno-dépendantes. Échographie pelvienne recommandée en cas de symptômes (saignements, douleurs).
 *   **Endométriose** : pathologie estrogéno-dépendante, prévalence de ~10 % en population féminine générale. Le déséquilibre hormonal induit par le valproate (SOPK, anovulation, hyperoestrogénie relative) constitue un facteur de risque potentiel. L'endométriose provoque des douleurs pelviennes chroniques, une dyschésie (douleur à la défécation) et une constipation par spasme du plancher pelvien, s'ajoutant à la constipation iatrogène. Diagnostic par échographie endovaginale +/- IRM pelvienne.
@@ -102,12 +102,12 @@ La polythérapie reste la règle. Le monitoring doit inclure :
 *   **Épilepsie cataméniale** : les fluctuations des estrogènes et de la progestérone modulent le seuil épileptogène. Un suivi du calendrier des crises rapporté au cycle menstruel permet d'identifier les patientes à risque et d'envisager une supplémentation progestative péri-menstruelle.
 *   **Contraception** : les antiépileptiques inducteurs enzymatiques réduisent l'efficacité des contraceptifs oraux. Le valproate impose une contraception efficace (risque tératogène). Privilégier les dispositifs intra-utérins (DIU) au lévonorgestrel ou au cuivre.
 
-**6. Monitoring métabolique et orthopédique**
+**7. Monitoring métabolique et orthopédique**
 *   Vitamine D sérique (25-OH-D) annuelle, supplémentation systématique (800-1000 UI/jour) et calcium (500-1000 mg/jour).
 *   Ostéodensitométrie (DEXA) de base à 25-30 ans, puis tous les 2-3 ans. Risque relatif de fracture : 1,7 à 6,2 selon les antiépileptiques [Vestergaard, 2015].
 *   Surveillance de la scoliose (30-50 % des cas) et de l'ataxie cérébelleuse (60-80 % des adultes).
 
-**7. Dépistage psychiatrique**
+**8. Dépistage psychiatrique**
 Outils adaptés à la déficience intellectuelle (DI) : PAS-ADD, DBC-A, ABC. Dépression (20-40 %), anxiété (30-50 %), troubles du sommeil (>60 %) [Kalnitski et al., 2021]. Antidépresseurs ISRS (sertraline) généralement bien tolérés. Vigilance sur l'interaction fluoxétine/stiripentol (CYP2D6). Antipsychotiques si nécessaire : préférer la quétiapine ou l'aripiprazole (moindre abaissement du seuil épileptogène).
 
 #### 📊 Suivi pluridisciplinaire de l'adulte Dravet (Mermaid)

@@ -106,6 +106,8 @@ Les références ci-dessous sont organisées par thème, en correspondance avec 
 
 35. Miller I, Scheffer IE, Gunning B, et al. Dose-ranging effect of adjunctive oral cannabidiol vs placebo on convulsive seizure frequency in Dravet syndrome. *JAMA Neurol.* 2020;77(5):613-621. PMID: 32091549.
 
+76. Striano P, Coppola A, Pezzella M, et al. An open-label trial of levetiracetam in severe myoclonic epilepsy of infancy. *Neurology.* 2007;69(3):250-254. PMID: 17636062.
+
 ### Médicaments contre-indiqués
 
 36. Guerrini R, Dravet C, Genton P, et al. Lamotrigine and seizure aggravation in severe myoclonic epilepsy. *Epilepsia.* 1998;39(5):508-512. PMID: 9596203.
@@ -117,6 +119,10 @@ Les références ci-dessous sont organisées par thème, en correspondance avec 
 38. Caraballo RH. Nonpharmacologic treatments of Dravet syndrome: focus on the ketogenic diet. *Epilepsia.* 2011;52(Suppl 2):79-82. PMID: 21463286.
 
 39. Dressler A, Trimmel-Schwahofer P, Reithofer E, et al. Efficacy and tolerability of the ketogenic diet in Dravet syndrome. *Epilepsy Res.* 2015;109:81-89. PMID: 25524846.
+
+78. Dibué-Adjei M, Fischer I, Gerner ST, et al. Vagus nerve stimulation in refractory epilepsy. *Seizure.* 2017;51:191-200.
+
+79. Fulton SP, Van Poppel K, McGregor AL, et al. Vagus nerve stimulation in intractable epilepsy in children. *Epilepsy Res.* 2017;133:73-79.
 
 ### SUDEP
 
@@ -145,6 +151,8 @@ Les références ci-dessous sont organisées par thème, en correspondance avec 
 47. Skluzacek JV, Watts KP, Parsy O, et al. Dravet syndrome and parent associations: the IDEA League experience with comorbid conditions, mortality, management, adaptation, and grief. *Epilepsia.* 2011;52(Suppl 2):95-101. PMID: 21463290.
 
 48. Campbell JD, Whittington MD, Kim CH, et al. Assessing the impact of caring for a child with Dravet syndrome: results of a caregiver survey. *Epilepsy Behav.* 2018;80:152-156.
+
+77. Yamaki K, Hsieh K, Heller T. Health profile of aging family caregivers supporting adults with intellectual and developmental disabilities at home. *Intellect Dev Disabil.* 2009;47(6):425-435. PMID: 20020799.
 
 ---
 
@@ -195,6 +203,8 @@ Les références ci-dessous sont organisées par thème, en correspondance avec 
 62. Andrade DM, Berg AT, Hood V, et al. Dravet syndrome: a quick transition guide. *Epilepsy Res.* 2017;132:137-142.
 
 63. Kearney H, Byrne S, Cavalleri GL, et al. Tackling epilepsy with high-definition precision medicine: a review. *JAMA Neurol.* 2019;76(9):1109-1116. PMID: 31380988.
+
+80. Andrade DM, Bastos A, Bhatt D, et al. The Dravet Syndrome Transition Survey. *Epilepsia.* 2017.
 
 ---
 

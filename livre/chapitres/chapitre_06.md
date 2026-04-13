@@ -8,7 +8,7 @@ Il est fréquent de penser que le principal défi du syndrome de Dravet est de s
 
 **Les grands domaines des comorbidités :**
 1.  **Le comportement et l'esprit :** L'enfant peut présenter des traits d'autisme (difficultés de communication, comportements répétitifs) ou des troubles de l'attention (hyperactivité, difficulté à se concentrer). Les troubles du comportement au sens large (agitation, impulsivité, absence de conscience du danger) touchent 60 à 80 % des enfants.
-2.  **Le corps et les mouvements :** La coordination des gestes et de l'équilibre peut être perturbée — un trouble appelé **ataxie** (du grec "sans ordre", c'est-à-dire une difficulté à coordonner les mouvements) — et la marche peut devenir instable. L'ataxie concerne 60 à 80 % des patients. Avec la croissance, une posture de marche particulière peut apparaitre (marche en position accroupie, ou "crouch gait" en anglais), surtout à l'adolescence.
+2.  **Le corps et les mouvements :** La coordination des gestes et de l'équilibre peut être perturbée — un trouble appelé **ataxie** (du grec "sans ordre", c'est-à-dire une difficulté à coordonner les mouvements) — et la marche peut devenir instable. L'ataxie est très fréquente : entre 60 et 100 % des patients selon les études. Avec la croissance, une posture de marche particulière peut apparaitre (marche en position accroupie, ou "crouch gait" en anglais), surtout à l'adolescence.
 3.  **Les sens et le sommeil :** Le sommeil est très perturbé chez 60 à 80 % des patients, ce qui fatigue l'enfant et ses parents, créant un cercle vicieux avec les crises.
 4.  **Le ventre et la digestion :** La **constipation** chronique est fréquente et souvent sous-diagnostiquée. Elle est liée aux médicaments (qui ralentissent le transit), au manque d'activité physique, et aux difficultés alimentaires. Elle peut provoquer des douleurs et de l'irritabilité, et perturber l'absorption des médicaments.
 5.  **Le système nerveux autonome :** Le **système nerveux autonome** (la partie du système nerveux qui contrôle les fonctions "automatiques" du corps comme le rythme cardiaque, la respiration et la température) peut être perturbé. On parle de **dysautonomie**. Cela contribue aux problèmes de régulation de la température et au risque de complications cardiaques.
@@ -20,7 +20,7 @@ Il est important de mentionner ici l'existence de la **SUDEP** (Sudden Unexpecte
 Parce que traiter uniquement les crises ne suffit pas à améliorer la qualité de vie. Si un enfant a des crises rares mais qu'il ne peut pas communiquer ou qu'il ne dort jamais, sa vie reste très difficile. L'objectif est donc une prise en charge globale.
 
 **Reconnaître la douleur quand les mots manquent**
-Quand votre proche ne peut pas parler ou a un langage très limité, comment savoir s'il a mal ? C'est l'une des questions les plus difficiles pour les familles et les soignants. Pourtant, la douleur est fréquente : elle touche environ 70 % des personnes avec une déficience intellectuelle sévère, mais moins de 30 % de ces douleurs sont repérées et traitées.
+Quand votre proche ne peut pas parler ou a un langage très limité, comment savoir s'il a mal ? C'est l'une des questions les plus difficiles pour les familles et les soignants. Pourtant, la douleur est fréquente : elle touche environ 70 % des personnes avec une déficience intellectuelle sévère, mais moins de 30 % de ces douleurs sont repérées et traitées. La douleur chronique abaisse le seuil de déclenchement des crises (voir le chapitre 9 sur le protocole d'urgence et la prévention de la SUDEP).
 
 *Quels signes observer ?*
 *   **Changement de comportement** : une agitation inhabituelle, un repli soudain (la personne qui participait ne participe plus), un refus de manger, des cris, de l'auto-agression (se frapper, se mordre, se griffer). Ces comportements ne sont pas des "caprices" — ils sont souvent le seul moyen d'exprimer une souffrance.
@@ -34,7 +34,7 @@ Quand votre proche ne peut pas parler ou a un langage très limité, comment sav
 
 **À retenir :**
 *   La maladie est "multidimensionnelle" (elle touche plusieurs aspects de la vie).
-*   Les troubles du comportement (60-80 %), du sommeil (60-80 %) et de la motricité (60-80 %) sont aussi importants que les crises.
+*   Les troubles du comportement (60-80 %), du sommeil (60-80 %) et de la motricité (60-100 %) sont aussi importants que les crises.
 *   La constipation et la dysautonomie sont des problèmes fréquents mais souvent négligés.
 *   La douleur est massivement sous-détectée chez les personnes non-verbales — observez les changements de comportement.
 *   La SUDEP est un risque grave qui justifie la surveillance nocturne (voir chapitre 9).
