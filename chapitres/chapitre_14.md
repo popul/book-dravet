@@ -19,6 +19,15 @@ Après avoir traversé l'enfance et l'adolescence, l'entrée dans la maturité (
 *   L'autonomie doit être préservée par des adaptations de l'environnement.
 *   Des examens réguliers (os, coeur, foie, bilan sanguin) permettent de dépister les complications à temps.
 
+**Quand les parents ne peuvent plus**
+
+Il arrive un moment où les parents -- souvent devenus les piliers de toute l'organisation -- ne peuvent plus superviser la prise en charge comme avant. Ce moment n'arrive pas toujours de manière prévisible.
+
+*   **Les facteurs déclencheurs :** L'hospitalisation d'un parent est le motif le plus fréquent de placement en urgence. Viennent ensuite le décès d'un des deux parents, l'épuisement physique et psychique après des décennies de vigilance, ou l'apparition de pathologies propres (troubles cognitifs, perte de mobilité). Parfois, c'est l'aggravation du handicap de l'enfant adulte qui rend le maintien à domicile impossible.
+*   **L'anticipation est la clé :** Les listes d'attente en FAM (foyer d'accueil médicalisé, pour les personnes nécessitant une surveillance médicale régulière) et en MAS (maison d'accueil spécialisée, pour les personnes les plus dépendantes) sont longues -- parfois plusieurs années. On a vu des établissements avec 77 personnes en liste d'attente. Ne pas attendre la crise pour déposer un dossier d'orientation à la MDPH (maison départementale des personnes handicapées). Le délai d'instruction est de 4 mois, et l'admission effective peut prendre bien plus longtemps.
+*   **Le passage du domicile à la structure :** Ce passage gagne à être progressif. L'accueil temporaire (quelques jours en structure, puis une semaine, puis plus longtemps) permet à la personne de se familiariser avec les lieux, le personnel, les rythmes. Ce n'est pas un luxe -- c'est une nécessité médicale : un changement brutal d'environnement peut provoquer une période d'instabilité avec augmentation temporaire des crises, de l'anxiété, voire une régression des compétences acquises. Cette phase dure en général 2 à 6 semaines.
+*   **Ce que vous pouvez faire dès maintenant :** Rédiger un document décrivant tout ce que vous savez sur votre enfant -- ses habitudes, ses déclencheurs de crises, ses moyens de communication, son profil de douleur (comment il exprime la douleur quand il ne peut pas la verbaliser), ses préférences alimentaires, ses rituels de coucher. Ce document sera précieux pour toute équipe qui prendra le relais.
+
 ---
 
 ### 🩺 Le Protocole (Cible : Corps Médical)
@@ -60,6 +69,20 @@ Le suivi doit se concentrer sur la préservation de l'autonomie et la distinctio
 *   **Évaluation fonctionnelle :** Échelle ADL (Activities of Daily Living) et IADL annuelle.
 *   **Bilan métabolique annuel complet :** glycémie, bilan lipidique, fonction hépatique, fonction rénale, ionogramme, vitamines D et B12.
 
+**6. Transition domicile-structure chez le patient Dravet vieillissant**
+
+La transition vers une structure résidentielle constitue une période de vulnérabilité médicale qui doit être anticipée et encadrée.
+
+*   **Facteurs déclencheurs et épidémiologie :** L'hospitalisation du parent-aidant est l'événement le plus fréquent précipitant l'admission en structure (estimé à environ 40 % des placements). Le décès du parent représente environ 25 % des cas, et l'épuisement chronique de l'aidant constitue le motif restant. Les données du double vieillissement montrent que les aidants familiaux d'adultes avec déficience intellectuelle présentent une prévalence significativement plus élevée de pathologies cardiovasculaires, métaboliques et ostéoarticulaires [Yamaki et al., 2009], rendant leur défaillance prévisible.
+*   **Impact médical de la transition :** Le changement d'environnement constitue un facteur de stress majeur pouvant provoquer une augmentation de la fréquence des crises épileptiques pendant la période d'adaptation, estimée à 2-6 semaines. On observe également une désorientation, une régression des compétences acquises, des modifications des patterns de sommeil, et une exacerbation des troubles du comportement. Chez le patient non verbal, ces manifestations peuvent être les seuls indicateurs de souffrance psychique.
+*   **Protocole de transition recommandé :**
+    *   **Maintien du traitement identique :** Ne pas modifier le traitement antiépileptique pendant la phase d'adaptation, sauf urgence. La stabilité pharmacologique est prioritaire dans une période de changement environnemental.
+    *   **Coordination neurologue/médecin de structure :** Le neurologue référent doit transmettre au médecin coordonnateur de la structure le protocole d'urgence individualisé, l'historique des crises, les contre-indications (rappel : lamotrigine, carbamazépine, oxcarbazépine, phénytoïne, vigabatrine sont contre-indiquées dans le Dravet), et le bilan des comorbidités.
+    *   **Visites préalables :** Organiser des accueils temporaires progressifs (journée, puis nuit, puis séjour court) avant l'admission définitive pour réduire le stress de la transition.
+    *   **Objet transitionnel et repères sensoriels :** Maintenir des éléments familiers (objets personnels, photos, couverture) pour ancrer la continuité dans le changement.
+    *   **Référent unique :** Désigner un professionnel référent stable pendant la période d'adaptation, formé au protocole d'urgence épileptique du patient.
+*   **Surveillance renforcée :** Pendant les 6 premières semaines, une vigilance accrue est nécessaire : monitoring nocturne systématique (capteur de matelas ou bracelet, voir chapitre 9), documentation quotidienne des crises, évaluation hebdomadaire de l'adaptation.
+
 #### 📊 Évolution des priorités de soins (Mermaid)
 
 ```mermaid
@@ -95,6 +118,15 @@ L'approche doit évoluer pour respecter la dignité de l'adulte tout en assurant
 *   **Distinguer vieillissement et maladie :** Un ralentissement ou une perte d'autonomie peuvent relever du vieillissement naturel ou d'une aggravation de la maladie. Documentez précisément les changements observés (date d'apparition, progression, contexte) pour aider l'équipe médicale à faire la distinction.
 *   **Respect de l'intimité :** L'accompagnement d'un adulte nécessite une approche différente de celle d'un enfant ; le respect de sa vie privée et de son autonomie décisionnelle est primordial.
 
+**Accueillir un nouveau résident Dravet adulte :**
+
+L'arrivée d'un adulte Dravet dans votre structure -- souvent après des décennies de vie au domicile familial -- est un moment charnière qui nécessite une préparation spécifique.
+
+*   **Avant l'admission :** Le protocole d'urgence épileptique doit être en place AVANT le premier jour. Cela signifie : avoir reçu du neurologue référent le protocole individualisé (type de crises, seuils d'intervention, médicaments d'urgence, doses, contre-indications), avoir formé l'ensemble du personnel concerné (y compris les veilleurs de nuit) à l'administration du midazolam buccal (Buccolam), et avoir installé le dispositif de monitoring nocturne adapté (capteur de matelas ou bracelet -- voir chapitre 9 pour les détails techniques).
+*   **Recueillir le "savoir des parents" :** Les parents qui ont vécu 20, 30 ou 40 ans avec cette personne possèdent un savoir irremplaçable. Organisez un entretien approfondi (au minimum 2 heures) pour documenter : les habitudes quotidiennes (lever, coucher, repas, toilette), les déclencheurs de crises connus (température, fatigue, émotions fortes, stimulations sensorielles), les signes précurseurs que la personne montre avant une crise, les moyens de communication (gestes, regards, vocalisations, pictogrammes), le profil de douleur (comment la personne exprime l'inconfort quand elle ne peut pas le verbaliser), et les préférences alimentaires -- y compris les textures, car la dysphagie (difficulté à avaler) est fréquente dans le Dravet adulte.
+*   **La période d'adaptation (2 à 6 semaines) :** Les premières semaines sont critiques. Les crises peuvent être plus fréquentes en raison du stress du changement. L'anxiété peut se manifester par de l'agitation, un refus alimentaire, des troubles du sommeil, ou au contraire un repli sur soi. Désignez un professionnel référent stable -- toujours le même visage, la même voix -- pour ancrer la relation de confiance. Documentez quotidiennement les crises (type, durée, circonstances) pour permettre au neurologue d'évaluer l'adaptation.
+*   **Maintenir le lien familial :** Pendant la transition, le contact avec la famille n'est pas un frein à l'adaptation -- c'est un facteur de sécurisation. Visites régulières, appels, objets familiers dans la chambre : tout ce qui maintient la continuité aide la personne à investir son nouveau lieu de vie. Invitez les parents aux premières réunions de projet personnalisé pour construire ensemble les objectifs d'accompagnement.
+
 ---
 
 ### 💡 Le Point de Liaison (Synthèse)
@@ -105,6 +137,7 @@ L'approche doit évoluer pour respecter la dignité de l'adulte tout en assurant
 | **Ostéoporose** | Alimentation riche en calcium, activité physique | DEXA annuelle après 50 ans, vit. D/calcium, Vestergaard 2015 | Signaler toute chute, prévention des fractures |
 | **Cardiovasculaire** | Alerter si essoufflement, malaises | ECG annuel, bilan lipidique, dysautonomie SCN1A | Repérer signes cardiaques, signaler rapidement |
 | **Déclin fonctionnel** | Documenter les changements au quotidien | Monitoring cognitif tous les 2-3 ans, échelle ADL | Observer, dater, transmettre les changements |
+| **Transition structure** | Anticiper les listes d'attente FAM/MAS ; accueil progressif ; transmettre le savoir parental | Maintenir traitement identique ; coordonner neurologue/médecin structure ; surveillance renforcée 2-6 sem. | Protocole d'urgence AVANT admission ; recueillir savoir parental ; référent unique ; monitoring nocturne |
 | **Action clé** | Adaptation du mode de vie | Bilan métabolique annuel complet, simplification de la polythérapie | Aménagement de l'environnement (accessibilité) |
 
 ***

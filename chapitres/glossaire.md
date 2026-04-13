@@ -14,6 +14,8 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 
 **AESH (Accompagnant des Élèves en Situation de Handicap)** — Personne qui accompagne un enfant handicapé à l'école pour l'aider dans ses apprentissages et sa vie quotidienne en classe.
 
+**AJPA (Allocation Journalière du Proche Aidant)** — Indemnisation versée aux proches aidants qui réduisent ou cessent temporairement leur activité professionnelle pour accompagner une personne handicapée ou en perte d'autonomie. Montant : 66,64 EUR/jour en 2026. Accessible aux salariés, indépendants et demandeurs d'emploi, y compris la fratrie (jusqu'au 4e degré de parenté).
+
 **Allèle** — Chacune des deux copies d'un même gène que nous possédons (une héritée du père, une de la mère). Dans le syndrome de Dravet, un seul des deux allèles du gène SCN1A est muté.
 
 **Antiépileptique (AE)** — Médicament utilisé pour prévenir ou réduire les crises d'épilepsie. Il en existe de nombreuses familles, et tous ne conviennent pas au syndrome de Dravet.
@@ -25,6 +27,8 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 **Atonique (crise)** — Type de crise d'épilepsie caractérisé par une perte soudaine du tonus musculaire. L'enfant s'effondre brutalement ("drop attack"), ce qui entraîne un risque élevé de blessure.
 
 ## B
+
+**Baluchonnage (relayage)** — Dispositif permettant à un professionnel formé de remplacer l'aidant familial directement au domicile, 24h/24, pour une durée pouvant aller jusqu'à 6 jours consécutifs. La personne aidée reste dans son environnement habituel. Pérennisé en France depuis janvier 2025.
 
 **Benzodiazépine** — Famille de médicaments à action calmante rapide sur le cerveau. Utilisées comme traitement d'urgence lors des crises prolongées (ex : diazépam, midazolam).
 
@@ -43,6 +47,8 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 **Clobazam** — Médicament de la famille des benzodiazépines, utilisé au quotidien pour renforcer l'inhibition cérébrale (le "frein") et réduire la fréquence des crises.
 
 **Comorbidité** — Trouble ou maladie qui accompagne la maladie principale. Dans le syndrome de Dravet, les comorbidités incluent les troubles du sommeil, de la motricité, du comportement, et du langage.
+
+**Conseil de la Vie Sociale (CVS)** — Instance de représentation des usagers et de leurs familles au sein d'un établissement médico-social (foyer, FAM, MAS). Composé d'au moins 2 représentants des personnes accompagnées, il se réunit au minimum 3 fois par an et donne son avis sur le fonctionnement de l'établissement. Obligatoire dans les structures d'hébergement.
 
 **Conseil génétique** — Consultation avec un médecin spécialiste de la génétique qui explique les risques de transmission d'une maladie héréditaire, les options de dépistage (diagnostic prénatal, diagnostic préimplantatoire) et accompagne les décisions reproductives.
 
@@ -68,6 +74,14 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 
 **Démarche palliative** — Accompagnement qui vise le confort et la dignité de la personne en fin de vie, plutôt que la guérison. Elle inclut la gestion de la douleur, le soutien psychologique et le maintien des rituels apaisants.
 
+**Double vieillissement** — Phénomène désignant la conjonction de deux processus simultanés : le vieillissement du parent-aidant (souvent 70 ans et plus) avec ses propres pathologies, et le vieillissement prématuré de la personne handicapée, dont les effets de l'âge se cumulent avec ceux du handicap.
+
+**DESS (Douleur Enfant San Salvadour)** — Échelle d'évaluation de la douleur validée en français, conçue pour les personnes polyhandicapées de tous âges, y compris les adultes non-communicants. Elle identifie les modifications des signes neurologiques habituels (hypertonie, spasticité, mouvements anormaux) comme indicateurs de douleur. Nécessite une connaissance préalable de la personne.
+
+**Doloplus-2** — Échelle d'évaluation de la douleur composée de 10 items répartis en 3 dimensions (somatique, psychomotrice, psychosociale). Initialement conçue pour la gériatrie, elle est utilisable chez toute personne non-communicante. Ne nécessite pas de connaissance préalable de la personne.
+
+**Dysphagie** — Difficulté à avaler les aliments ou les liquides. Fréquente chez les adultes atteints du syndrome de Dravet, elle nécessite une adaptation des textures alimentaires pour éviter les fausses routes (passage d'aliments dans les voies respiratoires).
+
 **Diazépam** — Médicament d'urgence de la famille des benzodiazépines, administré par voie rectale pour stopper une crise prolongée.
 
 **Directives anticipées** — Document écrit dans lequel une personne exprime ses souhaits concernant sa fin de vie (traitements qu'elle accepte ou refuse), au cas où elle ne pourrait plus s'exprimer le moment venu.
@@ -88,6 +102,8 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 
 **Endométriose** — Maladie chronique dans laquelle le tissu qui tapisse normalement l'intérieur de l'utérus (l'endomètre) se développe en dehors de l'utérus (sur les ovaires, les trompes, l'intestin). Elle provoque des douleurs pelviennes chroniques, des règles très douloureuses, et souvent de la constipation. C'est une maladie estrogéno-dépendante (sensible aux hormones féminines).
 
+**Échelle de Bristol** — Outil médical de classification des selles en 7 types selon leur forme et leur consistance, allant du type 1 (selles dures en petites billes) au type 7 (selles liquides). Utilisée en structure résidentielle pour objectiver le suivi du transit intestinal.
+
 **Épilepsie cataméniale** — Forme d'épilepsie dans laquelle la fréquence des crises varie en fonction du cycle menstruel. Les fluctuations des estrogènes et de la progestérone modifient le seuil de déclenchement des crises.
 
 **Épileptogène (seuil)** — Le niveau de stimulation à partir duquel le cerveau déclenche une crise. Plus ce seuil est bas, plus les crises surviennent facilement. La fatigue, la fièvre et le manque de sommeil abaissent ce seuil.
@@ -102,7 +118,11 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 
 **FAM (Foyer d'Accueil Médicalisé)** — Établissement d'hébergement pour adultes handicapés nécessitant un suivi médical régulier et une aide pour les actes de la vie quotidienne.
 
+**Fécalome** — Accumulation de selles durcies dans le rectum ou le colon, formant un bouchon qui peut provoquer une occlusion intestinale. Complication grave de la constipation chronique, fréquente chez les personnes avec déficience intellectuelle sous antiépileptiques. Peut nécessiter une désimpaction manuelle.
+
 **Fenfluramine (Fintepla)** — Médicament qui agit sur la sérotonine (un messager chimique du cerveau) pour réduire les crises dans le syndrome de Dravet. Nécessite une surveillance cardiaque par échocardiographie tous les 6 mois.
+
+**FLACC-R (Face, Legs, Activity, Cry, Consolability -- Revised)** — Échelle rapide d'évaluation de la douleur en 5 items (visage, jambes, activité, cris, consolabilité), score de 0 à 10. Adaptée aux situations aiguës chez les personnes avec handicap cognitif. Nécessite une connaissance préalable de la personne.
 
 **Fonctions exécutives** — Capacités du cerveau à planifier, organiser, prendre des décisions, s'adapter aux imprévus et contrôler ses impulsions.
 
@@ -136,6 +156,8 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 
 **Inhibition (cérébrale)** — Mécanisme par lequel certains neurones freinent l'activité d'autres neurones. C'est le système de "freinage" du cerveau, essentiel pour empêcher les crises.
 
+**ISRS (Inhibiteurs Sélectifs de la Recapture de la Sérotonine)** — Famille de médicaments antidépresseurs qui agissent en augmentant le taux de sérotonine disponible dans le cerveau. La sertraline et la fluoxétine en sont les exemples les plus courants. Généralement bien tolérés chez les personnes épileptiques, avec un faible risque d'abaissement du seuil épileptogène. Vigilance requise sur l'interaction fluoxétine/stiripentol (compétition sur l'enzyme CYP2D6).
+
 **Interneurone** — Neurone dont le rôle est de réguler l'activité d'autres neurones. Dans le syndrome de Dravet, les interneurones inhibiteurs (les "agents de sécurité" du cerveau) fonctionnent mal.
 
 ## L
@@ -144,11 +166,15 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 
 ## M
 
+**Mandat de protection future** — Acte juridique (loi du 5 mars 2007) permettant à une personne de désigner à l'avance un mandataire pour la représenter si elle n'est plus en mesure de pourvoir seule à ses intérêts. Pour les parents d'enfants handicapés, il permet de désigner qui prendra le relais pour les décisions relatives à la personne (santé, lieu de vie) et/ou au patrimoine. La forme notariée est obligatoire pour un enfant handicapé.
+
 **MAS (Maison d'Accueil Spécialisée)** — Établissement d'hébergement pour adultes présentant un handicap lourd nécessitant une surveillance médicale constante et une aide totale pour les actes de la vie quotidienne.
 
 **MDPH (Maison Départementale des Personnes Handicapées)** — Organisme français qui évalue le handicap et attribue les droits et aides (AEEH, AAH, PCH, orientation scolaire, protection juridique).
 
 **Métabolisme** — Ensemble des réactions chimiques qui se produisent dans le corps pour transformer les aliments en énergie, éliminer les déchets et faire fonctionner les organes. Les médicaments pris au long cours peuvent perturber le métabolisme.
+
+**Macrogol (PEG)** — Laxatif osmotique de première intention pour le traitement de la constipation chronique. Il agit en retenant l'eau dans les selles pour les ramollir. Bien toléré au long cours, il constitue la base du traitement de la constipation chez les personnes sous antiépileptiques.
 
 **Midazolam** — Médicament d'urgence de la famille des benzodiazépines, administré dans la bouche (buccal) ou dans le nez (intranasal) pour stopper une crise prolongée.
 
@@ -172,6 +198,8 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 
 **NaV1.1** — Nom du canal sodique fabriqué par le gène SCN1A. C'est la "porte" qui permet la transmission électrique dans les neurones inhibiteurs du cerveau.
 
+**NightWatch** — Bracelet de surveillance nocturne porté au bras, combinant la mesure du rythme cardiaque (photopléthysmographie) et la détection des mouvements (accéléromètre 3D). Détecte 96 % des crises tonico-cloniques et alerte le personnel soignant ou les aidants. Significativement plus performant que les capteurs de matelas seuls (21 % de détection).
+
 **NaV1.3** — Canal sodique apparenté au NaV1.1, présent principalement dans le cerveau en développement. Certaines thérapies géniques en cours de recherche ciblent l'augmentation de l'expression de NaV1.3 pour compenser partiellement le déficit en NaV1.1.
 
 **Neurone** — Cellule du cerveau et du système nerveux qui transmet les signaux électriques et chimiques.
@@ -190,9 +218,15 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 
 **PAI (Projet d'Accueil Individualisé)** — Document établi entre la famille, le médecin et l'école, qui décrit les soins médicaux à réaliser à l'école (médicaments d'urgence, protocole fièvre).
 
+**PAS-ADD (Psychiatric Assessment Schedule for Adults with Developmental Disabilities)** — Outil d'évaluation des troubles psychiatriques (dépression, anxiété) chez les adultes avec déficience intellectuelle. La version Checklist (29 items) est utilisable par les familles et les équipes non spécialistes. Version française validée. Permet de repérer les symptômes dépressifs chez des personnes qui ne peuvent pas les verbaliser.
+
 **PCH (Prestation de Compensation du Handicap)** — Aide financière française destinée à financer les besoins liés au handicap (aide humaine, aides techniques, aménagement du logement).
 
 **Personne de confiance** — Proche désigné par le patient (ou sa famille) pour être l'interlocuteur principal des soignants et transmettre ses volontés s'il ne peut plus s'exprimer.
+
+**Personne qualifiée (médiateur)** — Médiateur externe et indépendant, désigné conjointement par le Préfet, l'ARS et le Conseil départemental, qui intervient gratuitement pour aider un usager d'établissement médico-social à faire valoir ses droits en cas de désaccord avec la structure. Prévue par la loi 2002-2.
+
+**Profil de douleur (profil personnel de douleur)** — Document décrivant les modes d'expression de la douleur propres à une personne non verbale ou dyscommunicante : grimaces spécifiques, vocalisations, postures, changements de comportement. Ce document, idéalement rédigé avec l'aide des parents, permet à tout soignant de repérer la douleur même sans connaître la personne.
 
 **Pharmacorésistance** — Résistance aux médicaments antiépileptiques. Une épilepsie est dite pharmacorésistante lorsque les crises persistent malgré l'essai d'au moins deux médicaments bien choisis et correctement dosés. Le syndrome de Dravet est typiquement pharmacorésistant.
 
@@ -207,6 +241,8 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 **Polythérapie** — Utilisation simultanée de plusieurs médicaments pour traiter la maladie. Dans le syndrome de Dravet, la polythérapie est souvent nécessaire car un seul médicament ne suffit pas.
 
 **PPS (Projet Personnalisé de Scolarisation)** — Document établi par la MDPH qui définit les aménagements scolaires nécessaires (AESH, matériel adapté, emploi du temps aménagé).
+
+**Projet personnalisé** — Document co-construit entre l'équipe de l'établissement médico-social, la personne accompagnée et/ou son représentant légal, qui définit les objectifs d'accompagnement, les prestations prévues et les modalités d'évaluation. Il constitue l'avenant au contrat de séjour, doit être élaboré dans les 6 mois suivant l'admission et révisé au minimum une fois par an.
 
 **Prodrome** — Signe avant-coureur d'une crise : changement de comportement, agitation ou fatigue inhabituelle qui peut survenir quelques minutes ou heures avant la crise.
 

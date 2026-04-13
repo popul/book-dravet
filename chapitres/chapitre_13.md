@@ -26,6 +26,17 @@ Ces problèmes gynécologiques, combinés à la **constipation chronique** fréq
 
 Les fluctuations hormonales du cycle menstruel peuvent elles-mêmes influencer la fréquence des crises — c'est ce qu'on appelle l'**épilepsie cataméniale** (liée aux règles). Il est essentiel que la gynécologie fasse partie du suivi régulier de la femme adulte Dravet.
 
+**La vie quotidienne en foyer**
+Lorsque votre proche vit en foyer d'accueil médicalisé (FAM), en maison d'accueil spécialisée (MAS) ou dans une communauté comme l'Arche, sa journée est rythmée par des repères stables : lever, toilette, petit-déjeuner, activités, repas, temps calme, coucher. Cette régularité n'est pas de la rigidité — c'est une protection. Pour une personne vivant avec le syndrome de Dravet, un rythme prévisible limite la fatigue et le stress, deux déclencheurs majeurs de crises.
+
+*Que se passe-t-il la nuit ?* La surveillance nocturne varie selon les structures. En MAS, un soignant est présent en continu la nuit. En FAM, un veilleur de nuit assure les rondes, parfois avec une infirmière d'astreinte joignable par téléphone. De plus en plus de structures équipent les chambres de capteurs de mouvement placés sous le matelas, ou utilisent un bracelet porté au bras (comme le NightWatch) qui détecte les crises par les mouvements et le rythme cardiaque. Si une crise survient la nuit, le personnel suit un protocole précis : mise en sécurité, chronométrage, administration du traitement d'urgence si nécessaire, et vous êtes informés le lendemain matin, ou immédiatement en cas d'hospitalisation.
+
+*Les activités de la journée.* Selon les capacités de votre proche, la journée peut inclure des ateliers en ESAT (ateliers protégés proposant des activités adaptées comme le conditionnement, l'horticulture, l'artisanat), des activités occupationnelles (peinture, musique, sport adapté), ou des sorties encadrées (promenades, courses, événements culturels). Ces activités ne sont pas du "divertissement" : elles donnent un rythme, un sentiment d'utilité et des liens sociaux — trois éléments essentiels au bien-être.
+
+*Les repas.* Si votre proche suit un régime cétogène (un régime riche en graisses et pauvre en sucres, parfois utilisé contre l'épilepsie), la structure doit l'intégrer aux menus avec l'aide d'un diététicien. En cas de dysphagie (difficulté à avaler), les repas sont adaptés en texture : aliments mixés ou moulinés, boissons épaissies pour éviter les fausses routes. Ces adaptations sont définies dans le projet personnalisé.
+
+*Votre place en tant que famille.* Vous avez le droit de participer aux réunions du projet personnalisé, qui a lieu au minimum une fois par an. C'est le moment de faire le point sur l'accompagnement, les activités, les soins, et de transmettre vos observations. N'hésitez pas à demander un cahier de liaison pour suivre le quotidien (crises, comportement, activités, repas). Vous pouvez aussi siéger au Conseil de la Vie Sociale (CVS), l'instance qui donne un avis sur le fonctionnement de l'établissement.
+
 **D'autres problèmes de santé à surveiller**
 En plus de l'épilepsie et des troubles déjà mentionnés, les adultes Dravet peuvent développer d'autres problèmes liés à la maladie elle-même ou aux traitements pris pendant des décennies :
 *   **L'ostéoporose** (fragilisation des os) : les médicaments antiépileptiques, en particulier le valproate et le phénobarbital, réduisent la densité osseuse au fil des années. Cela augmente le risque de fractures, surtout combiné aux troubles de l'équilibre (ataxie). Une supplémentation en vitamine D et en calcium, ainsi qu'un suivi régulier de la solidité des os (ostéodensitométrie, un examen indolore), sont recommandés.
@@ -49,20 +60,41 @@ Les comorbidités de l'adulte Dravet sont multiples et nécessitent un dépistag
 *   **Syndrome métabolique :** prise de poids (40-70 % sous valproate), risque de diabète de type 2, dyslipidémie. Bilan lipidique et glycémie annuels.
 *   **Ostéoporose :** risque relatif de fracture de 1,7 à 6,2 selon les antiépileptiques [Vestergaard, 2015]. Le valproate est associé à une réduction de la formation osseuse indépendamment de la vitamine D. Facteurs aggravants : sédentarité, alimentation déséquilibrée, défaut d'exposition solaire.
 
-**2. Suivi pharmacologique au long cours**
+**2. Prise en charge médicale quotidienne en structure**
+
+*Organisation des soins et observance thérapeutique.* En MAS, la distribution des médicaments est assurée par l'IDE (infirmier diplômé d'État) présent en continu. En FAM, l'IDE prépare les piluliers et supervise la distribution, qui peut être réalisée par un éducateur formé conformément à l'article L. 313-26 du CASF (acte de la vie courante sous protocole). L'observance est un enjeu majeur chez l'adulte Dravet sous polythérapie complexe : toute modification non intentionnelle des horaires ou des doses peut déstabiliser l'équilibre épileptique. Un protocole écrit de distribution, incluant les horaires, les doses exactes et les interactions alimentaires (stiripentol à prendre pendant le repas), doit être affiché et accessible à toute l'équipe.
+
+*Gestion des crises nocturnes en internat.* Les crises tonico-cloniques sont principalement nocturnes chez l'adulte Dravet. Le protocole de surveillance nocturne doit inclure :
+*   Monitoring technologique : bracelet multimodal (NightWatch, détection de 96 % des crises tonico-cloniques) et/ou capteur de matelas (Emfit, détection de 21 % des crises sérieuses), combinés à un oreiller à structure perméable (prévention de l'asphyxie positionnelle). La caméra avec intelligence artificielle (Nelli/Neuro Event Labs) permet une analyse rétrospective des crises pour le neurologue.
+*   Ratio personnel de nuit : en MAS, 1 aide-soignant pour 8 à 20 résidents selon les établissements, avec IDE d'astreinte. En FAM, 1 veilleur pour l'établissement avec IDE d'astreinte téléphonique. Ce ratio, souvent insuffisant, justifie le recours systématique au monitoring technologique.
+*   Protocole d'alerte gradué : crise < 5 minutes → surveillance, PLS, chronométrage ; crise > 5 minutes (ou selon le seuil individualisé) → administration du midazolam buccal (Buccolam) selon le protocole individualisé ; absence de reprise de conscience à 10 minutes ou crise > 10 minutes → appel SAMU/15.
+
+*Coordination pluridisciplinaire.* La prise en charge en structure repose sur une équipe coordonnée :
+*   **Médecin coordonnateur** : pivot de la coordination, il élabore le protocole de soins, assure la liaison avec les spécialistes externes et peut initier des modifications thérapeutiques en urgence.
+*   **Neurologue référent** (consultation externe en centre de référence épilepsies rares ou CHU) : réévalue le traitement antiépileptique et ajuste la stratégie thérapeutique.
+*   **IDE** : surveillance clinique quotidienne, distribution des traitements, formation du personnel éducatif aux gestes d'urgence.
+*   **Éducateurs spécialisés / AES** : observation comportementale, transmission des informations sur les crises et les changements d'état au médecin.
+
+*Réévaluation périodique du traitement.* Le traitement antiépileptique doit être réévalué au minimum annuellement par le neurologue référent, et de manière anticipée en cas de :
+*   Modification de la fréquence, du type ou de la durée des crises.
+*   Apparition d'effets indésirables (sédation excessive, prise de poids, constipation sévère, troubles hépatiques).
+*   Changement de poids corporel significatif (adaptation des doses).
+*   Introduction d'un nouveau médicament non antiépileptique (risque d'interactions, notamment avec les psychotropes).
+
+**3. Suivi pharmacologique au long cours**
 La polythérapie reste la règle. Le monitoring doit inclure :
 *   **Valproate** : bilan hépatique, ammoniémie, NFS, bilan lipidique, glycémie (risque de syndrome métabolique). Prise de poids chez 40-70 % des patients. Chez la femme : surveillance du SOPK (syndrome des ovaires polykystiques).
 *   **Stiripentol** : surveillance des taux plasmatiques (interaction CYP2C19 avec le valproate). Profil de sécurité acceptable au long cours.
 *   **Cannabidiol (Epidyolex)** : transaminases hépatiques (élévation chez 15-20 % en association avec le valproate), interaction avec le clobazam (élévation du N-desméthylclobazam).
 *   **Fenfluramine (Fintepla)** : échocardiographie tous les 6 mois (surveillance du risque de valvulopathie, non observé aux doses épileptiques).
 
-**3. Conseil génétique et parentalité**
+**4. Conseil génétique et parentalité**
 *   Mutations de novo (>90 % des cas) : risque de récurrence faible pour la fratrie (1-2 %, lié au mosaïcisme germinal). Mosaïcisme parental somatique ou germinal détecté chez 5-10 % des parents apparemment non atteints [Depienne et al., 2006].
 *   Si le patient Dravet porteur d'une mutation SCN1A devient parent : risque de transmission de 50 %, avec expressivité variable (de l'épilepsie fébrile simple au syndrome de Dravet complet).
 *   **Valproate et grossesse** : taux de malformations congénitales majeures de 10,3 % [Tomson et al., 2018], réduction du QI de l'enfant de 7 à 10 points. Contre-indication formelle. Discussion précoce de la contraception et du projet parental.
 *   Diagnostic préimplantatoire (DPI) ou prénatal (DPN) à proposer aux familles concernées.
 
-**4. Santé de la femme et suivi gynécologique**
+**5. Santé de la femme et suivi gynécologique**
 *   **SOPK et valproate** : prévalence du SOPK jusqu'à 90 % sous valproate initié avant 20 ans [Isojärvi et al., 1993]. Hyperandrogénie, oligo/anovulation, prise de poids. Bilan hormonal (LH, FSH, testostérone, SHBG) recommandé annuellement.
 *   **Fibromes utérins** : les perturbations hormonales induites par le valproate (augmentation de la synthèse d'androgènes ovariens, conversion en estrogènes par aromatisation) peuvent favoriser la croissance de fibromes utérins, tumeurs estrogéno-dépendantes. Échographie pelvienne recommandée en cas de symptômes (saignements, douleurs).
 *   **Endométriose** : pathologie estrogéno-dépendante, prévalence de ~10 % en population féminine générale. Le déséquilibre hormonal induit par le valproate (SOPK, anovulation, hyperoestrogénie relative) constitue un facteur de risque potentiel. L'endométriose provoque des douleurs pelviennes chroniques, une dyschésie (douleur à la défécation) et une constipation par spasme du plancher pelvien, s'ajoutant à la constipation iatrogène. Diagnostic par échographie endovaginale +/- IRM pelvienne.
@@ -70,12 +102,12 @@ La polythérapie reste la règle. Le monitoring doit inclure :
 *   **Épilepsie cataméniale** : les fluctuations des estrogènes et de la progestérone modulent le seuil épileptogène. Un suivi du calendrier des crises rapporté au cycle menstruel permet d'identifier les patientes à risque et d'envisager une supplémentation progestative péri-menstruelle.
 *   **Contraception** : les antiépileptiques inducteurs enzymatiques réduisent l'efficacité des contraceptifs oraux. Le valproate impose une contraception efficace (risque tératogène). Privilégier les dispositifs intra-utérins (DIU) au lévonorgestrel ou au cuivre.
 
-**5. Monitoring métabolique et orthopédique**
+**6. Monitoring métabolique et orthopédique**
 *   Vitamine D sérique (25-OH-D) annuelle, supplémentation systématique (800-1000 UI/jour) et calcium (500-1000 mg/jour).
 *   Ostéodensitométrie (DEXA) de base à 25-30 ans, puis tous les 2-3 ans. Risque relatif de fracture : 1,7 à 6,2 selon les antiépileptiques [Vestergaard, 2015].
 *   Surveillance de la scoliose (30-50 % des cas) et de l'ataxie cérébelleuse (60-80 % des adultes).
 
-**6. Dépistage psychiatrique**
+**7. Dépistage psychiatrique**
 Outils adaptés à la déficience intellectuelle (DI) : PAS-ADD, DBC-A, ABC. Dépression (20-40 %), anxiété (30-50 %), troubles du sommeil (>60 %) [Kalnitski et al., 2021]. Antidépresseurs ISRS (sertraline) généralement bien tolérés. Vigilance sur l'interaction fluoxétine/stiripentol (CYP2D6). Antipsychotiques si nécessaire : préférer la quétiapine ou l'aripiprazole (moindre abaissement du seuil épileptogène).
 
 #### 📊 Suivi pluridisciplinaire de l'adulte Dravet (Mermaid)
@@ -116,6 +148,33 @@ graph TD
 
 ### 🤝 L'Accompagnement (Cible : Structures d'accueil & Éducateurs)
 
+**Accompagner un résident Dravet au quotidien**
+
+*Routines sécurisées.* La stabilité du quotidien est votre meilleur outil de prévention des crises. Veillez à :
+*   **Horaires de médicaments** : respectez scrupuleusement les horaires prescrits. Le stiripentol doit être pris pendant le repas (et non à jeun). Un retard de plus de 30 minutes sur une prise peut suffire à déstabiliser l'équilibre épileptique. Si vous distribuez les médicaments, vérifiez que le résident a bien avalé (pas de comprimé gardé en bouche ou recraché).
+*   **Gestion de la fièvre** : chez un adulte Dravet, la fièvre reste un déclencheur majeur de crises (elle persiste chez environ 30 % des adultes). Prenez la température au moindre doute. Administrez le paracétamol dès 37,8 °C selon le protocole prescrit, sans attendre 38,5 °C comme en population générale.
+*   **Éviter la surchauffe** : la dysautonomie (perturbation du système nerveux qui régule la température du corps) rend les personnes Dravet vulnérables à la chaleur. En été, privilégiez les pièces climatisées ou ventilées, les activités à l'ombre, et une hydratation renforcée. Même un bain trop chaud peut déclencher une crise.
+
+*Crises au quotidien : que faire selon le contexte ?*
+*   **Pendant une activité** (atelier, sport) : éloignez les objets dangereux, allongez la personne au sol si possible, protégez sa tête, ne restreignez pas ses mouvements. Chronométrez. Les autres participants doivent être éloignés calmement.
+*   **Au repas** : risque de fausse route. Si la personne a de la nourriture en bouche, placez-la en position latérale de sécurité (PLS) pour éviter l'inhalation. Ne tentez jamais de retirer de la nourriture de la bouche pendant la crise.
+*   **En sortie extérieure** : ayez toujours sur vous le traitement d'urgence (midazolam buccal), le protocole individualisé et un téléphone. Repérez les zones ombragées et les accès aux secours. Prévoyez un plan de repli.
+*   **Après la crise** : la phase post-critique (période de récupération après la crise) dure de quelques minutes à plusieurs heures. La personne peut être confuse, fatiguée, désorientée. Ne forcez jamais la reprise d'activité. Proposez un lieu calme et sûr.
+
+*Communication avec le résident non-verbal ou peu verbal.* Beaucoup d'adultes Dravet ont un langage limité ou absent. Votre rôle est d'observer et d'interpréter :
+*   **Signaux de douleur** : grimaces, crispation du visage, postures inhabituelles (se recroqueviller, se tenir le ventre), refus de manger, agitation soudaine, auto-agression (se frapper, se mordre). Ces comportements ne sont pas des "caprices" — ils expriment souvent une douleur que la personne ne peut pas verbaliser.
+*   **Signaux de malaise** : regard fixe ou fuyant, retrait inhabituel, refus de participer aux activités qu'elle apprécie normalement, gémissements, changement de posture, pâleur.
+*   **Signaux de détresse émotionnelle** : pleurs, cris, agitation extrême, mais aussi l'inverse — un retrait total, une apathie inhabituelle. Observez ce qui est différent par rapport au comportement habituel de cette personne.
+*   Utilisez des supports visuels (pictogrammes, photos) et des choix simples (montrer deux objets) pour communiquer. Appuyez-vous sur les proches et les collègues qui connaissent bien la personne pour décoder ses modes d'expression.
+
+*Travail en équipe : transmission entre jour et nuit.*
+Les informations entre l'équipe de jour et l'équipe de nuit doivent circuler de manière systématique. À chaque relève, transmettez :
+*   Les crises survenues (heure, durée, type, traitement administré).
+*   Tout changement de comportement (agitation, repli, refus alimentaire).
+*   Les prises de médicaments effectuées et celles restantes.
+*   Les consignes spécifiques du médecin (ex. : surveillance renforcée après un changement de traitement, prise de température si fièvre suspectée).
+Un cahier de transmission ou un outil numérique partagé (tablette avec application de suivi) rend cette transmission traçable et fiable. L'information orale seule ne suffit pas.
+
 **Insertion professionnelle adaptée**
 L'activité professionnelle en milieu protégé est un levier majeur de qualité de vie. En ESAT, privilégiez les ateliers qui valorisent les compétences préservées (mémoire procédurale, c'est-à-dire la mémoire des gestes appris par la répétition) : horticulture, conditionnement, activités artisanales. Adaptez les horaires (matinées souvent plus productives, fatigue liée aux antiépileptiques en début de journée) et prévoyez des temps de pause fréquents. Évitez les environnements avec des sources de chaleur non protégées ou des machines dangereuses.
 
@@ -145,6 +204,7 @@ Les professionnels de l'accompagnement doivent être attentifs aux signes d'ost�
 | **Emploi** | Valoriser toute activité, même partielle | Adapter les traitements pour limiter la fatigue diurne | ESAT (35-40 % des adultes), ateliers adaptés |
 | **Santé mentale** | Observer les changements de comportement | Dépistage systématique (PAS-ADD, DBC-A) | Repérer le retrait social, alerter l'équipe médicale |
 | **Parentalité** | Accompagner le projet avec bienveillance | Conseil génétique, contre-indication valproate/grossesse | Respecter le désir affectif et intime |
+| **Vie en structure** | Participer au projet personnalisé, cahier de liaison, visites | Protocole de soins individualisé, monitoring nocturne, coordination neurologue/médecin coordonnateur | Routines sécurisées, transmission jour/nuit, observer les signaux non-verbaux |
 | **Logement** | Anticiper le vieillissement des parents-aidants | Évaluer l'autonomie fonctionnelle | Favoriser les solutions les moins restrictives |
 
 ***
