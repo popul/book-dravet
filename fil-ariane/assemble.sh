@@ -70,20 +70,20 @@ cat >> "$OUTPUT" << 'EOF'
 
 # Sommaire
 
-[**Introduction**](#le-fil-dariane--introduction) — Pourquoi ce guide, comment l'utiliser
+[**Introduction**](#le-fil-dariane-introduction) — Pourquoi ce guide, comment l'utiliser
 
 **Les huit hypotheses**
 
-- [H1 : Fenfluramine — La molecule sous-utilisee](#hypothèse-1--la-fenfluramine-une-option-sous-utilisée-chez-ladulte)
-- [H2 : Audit de polytherapie — Simplifier pour mieux traiter](#hypothèse-2--un-audit-pharmacologique-après-30-ans-de-traitement)
-- [H3 : Bilan douleur — Detecter ce qui ne se dit pas](#hypothèse-3--chercher-la-douleur-cachée)
-- [H4 : Monitoring nocturne — Surveiller la nuit](#hypothèse-4--surveiller-la-nuit-pour-protéger-la-vie)
-- [H5 : Regime Atkins modifie — L'option metabolique](#hypothèse-5--le-régime-atkins-modifié-une-arme-complémentaire-faisable-en-foyer)
-- [H6 : Essais cliniques — Explorer les nouvelles pistes](#hypothèse-6--les-essais-cliniques-une-fenêtre-qui-souvre)
-- [H7 : Cadre juridique — Vos droits face a la structure](#hypothèse-7--vos-droits-face-à-la-structure-daccueil)
-- [H8 : Apres les parents — Anticiper la continuite](#hypothèse-8--préparer-laprès--quand-les-parents-ne-pourront-plus)
+- [H1 : Fenfluramine — La molecule sous-utilisee](#hypothese-1-la-fenfluramine-une-option-sous-utilisee-chez-ladulte)
+- [H2 : Audit de polytherapie — Simplifier pour mieux traiter](#hypothese-2-un-audit-pharmacologique-apres-30-ans-de-traitement)
+- [H3 : Bilan douleur — Detecter ce qui ne se dit pas](#hypothese-3-chercher-la-douleur-cachee)
+- [H4 : Monitoring nocturne — Surveiller la nuit](#hypothese-4-surveiller-la-nuit-pour-proteger-la-vie)
+- [H5 : Regime Atkins modifie — L'option metabolique](#hypothese-5-le-regime-atkins-modifie-une-arme-complementaire-faisable-en-foyer)
+- [H6 : Essais cliniques — Explorer les nouvelles pistes](#hypothese-6-les-essais-cliniques-une-fenetre-qui-souvre)
+- [H7 : Cadre juridique — Vos droits face a la structure](#hypothese-7-vos-droits-face-a-la-structure-daccueil)
+- [H8 : Apres les parents — Anticiper la continuite](#hypothese-8-preparer-lapres-quand-les-parents-ne-pourront-plus)
 
-[**Synthese**](#synthèse--par-où-commencer) — Vue d'ensemble et plan d'action
+[**Synthese**](#synthese-par-ou-commencer) — Vue d'ensemble et plan d'action
 
 EOF
 
