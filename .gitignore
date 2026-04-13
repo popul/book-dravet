@@ -1,5 +1,10 @@
 node_modules/
-livre_complet.md
-livre_complet_web.md
-livre_complet.pdf
 _site/
+livre/_site/
+livre/livre_complet.md
+livre/livre_complet_web.md
+livre/livre_complet.pdf
+fil-ariane/_site/
+fil-ariane/fil_ariane_complet.md
+fil-ariane/fil_ariane_complet_web.md
+fil-ariane/fil_ariane_complet.pdf

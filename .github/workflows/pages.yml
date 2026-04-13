@@ -24,7 +24,7 @@ jobs:
       - name: Installer pandoc
         run: sudo apt-get update && sudo apt-get install -y pandoc
 
-      - name: Generer le HTML
+      - name: Generer le HTML (livre + fil d'ariane)
         run: make html
 
       - name: Configurer GitHub Pages

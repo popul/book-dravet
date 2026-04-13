@@ -25,16 +25,20 @@ jobs:
       - name: Installer md-to-pdf
         run: npm install -g md-to-pdf
 
-      - name: Assembler le markdown
-        run: make md
-
-      - name: Generer le PDF
-        run: make pdf
+      - name: Construire le livre
+        run: make -C livre md && make -C livre pdf
         env:
           PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
 
-      - name: Uploader le PDF
+      - name: Construire le Fil d'Ariane
+        run: make -C fil-ariane md && make -C fil-ariane pdf
+        env:
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
+
+      - name: Uploader les PDF
         uses: actions/upload-artifact@v4
         with:
-          name: livre-dravet
-          path: livre_complet.pdf
+          name: dravet-complet
+          path: |
+            livre/livre_complet.pdf
+            fil-ariane/fil_ariane_complet.pdf

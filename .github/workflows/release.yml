@@ -26,11 +26,13 @@ jobs:
       - name: Installer md-to-pdf
         run: npm install -g md-to-pdf
 
-      - name: Assembler le markdown
-        run: make md
+      - name: Construire le livre
+        run: make -C livre md && make -C livre pdf
+        env:
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
 
-      - name: Generer le PDF
-        run: make pdf
+      - name: Construire le Fil d'Ariane
+        run: make -C fil-ariane md && make -C fil-ariane pdf
         env:
           PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
 
@@ -39,8 +41,13 @@ jobs:
         with:
           name: "Syndrome de Dravet — ${{ github.ref_name }}"
           body: |
-            Nouvelle version de l'ouvrage de reference sur le syndrome de Dravet.
+            Nouvelle version des livrables sur le syndrome de Dravet.
 
-            Telecharger le PDF ci-dessous.
-          files: livre_complet.pdf
+            - **Livre** : Ouvrage de reference (17 chapitres)
+            - **Le Fil d'Ariane** : Guide d'action pour l'adulte Dravet en structure
+
+            Telecharger les PDF ci-dessous.
+          files: |
+            livre/livre_complet.pdf
+            fil-ariane/fil_ariane_complet.pdf
           generate_release_notes: true
