@@ -1,0 +1,126 @@
+@page {
+  size: A4;
+  margin: 20mm;
+}
+
+body {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 11pt;
+  line-height: 1.6;
+  color: #1a1a1a;
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 22pt;
+  color: #2c3e50;
+  border-bottom: 3px solid #2c3e50;
+  padding-bottom: 8px;
+  margin-top: 40px;
+  page-break-before: always;
+}
+
+h1:first-of-type {
+  page-break-before: avoid;
+}
+
+h2 {
+  font-size: 18pt;
+  color: #34495e;
+  margin-top: 30px;
+  page-break-before: always;
+}
+
+h3 {
+  font-size: 14pt;
+  color: #2980b9;
+  margin-top: 20px;
+  border-left: 4px solid #2980b9;
+  padding-left: 10px;
+}
+
+h4 {
+  font-size: 12pt;
+  color: #7f8c8d;
+  margin-top: 15px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 15px 0;
+  font-size: 9pt;
+  page-break-inside: avoid;
+}
+
+th, td {
+  border: 1px solid #bdc3c7;
+  padding: 6px 8px;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background-color: #ecf0f1;
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+blockquote {
+  border-left: 4px solid #e74c3c;
+  background-color: #fdf2f2;
+  padding: 10px 15px;
+  margin: 15px 0;
+  font-style: normal;
+  page-break-inside: avoid;
+}
+
+code {
+  background-color: #f4f4f4;
+  padding: 2px 4px;
+  border-radius: 3px;
+  font-size: 9pt;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 8pt;
+  overflow-x: auto;
+  page-break-inside: avoid;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 25px 0;
+}
+
+strong {
+  color: #2c3e50;
+}
+
+ul, ol {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 4px;
+}
+
+/* Page de titre */
+.title-page {
+  text-align: center;
+  padding-top: 200px;
+}
+
+/* Empêcher les coupures dans les sections */
+h3 + p, h3 + ul, h3 + ol {
+  page-break-before: avoid;
+}
