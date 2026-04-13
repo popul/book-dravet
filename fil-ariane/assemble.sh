@@ -40,8 +40,6 @@ pdf_options:
   headerTemplate: '<div style="font-size:8px;width:100%;text-align:center;color:#999;">Le Fil d'Ariane — Guide d'action adulte Dravet</div>'
   footerTemplate: '<div style="font-size:8px;width:100%;text-align:center;color:#999;"><span class="pageNumber"></span> / <span class="totalPages"></span></div>'
 stylesheet: style.css
-script:
-  - url: https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js
 ---
 FRONTMATTER
 else
@@ -112,25 +110,5 @@ for f in "${FILES[@]}"; do
   cat "$f" >> "$OUTPUT"
   echo "" >> "$OUTPUT"
 done
-
-# Script Mermaid pour le PDF (transforme les blocs code en divs mermaid)
-if [[ "$MODE" == "pdf" ]]; then
-  cat >> "$OUTPUT" << 'MERMAID_INIT'
-
-<script>
-  document.querySelectorAll('code.language-mermaid').forEach(code => {
-    const pre = code.parentElement;
-    const div = document.createElement('div');
-    div.className = 'mermaid';
-    div.textContent = code.textContent;
-    pre.replaceWith(div);
-  });
-  mermaid.initialize({ startOnLoad: false, theme: 'base',
-    themeVariables: { primaryColor: '#fdf6e3', primaryBorderColor: '#b8860b', lineColor: '#5c4a1e' }
-  });
-  mermaid.run();
-</script>
-MERMAID_INIT
-fi
 
 echo "Assemblage termine ($MODE): $(wc -l < "$OUTPUT") lignes -> $OUTPUT"
