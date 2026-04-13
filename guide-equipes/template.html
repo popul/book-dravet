@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>$title$</title>
+$for(css)$
+  <link rel="stylesheet" href="$css$">
+$endfor$
+  <style>
+    /* Adaptations web */
+    body { max-width: 900px; margin: 0 auto; padding: 20px; }
+    .title-page { padding-top: 60px; }
+    h1 { page-break-before: unset; }
+    h2 { page-break-before: unset; }
+    nav#TOC { margin-bottom: 40px; border: 1px solid #a8d5c0; padding: 20px; border-radius: 4px; background: #f0f8f4; }
+    nav#TOC > ul { list-style: none; padding-left: 0; }
+    .download-banner { background: #1a5c3a; color: white; padding: 12px 20px; border-radius: 4px; margin-bottom: 30px; text-align: center; }
+    .download-banner a { color: #7ddfb0; font-weight: bold; }
+    @media (max-width: 768px) {
+      body { padding: 10px; }
+      .download-banner { padding: 10px; font-size: 0.85em; }
+      nav#TOC { padding: 12px; }
+      .title-page { padding-top: 30px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="download-banner">
+    <a href="../">Accueil</a> &nbsp;|&nbsp;
+    <a href="../livre/">Le Livre</a> &nbsp;|&nbsp;
+    <a href="../fil-ariane/">Le Fil d'Ariane</a> &nbsp;|&nbsp;
+    Version PDF disponible dans les <a href="https://github.com/popul/book-dravet/releases/latest">Releases GitHub</a>
+  </div>
+$body$
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    // Pandoc wraps ```mermaid blocks in <pre class="mermaid"><code>...</code></pre>
+    // with HTML entities. Mermaid expects raw syntax in the element.
+    document.querySelectorAll('pre.mermaid').forEach(pre => {
+      const code = pre.querySelector('code');
+      if (code) {
+        pre.textContent = code.textContent;
+      }
+    });
+    mermaid.initialize({ startOnLoad: false, theme: 'base',
+      themeVariables: { primaryColor: '#f0f8f4', primaryBorderColor: '#2d8659', lineColor: '#2d8659' }
+    });
+    await mermaid.run({ nodes: document.querySelectorAll('pre.mermaid') });
+  </script>
+</body>
+</html>

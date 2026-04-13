@@ -5,10 +5,10 @@
 #   2. fil-ariane/   — Guide d'action pour l'adulte Dravet en structure
 #
 
-.PHONY: all livre fil-ariane html html-livre html-fil-ariane pdf clean deps help
+.PHONY: all livre fil-ariane guide-equipes html html-livre html-fil-ariane html-guide-equipes pdf clean deps help
 
 ## Cible par defaut : tout construire
-all: livre fil-ariane
+all: livre fil-ariane guide-equipes
 
 ## --- Livre ---
 
@@ -26,18 +26,27 @@ fil-ariane:
 html-fil-ariane:
 	@$(MAKE) -C fil-ariane html
 
-## --- Les deux en HTML (pour GitHub Pages) ---
+## --- Guide equipes ---
 
-html: html-livre html-fil-ariane
-	@mkdir -p _site/livre _site/fil-ariane
+guide-equipes:
+	@$(MAKE) -C guide-equipes pdf
+
+html-guide-equipes:
+	@$(MAKE) -C guide-equipes html
+
+## --- Les trois en HTML (pour GitHub Pages) ---
+
+html: html-livre html-fil-ariane html-guide-equipes
+	@mkdir -p _site/livre _site/fil-ariane _site/guide-equipes
 	@cp index.html _site/
 	@cp -r livre/_site/* _site/livre/ 2>/dev/null || true
 	@cp -r fil-ariane/_site/* _site/fil-ariane/ 2>/dev/null || true
-	@echo "=> _site/ (accueil + livre + fil d'ariane)"
+	@cp -r guide-equipes/_site/* _site/guide-equipes/ 2>/dev/null || true
+	@echo "=> _site/ (accueil + 3 livrables)"
 
 ## --- PDF ---
 
-pdf: livre fil-ariane
+pdf: livre fil-ariane guide-equipes
 
 ## --- Dependances ---
 
@@ -49,15 +58,17 @@ deps:
 clean:
 	@$(MAKE) -C livre clean
 	@$(MAKE) -C fil-ariane clean
+	@$(MAKE) -C guide-equipes clean
 	rm -rf _site
 
 ## --- Aide ---
 
 help:
 	@echo "Cibles disponibles :"
-	@echo "  make              Construire les deux livrables (PDF)"
+	@echo "  make              Construire les trois livrables (PDF)"
 	@echo "  make livre        Construire le livre seul"
 	@echo "  make fil-ariane   Construire le Fil d'Ariane seul"
-	@echo "  make html         Construire les deux en HTML (GitHub Pages)"
+	@echo "  make guide-equipes  Construire le Guide equipes seul"
+	@echo "  make html         Construire les trois en HTML (GitHub Pages)"
 	@echo "  make deps         Installer les dependances"
 	@echo "  make clean        Supprimer les fichiers generes"

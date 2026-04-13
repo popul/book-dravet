@@ -39,6 +39,11 @@ jobs:
         env:
           PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
 
+      - name: Construire le Guide equipes
+        run: make -C guide-equipes md && make -C guide-equipes pdf
+        env:
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
+
       - name: Creer la release GitHub
         uses: softprops/action-gh-release@v2
         with:
@@ -48,9 +53,11 @@ jobs:
 
             - **Livre** : Ouvrage de reference (17 chapitres)
             - **Le Fil d'Ariane** : Guide d'action pour l'adulte Dravet en structure
+            - **Guide equipes** : 10 fiches pratiques pour les professionnels en structure
 
             Telecharger les PDF ci-dessous.
           files: |
             livre/livre_complet.pdf
             fil-ariane/fil_ariane_complet.pdf
+            guide-equipes/guide_equipes_complet.pdf
           generate_release_notes: true

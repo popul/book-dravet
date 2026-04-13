@@ -38,6 +38,11 @@ jobs:
         env:
           PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
 
+      - name: Construire le Guide equipes
+        run: make -C guide-equipes md && make -C guide-equipes pdf
+        env:
+          PUPPETEER_EXECUTABLE_PATH: /usr/bin/chromium-browser
+
       - name: Uploader les PDF
         uses: actions/upload-artifact@v4
         with:
@@ -45,3 +50,4 @@ jobs:
           path: |
             livre/livre_complet.pdf
             fil-ariane/fil_ariane_complet.pdf
+            guide-equipes/guide_equipes_complet.pdf
