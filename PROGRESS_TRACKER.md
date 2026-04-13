@@ -45,6 +45,9 @@
 - [x] Thérapie génique & Innovation - `recherche/05_therapie_genique_innovation.md`
 - [x] Vie adulte & Vieillissement - `recherche/06_vie_adulte_vieillissement.md`
 - [x] Aspects sociaux & Éthiques - `recherche/07_aspects_sociaux_ethiques.md`
+- [x] Non-réponse thérapeutique - `recherche/08_non_reponse_therapeutique.md`
+- [x] Vie en structure résidentielle - `recherche/09_vie_structure_residentielle.md`
+- [x] Vieillissement des aidants & Succession - `recherche/10_vieillissement_aidants_succession.md`
 
 ---
 
