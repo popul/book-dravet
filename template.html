@@ -25,6 +25,14 @@ $endfor$
   </div>
 $body$
   <script type="module">
+    // Pandoc wraps ```mermaid blocks in <pre class="mermaid"><code>...</code></pre>
+    // with HTML entities. Mermaid expects <pre class="mermaid">raw syntax</pre>.
+    document.querySelectorAll('pre.mermaid').forEach(pre => {
+      const code = pre.querySelector('code');
+      if (code) {
+        pre.textContent = code.textContent;
+      }
+    });
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true, theme: 'base',
       themeVariables: { primaryColor: '#ecf0f1', primaryBorderColor: '#2c3e50', lineColor: '#2c3e50' }
