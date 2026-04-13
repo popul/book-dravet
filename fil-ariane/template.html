@@ -17,9 +17,12 @@ $endfor$
     nav#TOC > ul { list-style: none; padding-left: 0; }
     .download-banner { background: #5c4a1e; color: white; padding: 12px 20px; border-radius: 4px; margin-bottom: 30px; text-align: center; }
     .download-banner a { color: #f0c040; font-weight: bold; }
-    .nav-banner { background: #f5f0e0; color: #5c4a1e; padding: 10px 20px; border-radius: 4px; margin-bottom: 10px; text-align: center; font-size: 0.95em; }
-    .nav-banner a { color: #b8860b; font-weight: bold; text-decoration: none; }
-    .nav-banner a:hover { text-decoration: underline; }
+    @media (max-width: 768px) {
+      body { padding: 10px; }
+      .download-banner { padding: 10px; font-size: 0.85em; }
+      nav#TOC { padding: 12px; }
+      .title-page { padding-top: 30px; }
+    }
   </style>
 </head>
 <body>

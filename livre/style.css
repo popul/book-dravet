@@ -124,3 +124,21 @@ li {
 h3 + p, h3 + ul, h3 + ol {
   page-break-before: avoid;
 }
+
+/* Responsive mobile portrait */
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 10pt;
+    padding: 0 10px;
+  }
+  h1 { font-size: 16pt; margin-top: 20px; }
+  h2 { font-size: 14pt; margin-top: 15px; }
+  h3 { font-size: 12pt; }
+  table { font-size: 8pt; display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  th, td { padding: 4px 5px; }
+  blockquote { padding: 8px 10px; margin: 10px 0; }
+  pre { font-size: 7pt; padding: 8px; }
+  .title-page { padding-top: 60px; }
+  pre.mermaid, .mermaid { max-width: 100%; overflow-x: auto; }
+  svg { max-width: 100%; height: auto; }
+}
