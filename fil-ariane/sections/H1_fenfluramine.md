@@ -96,6 +96,8 @@ graph TD
     J -->|Non| L[Discuter<br/>alternatives]
 ```
 
+> **Pour approfondir** : Livre, Chapitre 8 — La Revolution Moleculaire (traitements ciblés, essais pivotaux fenfluramine)
+
 ## Ce qu'il faut retenir
 
 La fenfluramine n'est pas une guerison. Aucun traitement actuel ne l'est dans le syndrome de Dravet. Mais c'est la molecule avec le meilleur rapport efficacite/nombre de patients a traiter, et les donnees chez l'adulte sont solides et encourageantes. Si votre proche ne repond pas au CBD, cette piste merite d'etre exploree.

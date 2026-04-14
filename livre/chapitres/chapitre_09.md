@@ -135,3 +135,7 @@ En structure (crèche, école), vous êtes les premiers témoins. Votre capacit�
 | **Prévention** | Contrôle des crises au quotidien | Stratégie anti-SUDEP | Vigilance thermique et sommeil |
 
 ***
+
+> **Pour passer a l'action** : Fil d'Ariane, Hypothese H4 — Monitoring nocturne (NightWatch, équipement, financement PCH)
+>
+> **Outil a imprimer** : Fiche d'urgence et affiche contre-indications dans la Boite a outils

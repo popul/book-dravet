@@ -134,3 +134,5 @@ L'accompagnement en fin de vie ne relève pas uniquement du médical. Maintenir 
 | **Valeur commune** | *Dignité* | *Proportionnalité* | *Continuité* |
 
 ***
+
+> **Pour passer a l'action** : Fil d'Ariane, Hypothese H8 — Préparer l'après (mandat protection future, savoir parental, fratrie)

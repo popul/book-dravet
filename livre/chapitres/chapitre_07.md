@@ -195,3 +195,5 @@ Le VNS est un petit boîtier implanté sous la peau de la poitrine, relié au ne
 | **Action clé** | Noter les changements d'humeur | Ajustement des doses/molécules | Respect strict des horaires de prise |
 
 ***
+
+> **Pour passer a l'action** : Fil d'Ariane, Hypothese H2 — Audit pharmacologique (bilan, dosages plasmatiques, simplification prudente) | Hypothese H5 — Régime Atkins modifié (faisabilité en foyer)

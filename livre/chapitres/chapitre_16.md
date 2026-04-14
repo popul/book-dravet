@@ -148,3 +148,5 @@ Même si un enfant participe à un essai clinique, l'accompagnement éducatif, c
 | **Action clé** | S'inscrire sur les registres de patients | Stratifier par mutation, suivre les biomarqueurs (NfL, GFAP) | Se tenir informé, connaître les contraintes pratiques |
 
 ***
+
+> **Pour passer a l'action** : Fil d'Ariane, Hypothese H6 — Essais cliniques (éligibilité, CReER, ClinicalTrials.gov)

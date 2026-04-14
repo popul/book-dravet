@@ -153,4 +153,6 @@ Chaque demande orale doit etre suivie d'un email ou d'un courrier de confirmatio
 
 Vous n'etes pas en position de faiblesse face a la structure. La loi vous donne des droits concrets et des voies de recours graduees. Le plus important : passez a l'ecrit, gardez des traces, et n'hesitez pas a solliciter la personne qualifiee. Elle est la pour ca.
 
+> **Pour approfondir** : Livre, Chapitre 11 — Inclusion et Droits (détail MDPH, montants, structures résidentielles, monitoring)
+
 Pour les montants detailles des aides financieres (AAH, AEEH, PCH, AJPA) et les procedures MDPH, voir le chapitre 11 du Livre.

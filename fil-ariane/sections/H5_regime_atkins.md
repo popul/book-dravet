@@ -98,6 +98,8 @@ Commencer le MAD sous supervision dietetique. Tenir un calendrier de crises (fre
 
 Si le benefice est clair, poursuivre avec surveillance. Si aucun effet a 3 mois malgre une cetose effective, discuter l'arret.
 
+> **Pour approfondir** : Livre, Chapitre 7 — La Pharmacopée Classique (régime cétogène classique, VNS, données Dressler)
+
 ## Ce qu'il faut retenir
 
 Le regime Atkins modifie est l'une des rares interventions non medicamenteuses avec des donnees solides dans le Dravet. Il ne remplace pas les traitements mais s'y ajoute. Sa faisabilite en foyer est reelle si la coordination avec la cuisine et le personnel est bien organisee. Un essai de 3 mois permet de juger de son interet sans engagement irreversible.

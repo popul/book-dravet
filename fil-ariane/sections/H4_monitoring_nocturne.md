@@ -102,6 +102,10 @@ graph TD
     K --> J
 ```
 
+> **Pour approfondir** : Livre, Chapitre 9 — Le Protocole d'Urgence (SUDEP, algorithme EME, prévention)
+>
+> **Outil a imprimer** : Fiche d'urgence et affiche contre-indications dans la Boite a outils
+
 ## Ce qu'il faut retenir
 
 La SUDEP est evitable dans beaucoup de cas. La surveillance nocturne multimodale reduit le risque. Un bracelet NightWatch coute entre 500 et 800 euros. Un oreiller anti-etouffement coute 30 euros. Un protocole post-ictal affiche dans la chambre ne coute rien. Ce sont des gestes concrets qui protegent la vie.

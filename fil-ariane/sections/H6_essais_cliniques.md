@@ -103,6 +103,8 @@ Recherchez "Dravet syndrome" + "adult" pour identifier les essais ouverts. Certa
 **Etape 4 -- Rester informe**
 L'Alliance Syndrome de Dravet (France) et la Dravet Syndrome Foundation (internationale) publient regulierement des mises a jour sur les essais cliniques. S'y abonner permet de ne pas manquer l'ouverture d'un essai pertinent.
 
+> **Pour approfondir** : Livre, Chapitre 16 — La Frontiere de l'Espoir (STK-001, ETX101, CRISPRa, pipeline complet)
+
 ## Ce qu'il faut retenir
 
 Nous vivons un moment historique pour le syndrome de Dravet. Pour la premiere fois, des therapies ciblant la cause genetique sont en essai chez l'humain. L'acces aux adultes est encore limite, mais il est probable que cela change dans les annees a venir. Le premier geste pour s'y preparer : verifier que le test genetique SCN1A est a jour.

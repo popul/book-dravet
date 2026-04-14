@@ -302,3 +302,5 @@ La personne accompagnée peut prendre un nombre important de médicaments à des
 | **Action clé** | Espoir et patience dans l'ajustement | Optimisation de la polythérapie et pharmacovigilance | Observation fine, signalement rapide des changements |
 
 ***
+
+> **Pour passer a l'action** : Fil d'Ariane, Hypothese H1 — La fenfluramine (données adultes, plan d'action, demande au neurologue)

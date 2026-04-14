@@ -253,3 +253,5 @@ La **SUDEP** (mort subite inattendue liée à l'épilepsie) est un risque grave 
 | **SUDEP** | Surveillance nocturne, moniteur de crises | Prévention, information aux familles (voir ch. 9) | Surveillance pendant siestes et repos |
 
 ***
+
+> **Pour passer a l'action** : Fil d'Ariane, Hypothese H3 — Chercher la douleur cachée (plan d'action, évaluation DESS, profil de douleur)

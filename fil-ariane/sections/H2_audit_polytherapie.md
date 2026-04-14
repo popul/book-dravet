@@ -108,6 +108,8 @@ Les medicaments suivants sont **formellement contre-indiques** dans le syndrome 
 
 Si l'un de ces medicaments figure dans le traitement de votre proche, c'est une alerte immediate a signaler au neurologue. Et ces contre-indications doivent figurer dans le protocole d'urgence du dossier en structure.
 
+> **Pour approfondir** : Livre, Chapitre 7 — La Pharmacopée Classique (mécanismes, contre-indications, régime cétogène)
+
 ## Ce qu'il faut retenir
 
 Un audit pharmacologique n'est pas un luxe. Apres 30 ans de polytherapie, c'est un droit et une necessite medicale. Mieux vaut trois molecules bien dosees et utiles que cinq qui interagissent, sedatent et fragilisent les os. La simplification ne signifie pas l'abandon -- elle signifie l'optimisation.

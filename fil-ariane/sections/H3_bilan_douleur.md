@@ -106,6 +106,8 @@ Si votre proche est sous valproate depuis plus de 3 ans (ce qui est quasi-certai
 **Etape 6 -- Creer le Profil Personnel de Douleur**
 Avec les parents et l'equipe de la structure, documenter par ecrit comment votre proche exprime la douleur. Ce document doit etre dans le dossier, dans la chambre, et accompagner la personne en cas d'hospitalisation.
 
+> **Pour approfondir** : Livre, Chapitre 6 — Les Comorbidités (cartographie complète, échelles de douleur, protocoles)
+
 ## Ce qu'il faut retenir
 
 La douleur non identifiee est probablement le facteur le plus sous-estime dans la vie d'un adulte Dravet en structure. Elle aggrave les crises, degrade la qualite de vie, et genere des comportements que l'on attribue a tort au handicap ou a l'epilepsie. L'identifier et la traiter est un geste puissant, concret et accessible.

@@ -132,6 +132,8 @@ Si la fratrie ne souhaite pas ou ne peut pas assumer la protection juridique, id
 **Etape 5 -- Mettre a jour les documents**
 Le mandat de protection future, le Profil Personnel de Douleur, le protocole d'urgence, les coordonnees des personnes cles -- tous ces documents doivent etre a jour et accessibles. Prevoyez une revision annuelle.
 
+> **Pour approfondir** : Livre, Chapitre 15 — Ethique, Autonomie et Fin de Vie (tutelle, curatelle, directives anticipées)
+
 ## Ce qu'il faut retenir
 
 Preparer l'apres n'est pas un aveu de defaite. C'est un acte d'amour et de responsabilite. Le mandat de protection future est l'outil juridique central. La documentation du savoir parental est l'outil humain central. Et la fratrie a le droit de choisir librement son role -- sans culpabilite.

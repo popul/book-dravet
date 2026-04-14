@@ -367,3 +367,5 @@ Le syndrome de Dravet impose des précautions spécifiques que tout professionne
 | **Urgence en foyer** | Exiger un protocole écrit et une formation du personnel ; vérifier le monitoring nocturne | Protocole individualisé (midazolam, seuils, appel 15) ; évaluer le risque SUDEP (3,53/1000 PA) | Maîtriser PLS, chronomètre, midazolam buccal (art. L.313-26 CASF) ; formation Epipair tous les 12-24 mois |
 
 ***
+
+> **Pour passer a l'action** : Fil d'Ariane, Hypothese H7 — Vos droits face a la structure (escalade des recours, personne qualifiée, CVS)
