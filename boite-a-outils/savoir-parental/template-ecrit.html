@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Documentation du Savoir Parental — Syndrome de Dravet</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; color: #1a1a1a; max-width: 900px; margin: 0 auto; padding: 20px; }
+    .print-hint { background: #dbeafe; padding: 14px 20px; border-radius: 6px; margin-bottom: 24px; text-align: center; color: #1e40af; }
+    .doc { background: white; border: 1px solid #ddd; border-radius: 8px; padding: 28px 32px; }
+    .doc h1 { font-size: 1.5em; color: #1e3a5f; margin-bottom: 4px; }
+    .doc .subtitle { color: #666; margin-bottom: 20px; font-size: 0.9em; }
+    .section { margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid #eee; }
+    .section:last-child { border-bottom: none; }
+    .section h2 { font-size: 1.1em; color: #1e3a5f; margin-bottom: 4px; padding-left: 8px; border-left: 3px solid #d97706; }
+    .section .guide { font-size: 0.85em; color: #888; font-style: italic; margin-bottom: 12px; padding-left: 8px; }
+    .field { margin-bottom: 10px; }
+    .field label { display: block; font-size: 0.8em; color: #555; font-weight: bold; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 2px; }
+    .field textarea { width: 100%; border: 1px solid #ddd; border-radius: 4px; padding: 8px; font-size: 0.95em; font-family: inherit; background: transparent; resize: vertical; min-height: 70px; }
+    .field textarea:focus { outline: none; border-color: #d97706; }
+    .field input { width: 100%; border: none; border-bottom: 1px solid #ccc; padding: 4px 0; font-size: 0.95em; font-family: inherit; background: transparent; }
+    .field input:focus { outline: none; border-bottom-color: #d97706; }
+    .fields-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .tip { background: #fffbeb; border: 1px solid #fbbf24; border-radius: 4px; padding: 10px 14px; margin: 12px 0; font-size: 0.85em; color: #92400e; }
+    @media print {
+      body { background: white; padding: 0; max-width: 100%; }
+      .nav-banner, .print-hint, .tip { display: none !important; }
+      .doc { border: none; padding: 10mm 15mm; }
+      .section { page-break-inside: avoid; }
+      .field textarea { border: 1px solid #000; min-height: 50px; }
+      .field input { border-bottom: 1px solid #000; }
+      @page { size: A4 portrait; margin: 12mm; }
+    }
+    @media (max-width: 768px) { body { padding: 10px; } .fields-row { grid-template-columns: 1fr; } .doc { padding: 16px; } }
+  </style>
+</head>
+<body>
+  <style>
+  .nav-banner { background: #2c3e50; color: white; padding: 12px 20px; border-radius: 4px; margin-bottom: 20px; text-align: center; }
+  .nav-banner a { color: #85c1e9; font-weight: bold; text-decoration: none; }
+  .nav-banner a:hover { text-decoration: underline; }
+  @media (max-width: 768px) { .nav-banner { padding: 10px; font-size: 0.85em; } }
+  </style>
+  <div class="nav-banner">
+    <a href="../../">Accueil</a> &nbsp;|&nbsp;
+    <a href="../../livre/">Le Livre</a> &nbsp;|&nbsp;
+    <a href="../../fil-ariane/">Le Fil d'Ariane</a> &nbsp;|&nbsp;
+    <a href="../../guide-equipes/">Guide equipes</a> &nbsp;|&nbsp;
+    <a href="../">Boite a outils</a> &nbsp;|&nbsp;
+    <a href="../../recherche/">Recherche</a> &nbsp;|&nbsp;
+    <a href="https://github.com/popul/book-dravet/releases/latest">PDF</a>
+  </div>
+
+  <div class="print-hint">
+    <strong>Remplissez chaque section, puis imprimez (Ctrl+P / Cmd+P).</strong><br>
+    Conservez une copie chez le notaire (annexe du mandat), dans la structure, et avec la fratrie.
+  </div>
+
+  <div class="doc">
+    <h1>Documentation du Savoir Parental</h1>
+    <p class="subtitle">Tout ce que vous savez sur votre enfant et que personne d'autre ne sait. Ce document est destine a ceux qui prendront le relais.</p>
+
+    <div class="tip">Prenez le temps de remplir ce document calmement, sur plusieurs jours si necessaire. Il n'y a pas de mauvaise reponse. Ce qui compte, c'est votre vecu et votre connaissance intime de votre enfant.</div>
+
+    <!-- Section 1 -->
+    <div class="section">
+      <h2>1. Sa routine quotidienne</h2>
+      <div class="guide">Decrivez une journee type, du lever au coucher.</div>
+      <div class="fields-row">
+        <div class="field"><label>Heure de lever</label><input type="text"></div>
+        <div class="field"><label>Heure de coucher</label><input type="text"></div>
+      </div>
+      <div class="field"><label>Rituel du matin (lever, toilette, habillage)</label><textarea placeholder="Decrire l'ordre, les habitudes, ce qui fonctionne..."></textarea></div>
+      <div class="field"><label>Repas : preferences, textures, rituels</label><textarea placeholder="Ce qu'elle aime, ce qu'elle refuse, comment elle mange (seule, avec aide, texture mixee...)"></textarea></div>
+      <div class="field"><label>Activites de la journee</label><textarea placeholder="Ce qu'elle fait, ce qu'elle aime, son rythme, les moments de repos..."></textarea></div>
+      <div class="field"><label>Rituel du soir et endormissement</label><textarea placeholder="Bain/douche (attention temperature !), pyjama, rituel, comment elle s'endort..."></textarea></div>
+    </div>
+
+    <!-- Section 2 -->
+    <div class="section">
+      <h2>2. Ses crises</h2>
+      <div class="guide">Ce que vous avez appris en des annees d'observation.</div>
+      <div class="field"><label>Types de crises qu'elle fait (decrire ce qu'on voit)</label><textarea placeholder="Comment ca commence, ce qui se passe, combien de temps ca dure..."></textarea></div>
+      <div class="field"><label>Frequence habituelle</label><textarea placeholder="Combien par semaine/mois, plutot le jour ou la nuit, y a-t-il des periodes plus calmes ?"></textarea></div>
+      <div class="field"><label>Facteurs declenchants que vous avez identifies</label><textarea placeholder="Chaleur, fievre, bain, fatigue, excitation, menstruations, changement de routine, certains aliments, certaines situations..."></textarea></div>
+      <div class="field"><label>Signes avant-coureurs</label><textarea placeholder="Changement de regard, d'humeur, de comportement dans les heures ou minutes avant une crise..."></textarea></div>
+      <div class="field"><label>Ce qu'il faut faire pendant la crise</label><textarea placeholder="Position, gestes, midazolam (dose), ce qui la calme, ce qu'il ne faut surtout pas faire..."></textarea></div>
+      <div class="field"><label>Apres la crise</label><textarea placeholder="Combien de temps pour recuperer, ce dont elle a besoin, comportement post-critique..."></textarea></div>
+    </div>
+
+    <!-- Section 3 -->
+    <div class="section">
+      <h2>3. Sa communication</h2>
+      <div class="guide">Comment elle s'exprime sans les mots (ou avec).</div>
+      <div class="field"><label>Comment elle dit oui / non</label><textarea placeholder="Geste, son, regard, mouvement de tete..."></textarea></div>
+      <div class="field"><label>Comment elle exprime un besoin (faim, soif, toilettes, ennui)</label><textarea placeholder=""></textarea></div>
+      <div class="field"><label>Mots ou signes qu'elle utilise</label><textarea placeholder="Vocabulaire, pictogrammes, signes, sons specifiques et leur signification..."></textarea></div>
+      <div class="field"><label>Comment elle montre qu'elle est contente</label><textarea placeholder=""></textarea></div>
+      <div class="field"><label>Comment elle montre qu'elle est triste ou en colere</label><textarea placeholder=""></textarea></div>
+      <div class="field"><label>Comment elle montre qu'elle a peur</label><textarea placeholder=""></textarea></div>
+      <div class="field"><label>Ce qui la calme quand elle est angoissee</label><textarea placeholder="Voix, musique, contact physique, objet, endroit..."></textarea></div>
+    </div>
+
+    <!-- Section 4 -->
+    <div class="section">
+      <h2>4. Sa douleur</h2>
+      <div class="guide">Voir aussi le <a href="../douleur/profil-douleur.html" style="color: #d97706;">Profil Personnel de Douleur</a> pour le detail clinique.</div>
+      <div class="field"><label>Comment elle montre qu'elle a mal</label><textarea placeholder="Grimaces, cris, gestes, positions, changements de comportement..."></textarea></div>
+      <div class="field"><label>Ou elle a souvent mal</label><textarea placeholder="Ventre (constipation), dents, dos, bassin (regles), tete..."></textarea></div>
+      <div class="field"><label>Ce qui la soulage</label><textarea placeholder="Medicament, position, chaleur/froid (attention : chaleur = declencheur), massage, presence..."></textarea></div>
+    </div>
+
+    <!-- Section 5 -->
+    <div class="section">
+      <h2>5. Ses traitements</h2>
+      <div class="guide">Voir aussi le <a href="../passeport/passeport-medical.html" style="color: #d97706;">Passeport Medical</a> pour le detail clinique.</div>
+      <div class="field"><label>Traitement actuel (molecules, doses, horaires)</label><textarea placeholder=""></textarea></div>
+      <div class="field"><label>Ce qui a ete essaye et arrete (et pourquoi)</label><textarea placeholder="Ce qui n'a pas marche, ce qui a cause des effets secondaires, ce qui a ete arrete pour d'autres raisons..."></textarea></div>
+      <div class="field"><label>Contre-indications</label><textarea placeholder="Lamotrigine, carbamazepine, oxcarbazepine, phenytoine, vigabatrine — et tout autre medicament auquel elle a mal reagi"></textarea></div>
+      <div class="field"><label>Effets secondaires actuels</label><textarea placeholder="Sedation, prise de poids, constipation, troubles du sommeil..."></textarea></div>
+    </div>
+
+    <!-- Section 6 -->
+    <div class="section">
+      <h2>6. Ses contacts</h2>
+      <div class="field"><label>Neurologue</label><input type="text" placeholder="Nom + telephone"></div>
+      <div class="field"><label>Medecin traitant</label><input type="text" placeholder="Nom + telephone"></div>
+      <div class="field"><label>Pharmacien</label><input type="text" placeholder="Nom + telephone"></div>
+      <div class="field"><label>Dentiste</label><input type="text" placeholder="Nom + telephone"></div>
+      <div class="field"><label>Referent en structure</label><input type="text" placeholder="Nom + telephone"></div>
+      <div class="field"><label>Fratrie</label><textarea placeholder="Prenoms, telephones, degre d'implication souhaite"></textarea></div>
+      <div class="field"><label>Autres personnes cles</label><textarea placeholder="Amis, benevoles, association, voisins..."></textarea></div>
+    </div>
+
+    <!-- Section 7 -->
+    <div class="section">
+      <h2>7. Ce que personne d'autre ne sait</h2>
+      <div class="guide">Les petites choses que seul un parent connait. C'est la section la plus importante de ce document.</div>
+      <div class="field"><label>Ses petites habitudes</label><textarea placeholder="Ce qu'elle fait toujours, ses manies, ses rituels secrets..."></textarea></div>
+      <div class="field"><label>Ce qui la fait rire</label><textarea placeholder=""></textarea></div>
+      <div class="field"><label>Sa musique preferee</label><textarea placeholder=""></textarea></div>
+      <div class="field"><label>Son objet prefere (objet transitionnel, doudou, jouet)</label><textarea placeholder=""></textarea></div>
+      <div class="field"><label>Les erreurs qu'on a faites et qu'on ne veut pas voir repetees</label><textarea placeholder="Ce qu'il ne faut jamais faire, les situations a eviter, les malentendus recurrents..."></textarea></div>
+      <div class="field"><label>Autre chose que vous voulez transmettre</label><textarea placeholder="Tout ce qui ne rentre dans aucune case. Parlez librement."></textarea></div>
+    </div>
+
+    <!-- Section 8 -->
+    <div class="section">
+      <h2>8. Guide video</h2>
+      <div class="guide">En complement de ce document ecrit, une video de 15-30 minutes permet de capturer les nuances que l'ecrit ne transmet pas.</div>
+      <div class="tip">
+        <strong>Conseils pour filmer :</strong><br>
+        - Filmez dans son environnement habituel (chambre, salle commune)<br>
+        - Montrez sa routine, sa communication, ses signes de douleur si possible<br>
+        - Parlez directement au futur aidant : "Voici ce que vous devez savoir..."<br>
+        - Decoupez en 5-6 chapitres courts (3-5 min chacun) : routine, crises, communication, douleur, ce qui la rend heureuse<br>
+        - Stockez : copie structure + copie notaire + copie fratrie + cloud securise
+      </div>
+      <div class="field"><label>Video realisee ? Ou est-elle stockee ?</label><input type="text" placeholder="Date, lieu de stockage, qui en a une copie"></div>
+    </div>
+
+    <!-- Mise a jour -->
+    <div class="section">
+      <div class="fields-row">
+        <div class="field"><label>Redige par</label><input type="text"></div>
+        <div class="field"><label>Date</label><input type="text"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

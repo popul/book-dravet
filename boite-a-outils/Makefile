@@ -10,9 +10,9 @@ PAGES = $(shell find . -name '*.html' -not -path './_site/*' -not -name 'Makefil
 .PHONY: html clean
 
 html:
-	@mkdir -p $(OUTPUT_DIR)/urgence $(OUTPUT_DIR)/douleur $(OUTPUT_DIR)/passeport $(OUTPUT_DIR)/rendez-vous $(OUTPUT_DIR)/courriers
+	@mkdir -p $(OUTPUT_DIR)/urgence $(OUTPUT_DIR)/douleur $(OUTPUT_DIR)/passeport $(OUTPUT_DIR)/rendez-vous $(OUTPUT_DIR)/courriers $(OUTPUT_DIR)/savoir-parental
 	@echo "Copie des pages de la boite a outils..."
-	@for dir in urgence douleur passeport rendez-vous courriers; do \
+	@for dir in urgence douleur passeport rendez-vous courriers savoir-parental; do \
 		for f in $$dir/*.html; do \
 			[ -f "$$f" ] && cp "$$f" "$(OUTPUT_DIR)/$$f"; \
 		done; \
