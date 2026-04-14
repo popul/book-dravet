@@ -132,6 +132,15 @@ Si la fratrie ne souhaite pas ou ne peut pas assumer la protection juridique, id
 **Etape 5 -- Mettre a jour les documents**
 Le mandat de protection future, le Profil Personnel de Douleur, le protocole d'urgence, les coordonnees des personnes cles -- tous ces documents doivent etre a jour et accessibles. Prevoyez une revision annuelle.
 
+> **Parcours concret**
+> - Mandat de protection future (acte notarie) : 300-500 EUR (honoraires notaire). Ce prix couvre la redaction de l'acte et le conseil juridique. Variable selon la complexite patrimoniale.
+> - Habilitation familiale : gratuit (requete au juge des tutelles, pas de frais). Condition : accord unanime de la famille.
+> - Transfert de tutelle : gratuit (demande au juge des tutelles). Delai : 3-6 mois.
+> - Mandataire professionnel : cout pris en charge selon les ressources du protege (bareme fixe par decret).
+> - AJPA (Allocation Journaliere du Proche Aidant) : 66,64 EUR/jour (2026), 264 jours maximum sur toute la carriere. Condition : reduction ou cessation d'activite professionnelle.
+> - Baluchonnage (remplacement de l'aidant a domicile) : 6 jours maximum, professionnel 24h/24. Dispositif perennise depuis janvier 2025.
+> - Documentation du savoir parental : gratuit (travail personnel). Prevoir 2-4 heures pour la version ecrite, 30 minutes pour la video.
+
 > **Pour approfondir** : Livre, Chapitre 15 — Ethique, Autonomie et Fin de Vie (tutelle, curatelle, directives anticipées)
 
 ## Ce qu'il faut retenir

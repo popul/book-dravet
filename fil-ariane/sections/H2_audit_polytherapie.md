@@ -96,6 +96,12 @@ Sur la base des resultats, discuter :
 **Etape 4 -- Si simplification envisagee**
 Une seule molecule a la fois. Diminution progressive sur plusieurs semaines. Surveillance renforcee des crises pendant la decroissance. Reevaluation 4 a 6 semaines apres chaque changement.
 
+> **Parcours concret**
+> - Cout : gratuit (consultation hospitaliere et dosages plasmatiques pris en charge a 100 % en ALD 9).
+> - Delai : 2-4 mois pour un RDV au CHU Toulouse (pharmacologie clinique ou neurologie). Resultats des dosages sous 2-3 semaines.
+> - Parcours : le medecin traitant ou le neurologue prescrit les dosages plasmatiques (prise de sang a jeun, le matin avant la prise du traitement). Resultats adresses au prescripteur.
+> - Si le neurologue ne propose pas de bilan : le medecin traitant peut prescrire les dosages et transmettre les resultats. Ou demander une consultation au CHU.
+
 ## Rappels de securite
 
 Les medicaments suivants sont **formellement contre-indiques** dans le syndrome de Dravet car ils aggravent les crises en bloquant les canaux sodiques deja deficients :

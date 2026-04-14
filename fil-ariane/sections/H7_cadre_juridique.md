@@ -139,6 +139,12 @@ Saisissez la personne qualifiee (mediateur gratuit). C'est un droit. Ce n'est pa
 **Etape 4 -- Documenter chaque echange par ecrit**
 Chaque demande orale doit etre suivie d'un email ou d'un courrier de confirmation. Chaque refus doit etre documente. En cas d'escalade, ces traces sont essentielles.
 
+> **Parcours concret**
+> - Toutes les demarches de cette hypothese sont gratuites : relecture du contrat, demande de revision, CVS, personne qualifiee, signalement ARS, Defenseur des droits.
+> - Seul cout : courrier recommande avec accuse de reception (~6 EUR par envoi). Garder les preuves de depot.
+> - Personne qualifiee (mediateur) : saisine par courrier au Conseil departemental ou a la delegation ARS. Delai de reponse : 2 mois maximum. Intervention gratuite et independante.
+> - Tribunal administratif (dernier recours) : aide juridictionnelle possible si ressources modestes. Delai de recours : 2 mois apres la decision contestee.
+
 ## Contacts utiles
 
 | Organisme | Contact |

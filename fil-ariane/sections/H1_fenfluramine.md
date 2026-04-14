@@ -79,6 +79,12 @@ L'effet de la fenfluramine apparait en 6-7 semaines [Bishop, 2021]. Une periode 
 **Etape 4 -- Organiser l'echocardiographie**
 A planifier avant la premiere prise, puis tous les 6 mois. Votre cardiologue de ville peut la realiser.
 
+> **Parcours concret**
+> - Cout : pris en charge a 100 % (ALD 9 epilepsie severe). Echocardiographie egalement couverte.
+> - Prescription : initiale hospitaliere obligatoire (neurologue hospitalier ou CReER), renouvellement par neurologue de ville.
+> - Delai : 3-6 mois pour un RDV neurologie specialisee en Occitanie. Effet clinique en 6-7 semaines apres debut.
+> - Si le neurologue refuse ou hesite : demander une orientation vers le CReER (Necker ou La Timone). Le CReER peut initier la prescription et co-suivre avec le neurologue local.
+
 ```mermaid
 graph TD
     A[CBD sans effet] --> B{Fenfluramine<br/>envisagee ?}

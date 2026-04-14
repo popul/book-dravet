@@ -84,6 +84,14 @@ Un protocole d'urgence individualise doit etre affiche dans le dossier de votre 
 **Etape 5 -- Verifier que le personnel est forme**
 Le personnel de nuit est-il forme a la reconnaissance des crises, a l'administration du midazolam buccal, et aux gestes de reanimation de base ? La formation Epipair couvre ces competences. Elle devrait etre renouvelee tous les 12 a 24 mois.
 
+> **Parcours concret**
+> - NightWatch : 500-800 EUR. Financement possible par PCH aide technique (element 2, demande MDPH). Delai PCH : 4-6 mois en pratique. Si refus PCH ou delai trop long : achat personnel et demande d'integration a la structure.
+> - Oreiller anti-etouffement : 30-60 EUR, achat direct (pas de prescription necessaire).
+> - Pulse-oxymetre : 50-150 EUR, achat direct ou PCH.
+> - Formation Epipair : prise en charge par l'employeur (plan de formation de la structure). Gratuite pour le personnel.
+> - Protocole post-ictal affiche : gratuit (redaction interne).
+> - Si la structure refuse l'equipement : documenter le refus par ecrit, escalader via H7 (demande ecrite au directeur, personne qualifiee, ARS).
+
 ## Arbre decisionnel du monitoring nocturne
 
 ```mermaid

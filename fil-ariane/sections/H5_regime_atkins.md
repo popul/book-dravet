@@ -98,6 +98,14 @@ Commencer le MAD sous supervision dietetique. Tenir un calendrier de crises (fre
 
 Si le benefice est clair, poursuivre avec surveillance. Si aucun effet a 3 mois malgre une cetose effective, discuter l'arret.
 
+> **Parcours concret**
+> - Consultation dieteticien CHU : gratuit (pris en charge ALD, consultation hospitaliere). Delai : 2-4 mois.
+> - Dieteticien liberal : 30-60 EUR/consultation, non rembourse sauf prescription medicale (remboursement partiel possible).
+> - Complements (vitamines, mineraux, calcium, vitamine D) : 20-40 EUR/mois, non rembourses.
+> - Bandelettes cetonurie : 5-10 EUR/mois.
+> - Coordination avec la cuisine de la structure : pas de cout supplementaire (organisation interne). Prevoir une reunion de coordination initiale.
+> - Si echec a 3 mois : arret sans sevrage ni effet rebond. Pas de consequence negative.
+
 > **Pour approfondir** : Livre, Chapitre 7 — La Pharmacopée Classique (régime cétogène classique, VNS, données Dressler)
 
 ## Ce qu'il faut retenir

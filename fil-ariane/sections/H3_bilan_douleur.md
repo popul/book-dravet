@@ -106,6 +106,14 @@ Si votre proche est sous valproate depuis plus de 3 ans (ce qui est quasi-certai
 **Etape 6 -- Creer le Profil Personnel de Douleur**
 Avec les parents et l'equipe de la structure, documenter par ecrit comment votre proche exprime la douleur. Ce document doit etre dans le dossier, dans la chambre, et accompagner la personne en cas d'hospitalisation.
 
+> **Parcours concret**
+> - Evaluation DESS/FLACC-R : gratuit (realisee par l'equipe de la structure, sur demande du medecin coordonnateur). Pas de delai si l'equipe est formee.
+> - Echographie pelvienne + bilan hormonal : pris en charge ALD. Delai 2-4 mois en gynecologie de ville, plus rapide au CHU sur signalement d'urgence.
+> - Bilan dentaire sous MEOPA : pris en charge. Contacter le reseau Handident ou la consultation handicap du CHU le plus proche. Delai variable (1-6 mois selon le departement).
+> - Osteodensitometrie : prise en charge ALD apres prescription medicale. Delai 1-3 mois.
+> - Profil Personnel de Douleur : gratuit (travail d'equipe parents + structure). Pas de delai.
+> - Si la structure refuse l'evaluation douleur : c'est un droit du resident (voir H7 pour les recours).
+
 > **Pour approfondir** : Livre, Chapitre 6 — Les Comorbidités (cartographie complète, échelles de douleur, protocoles)
 
 ## Ce qu'il faut retenir

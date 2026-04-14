@@ -103,6 +103,12 @@ Recherchez "Dravet syndrome" + "adult" pour identifier les essais ouverts. Certa
 **Etape 4 -- Rester informe**
 L'Alliance Syndrome de Dravet (France) et la Dravet Syndrome Foundation (internationale) publient regulierement des mises a jour sur les essais cliniques. S'y abonner permet de ne pas manquer l'ouverture d'un essai pertinent.
 
+> **Parcours concret**
+> - Test genetique SCN1A (NGS) : pris en charge (prescription hospitaliere, prelevement sanguin). Delai resultats : 3-6 mois.
+> - Consultation CReER : prise en charge ALD. Delai : 2-6 mois (Necker ou La Timone). Frais de deplacement partiellement couverts par l'Assurance Maladie (sur accord prealable pour soins hors departement).
+> - Participation aux essais cliniques : gratuite pour le participant (tous les frais sont pris en charge par le promoteur de l'essai, y compris les deplacements).
+> - Inscription Alliance Dravet (dravet.fr) et DSF (dravetfoundation.org) : gratuit. Newsletter avec mises a jour essais.
+
 > **Pour approfondir** : Livre, Chapitre 16 — La Frontiere de l'Espoir (STK-001, ETX101, CRISPRa, pipeline complet)
 
 ## Ce qu'il faut retenir
