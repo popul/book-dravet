@@ -6,7 +6,7 @@
 
 ## Les 7 droits fondamentaux
 
-La loi 2002-2 (article L.311-3 du Code de l'action sociale et des familles) garantit a toute personne accueillie en etablissement medico-social :
+La loi 2002-2 (article L.311-3 du Code de l'action sociale et des familles) garantit a toute personne accueillie en etablissement medico-social les droits suivants (presentation simplifiee pour le personnel de terrain -- pour la formulation juridique exacte, voir le chapitre 11 du Livre) :
 
 | Droit | Ce que ca veut dire au quotidien |
 |---|---|
@@ -70,3 +70,5 @@ Le CVS est l'instance ou les residents et les familles peuvent s'exprimer sur le
 5. Tribunal administratif ou judiciaire.
 
 > **A RETENIR** : Le resident a des droits meme s'il ne peut pas les exprimer. Son representant legal (souvent un parent ou un tuteur) parle en son nom. Respecter ces droits, c'est respecter la personne.
+
+> Pour les montants detailles des aides financieres (AAH, AEEH, PCH, AJPA) et les procedures MDPH, voir le chapitre 11 du Livre.

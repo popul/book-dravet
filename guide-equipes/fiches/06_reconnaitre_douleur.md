@@ -29,7 +29,7 @@ La regle d'or : **tout changement brutal du comportement habituel doit faire sus
 ## Les causes frequentes de douleur chez l'adulte Dravet
 
 **1. Constipation (la plus frequente)**
-- Touche jusqu'a 50 % des personnes avec deficience intellectuelle en institution.
+- Touche jusqu'a 50 % des personnes avec deficience intellectuelle en institution, et jusqu'a 94 % chez celles avec DI severe et deficience motrice sous antiepileptiques [Strzelczyk et al., 2019].
 - Aggravee par les antiepileptiques, le manque d'activite et l'hydratation insuffisante.
 - Des selles liquides n'excluent pas la constipation (faux transit par debordement).
 
