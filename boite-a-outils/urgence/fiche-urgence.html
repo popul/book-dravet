@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fiche d'urgence Dravet — a imprimer</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; color: #1a1a1a; max-width: 900px; margin: 0 auto; padding: 20px; }
+    .print-hint { background: #dbeafe; padding: 14px 20px; border-radius: 6px; margin-bottom: 24px; text-align: center; color: #1e40af; }
+    .print-hint strong { font-size: 1.05em; }
+
+    /* Fiche */
+    .fiche { background: white; border: 2px solid #333; border-radius: 8px; overflow: hidden; }
+    .fiche-page { padding: 24px 28px; }
+    .fiche-page + .fiche-page { border-top: 2px dashed #999; }
+
+    /* Recto */
+    .header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px; }
+    .header h1 { font-size: 1.4em; color: #1e3a5f; }
+    .header .diagnostic { font-size: 0.95em; color: #555; margin-top: 4px; }
+    .photo-zone { width: 80px; height: 100px; border: 1px dashed #aaa; display: flex; align-items: center; justify-content: center; color: #aaa; font-size: 0.75em; text-align: center; flex-shrink: 0; }
+
+    .field { margin-bottom: 10px; }
+    .field label { display: block; font-size: 0.8em; color: #555; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px; }
+    .field input, .field textarea { width: 100%; border: none; border-bottom: 1px solid #ccc; padding: 4px 0; font-size: 1em; font-family: inherit; background: transparent; }
+    .field input:focus, .field textarea:focus { outline: none; border-bottom-color: #1e3a5f; }
+    .field textarea { resize: vertical; min-height: 40px; }
+    .fields-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+
+    .danger-box { background: #fef2f2; border: 3px solid #dc2626; border-radius: 6px; padding: 14px 18px; margin: 16px 0; }
+    .danger-box h2 { color: #dc2626; font-size: 1.1em; margin-bottom: 8px; text-align: center; }
+    .danger-box ul { list-style: none; padding: 0; }
+    .danger-box li { padding: 3px 0; font-size: 1em; font-weight: bold; color: #991b1b; }
+    .danger-box li span { font-weight: normal; color: #666; }
+    .danger-box .warning { text-align: center; font-size: 0.85em; color: #dc2626; margin-top: 8px; font-style: italic; }
+
+    /* Verso */
+    .protocol h2 { color: #1e3a5f; font-size: 1.15em; margin-bottom: 12px; text-align: center; border-bottom: 2px solid #1e3a5f; padding-bottom: 6px; }
+    .phase { background: #f8fafc; border-left: 4px solid #3b82f6; padding: 10px 14px; margin-bottom: 10px; border-radius: 0 4px 4px 0; }
+    .phase h3 { font-size: 0.95em; color: #1e40af; margin-bottom: 4px; }
+    .phase p, .phase ul { font-size: 0.9em; color: #333; }
+    .phase ul { padding-left: 18px; margin-top: 4px; }
+    .phase.phase-warning { border-left-color: #f59e0b; }
+    .phase.phase-danger { border-left-color: #dc2626; }
+
+    .appel15 { background: #fef2f2; border: 2px solid #dc2626; border-radius: 6px; padding: 12px 16px; margin: 14px 0; }
+    .appel15 h3 { color: #dc2626; font-size: 1em; margin-bottom: 6px; }
+    .appel15 ul { padding-left: 18px; font-size: 0.9em; }
+
+    .pls { background: #f0fdf4; border: 2px solid #16a34a; border-radius: 6px; padding: 12px 16px; margin: 14px 0; }
+    .pls h3 { color: #16a34a; font-size: 1em; margin-bottom: 6px; }
+    .pls ul { padding-left: 18px; font-size: 0.9em; }
+
+    .contacts { margin-top: 14px; }
+    .contacts h3 { font-size: 0.95em; color: #1e3a5f; margin-bottom: 6px; }
+    .contacts .fields-row { gap: 12px; }
+
+    /* Impression */
+    @media print {
+      body { background: white; padding: 0; max-width: 100%; }
+      .nav-banner, .print-hint { display: none !important; }
+      .fiche { border: none; }
+      .fiche-page { padding: 16mm 18mm; }
+      .fiche-page + .fiche-page { page-break-before: always; border-top: none; }
+      .field input, .field textarea { border-bottom: 1px solid #000; }
+      @page { size: A4 portrait; margin: 0; }
+    }
+    @media (max-width: 768px) {
+      body { padding: 10px; }
+      .fields-row { grid-template-columns: 1fr; }
+      .header { flex-direction: column; }
+      .photo-zone { width: 60px; height: 75px; margin-bottom: 10px; }
+    }
+  </style>
+</head>
+<body>
+  <style>
+  .nav-banner { background: #2c3e50; color: white; padding: 12px 20px; border-radius: 4px; margin-bottom: 20px; text-align: center; }
+  .nav-banner a { color: #85c1e9; font-weight: bold; text-decoration: none; }
+  .nav-banner a:hover { text-decoration: underline; }
+  @media (max-width: 768px) { .nav-banner { padding: 10px; font-size: 0.85em; } }
+  </style>
+  <div class="nav-banner">
+    <a href="../../">Accueil</a> &nbsp;|&nbsp;
+    <a href="../../livre/">Le Livre</a> &nbsp;|&nbsp;
+    <a href="../../fil-ariane/">Le Fil d'Ariane</a> &nbsp;|&nbsp;
+    <a href="../../guide-equipes/">Guide equipes</a> &nbsp;|&nbsp;
+    <a href="../">Boite a outils</a> &nbsp;|&nbsp;
+    <a href="../../recherche/">Recherche</a> &nbsp;|&nbsp;
+    <a href="https://github.com/popul/book-dravet/releases/latest">PDF</a>
+  </div>
+
+  <div class="print-hint">
+    <strong>Remplissez les champs ci-dessous, puis imprimez (Ctrl+P / Cmd+P) en recto-verso.</strong><br>
+    Les champs sont editables directement dans votre navigateur. Plastifiez la fiche une fois imprimee.
+  </div>
+
+  <div class="fiche">
+    <!-- RECTO -->
+    <div class="fiche-page">
+      <div class="header">
+        <div>
+          <h1>Fiche d'urgence — Syndrome de Dravet</h1>
+          <div class="diagnostic">Encephalopathie epileptique — mutation du gene SCN1A</div>
+        </div>
+        <div class="photo-zone">Photo<br>(coller)</div>
+      </div>
+
+      <div class="fields-row">
+        <div class="field"><label>Nom et prenom</label><input type="text" placeholder=""></div>
+        <div class="field"><label>Date de naissance</label><input type="text" placeholder=""></div>
+      </div>
+      <div class="field"><label>Mutation genetique</label><input type="text" placeholder="ex : SCN1A c.1234A>G, p.Arg567Gly"></div>
+      <div class="field"><label>Traitement actuel (molecules, doses, horaires)</label><textarea placeholder="ex : Valproate 500mg matin+soir, Clobazam 10mg soir, Stiripentol 500mg x3/j"></textarea></div>
+
+      <div class="danger-box">
+        <h2>CONTRE-INDICATIONS ABSOLUES</h2>
+        <ul>
+          <li>Lamotrigine <span>(Lamictal)</span></li>
+          <li>Carbamazepine <span>(Tegretol)</span></li>
+          <li>Oxcarbazepine <span>(Trileptal)</span></li>
+          <li>Phenytoine <span>(Di-Hydan, Dilantin)</span></li>
+          <li>Vigabatrine <span>(Sabril)</span></li>
+        </ul>
+        <div class="warning">Bloqueurs sodiques = aggravation paradoxale des crises</div>
+      </div>
+
+      <div class="fields-row">
+        <div class="field"><label>Neurologue referent</label><input type="text" placeholder="Nom + telephone"></div>
+        <div class="field"><label>Structure d'accueil</label><input type="text" placeholder="Nom + telephone"></div>
+      </div>
+      <div class="field"><label>Representant legal / personne a prevenir</label><input type="text" placeholder="Nom + telephone"></div>
+    </div>
+
+    <!-- VERSO -->
+    <div class="fiche-page">
+      <div class="protocol">
+        <h2>Protocole en cas de crise convulsive</h2>
+
+        <div class="phase">
+          <h3>0 a 5 minutes — Observer et proteger</h3>
+          <ul>
+            <li>Declencher le chronometre</li>
+            <li>Ne pas contraindre, ne rien mettre dans la bouche</li>
+            <li>Ecarter les objets dangereux, proteger la tete</li>
+            <li>Noter le type de crise (raideur, secousses, cote du corps)</li>
+          </ul>
+        </div>
+
+        <div class="phase phase-warning">
+          <h3>A 5 minutes — Midazolam buccal</h3>
+          <div class="field"><label>Dose prescrite</label><input type="text" placeholder="ex : Buccolam 10mg" style="max-width: 300px;"></div>
+          <ul>
+            <li>Administrer le midazolam entre joue et gencive</li>
+            <li>Placer en position laterale de securite (PLS)</li>
+            <li>Si la crise ne cede pas dans les 5 minutes suivantes : appeler le 15</li>
+          </ul>
+        </div>
+
+        <div class="phase phase-danger">
+          <h3>A 10 minutes ou signes de gravite — Appeler le 15</h3>
+          <p>Dire : "Epilepsie severe, syndrome de Dravet, crise depuis X minutes, midazolam deja administre."</p>
+          <p><strong>RAPPELER : phenytoine / fosphenytoine CONTRE-INDIQUEE.</strong></p>
+        </div>
+      </div>
+
+      <div class="appel15">
+        <h3>Appeler le 15 immediatement si :</h3>
+        <ul>
+          <li>Crise > 5 minutes apres midazolam</li>
+          <li>2e crise sans reprise de conscience entre les deux</li>
+          <li>Cyanose (levres/ongles bleus)</li>
+          <li>Apnee (arret respiratoire)</li>
+          <li>Pas de reprise de conscience apres 5 minutes post-crise</li>
+          <li>Traumatisme pendant la crise</li>
+        </ul>
+      </div>
+
+      <div class="pls">
+        <h3>Apres la crise — Surveillance 20 minutes minimum</h3>
+        <ul>
+          <li>Position laterale de securite (PLS)</li>
+          <li>Surveiller la respiration en continu</li>
+          <li>Ne pas donner a boire tant que la personne n'est pas pleinement consciente</li>
+          <li>Noter l'heure de fin, la duree, le type de crise, le comportement post-critique</li>
+        </ul>
+      </div>
+
+      <div class="contacts">
+        <h3>Contacts d'urgence</h3>
+        <div class="fields-row">
+          <div class="field"><label>CReER (centre de reference)</label><input type="text" placeholder="Necker : 01 44 49 42 58 / La Timone : 04 91 38 68 08"></div>
+          <div class="field"><label>Medecin traitant</label><input type="text" placeholder="Nom + telephone"></div>
+        </div>
+        <div class="field"><label>Alliance Syndrome de Dravet</label><input type="text" value="dravet.fr — info@dravet.fr" readonly style="color: #555;"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

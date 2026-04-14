@@ -104,6 +104,7 @@ $(OUTPUT_HTML): $(OUTPUT_WEB) $(STYLE) $(TEMPLATE)
 		-o $(OUTPUT_HTML) \
 		--standalone \
 		--template=$(TEMPLATE) \
+		--include-before-body=../_shared/nav-banner.html \
 		--metadata title="Guide Dravet pour les equipes" \
 		--css=$(STYLE) \
 		--toc \

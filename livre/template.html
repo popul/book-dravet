@@ -15,22 +15,17 @@ $endfor$
     h2 { page-break-before: unset; }
     nav#TOC { margin-bottom: 40px; border: 1px solid #ddd; padding: 20px; border-radius: 4px; background: #fafafa; }
     nav#TOC > ul { list-style: none; padding-left: 0; }
-    .download-banner { background: #2c3e50; color: white; padding: 12px 20px; border-radius: 4px; margin-bottom: 30px; text-align: center; }
-    .download-banner a { color: #3498db; font-weight: bold; }
     @media (max-width: 768px) {
       body { padding: 10px; }
-      .download-banner { padding: 10px; font-size: 0.85em; }
       nav#TOC { padding: 12px; }
       .title-page { padding-top: 30px; }
     }
   </style>
 </head>
 <body>
-  <div class="download-banner">
-    <a href="../">Accueil</a> &nbsp;|&nbsp;
-    <a href="../fil-ariane/">Le Fil d'Ariane</a> &nbsp;|&nbsp;
-    Version PDF disponible dans les <a href="https://github.com/popul/book-dravet/releases/latest">Releases GitHub</a>
-  </div>
+$for(include-before)$
+$include-before$
+$endfor$
 $body$
   <script type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';

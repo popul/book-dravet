@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contre-indications Dravet — Affiche A4</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; color: #1a1a1a; max-width: 900px; margin: 0 auto; padding: 20px; }
+    .print-hint { background: #dbeafe; padding: 14px 20px; border-radius: 6px; margin-bottom: 24px; text-align: center; color: #1e40af; }
+    .print-hint strong { font-size: 1.05em; }
+
+    /* Affiche */
+    .affiche { background: white; border: 4px solid #dc2626; border-radius: 8px; padding: 32px 36px; text-align: center; }
+    .affiche h1 { color: #dc2626; font-size: 2em; margin-bottom: 6px; letter-spacing: 1px; }
+    .affiche .syndrome { font-size: 1.2em; color: #555; margin-bottom: 24px; }
+    .affiche h2 { color: #dc2626; font-size: 1.5em; margin-bottom: 20px; background: #fef2f2; padding: 10px; border-radius: 4px; }
+    .med-list { list-style: none; padding: 0; margin-bottom: 24px; }
+    .med-list li { font-size: 1.6em; font-weight: bold; color: #991b1b; padding: 10px 0; border-bottom: 1px solid #fecaca; }
+    .med-list li:last-child { border-bottom: none; }
+    .med-list li .commercial { font-weight: normal; color: #666; font-size: 0.7em; }
+    .risque { background: #fef2f2; border: 2px solid #dc2626; border-radius: 6px; padding: 14px; margin: 20px 0; font-size: 1.1em; color: #991b1b; font-weight: bold; }
+    .contact-fields { margin-top: 24px; text-align: left; }
+    .contact-fields .field { margin-bottom: 12px; }
+    .contact-fields label { display: block; font-size: 0.85em; color: #555; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 2px; }
+    .contact-fields input { width: 100%; border: none; border-bottom: 2px solid #ccc; padding: 6px 0; font-size: 1.15em; font-family: inherit; background: transparent; }
+    .contact-fields input:focus { outline: none; border-bottom-color: #dc2626; }
+    .footer-note { margin-top: 20px; font-size: 0.85em; color: #888; }
+
+    /* Impression */
+    @media print {
+      body { background: white; padding: 0; max-width: 100%; }
+      .nav-banner, .print-hint { display: none !important; }
+      .affiche { border: 4px solid #000; padding: 20mm 24mm; min-height: 100vh; display: flex; flex-direction: column; justify-content: center; }
+      .affiche h1 { font-size: 2.4em; }
+      .affiche h2 { font-size: 1.8em; }
+      .med-list li { font-size: 2em; }
+      .risque { font-size: 1.3em; }
+      .contact-fields input { border-bottom: 2px solid #000; }
+      @page { size: A4 portrait; margin: 0; }
+    }
+    @media (max-width: 768px) {
+      body { padding: 10px; }
+      .affiche { padding: 20px; }
+      .affiche h1 { font-size: 1.4em; }
+      .med-list li { font-size: 1.2em; }
+    }
+  </style>
+</head>
+<body>
+  <style>
+  .nav-banner { background: #2c3e50; color: white; padding: 12px 20px; border-radius: 4px; margin-bottom: 20px; text-align: center; }
+  .nav-banner a { color: #85c1e9; font-weight: bold; text-decoration: none; }
+  .nav-banner a:hover { text-decoration: underline; }
+  @media (max-width: 768px) { .nav-banner { padding: 10px; font-size: 0.85em; } }
+  </style>
+  <div class="nav-banner">
+    <a href="../../">Accueil</a> &nbsp;|&nbsp;
+    <a href="../../livre/">Le Livre</a> &nbsp;|&nbsp;
+    <a href="../../fil-ariane/">Le Fil d'Ariane</a> &nbsp;|&nbsp;
+    <a href="../../guide-equipes/">Guide equipes</a> &nbsp;|&nbsp;
+    <a href="../">Boite a outils</a> &nbsp;|&nbsp;
+    <a href="../../recherche/">Recherche</a> &nbsp;|&nbsp;
+    <a href="https://github.com/popul/book-dravet/releases/latest">PDF</a>
+  </div>
+
+  <div class="print-hint">
+    <strong>Remplissez les contacts en bas, puis imprimez (Ctrl+P / Cmd+P).</strong><br>
+    Plastifiez et affichez dans la chambre, dans le dossier medical, et a l'infirmerie.
+  </div>
+
+  <div class="affiche">
+    <h1>SYNDROME DE DRAVET</h1>
+    <div class="syndrome">Encephalopathie epileptique — mutation SCN1A</div>
+
+    <h2>MEDICAMENTS FORMELLEMENT CONTRE-INDIQUES</h2>
+
+    <ul class="med-list">
+      <li>Lamotrigine <span class="commercial">(Lamictal)</span></li>
+      <li>Carbamazepine <span class="commercial">(Tegretol)</span></li>
+      <li>Oxcarbazepine <span class="commercial">(Trileptal)</span></li>
+      <li>Phenytoine <span class="commercial">(Di-Hydan, Dilantin)</span></li>
+      <li>Vigabatrine <span class="commercial">(Sabril)</span></li>
+    </ul>
+
+    <div class="risque">
+      Ces medicaments (bloqueurs sodiques) provoquent une aggravation paradoxale des crises dans le syndrome de Dravet. Leur administration peut declencher un etat de mal epileptique.
+    </div>
+
+    <div class="contact-fields">
+      <div class="field"><label>Nom du resident</label><input type="text" placeholder=""></div>
+      <div class="field"><label>Neurologue referent — telephone</label><input type="text" placeholder=""></div>
+      <div class="field"><label>En cas de doute — CReER</label><input type="text" placeholder="Necker : 01 44 49 42 58 / La Timone : 04 91 38 68 08"></div>
+    </div>
+
+    <div class="footer-note">
+      Document a conserver dans le dossier medical, afficher dans la chambre et a l'infirmerie.<br>
+      Pour le protocole complet en cas de crise : voir la <a href="fiche-urgence.html" style="color: #dc2626;">fiche d'urgence Dravet</a>.
+    </div>
+  </div>
+</body>
+</html>

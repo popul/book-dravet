@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Boite a outils — Syndrome de Dravet</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
+    h1 { color: #d97706; margin: 30px 0 10px; font-size: 1.8em; }
+    .subtitle { color: #666; margin-bottom: 30px; }
+    .section { margin-bottom: 30px; }
+    .section h2 { color: #92400e; font-size: 1.3em; margin-bottom: 12px; border-bottom: 2px solid #f59e0b; padding-bottom: 6px; }
+    .tool-list { list-style: none; padding: 0; }
+    .tool-list li { background: white; padding: 16px 20px; margin-bottom: 10px; border-radius: 6px; border-left: 4px solid #f59e0b; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+    .tool-list li a { color: #d97706; font-weight: bold; text-decoration: none; font-size: 1.05em; }
+    .tool-list li a:hover { text-decoration: underline; }
+    .tool-list li p { color: #555; margin-top: 4px; font-size: 0.9em; }
+    .badge { display: inline-block; font-size: 0.75em; padding: 2px 8px; border-radius: 3px; font-weight: bold; margin-left: 8px; vertical-align: middle; }
+    .badge-vital { background: #fecaca; color: #991b1b; }
+    .badge-soon { background: #fef3c7; color: #92400e; }
+    @media print { body { max-width: 100%; } .nav-banner { display: none; } }
+    @media (max-width: 768px) { body { padding: 10px; } .tool-list li { padding: 12px 14px; } }
+  </style>
+</head>
+<body>
+  <style>
+  .nav-banner { background: #2c3e50; color: white; padding: 12px 20px; border-radius: 4px; margin-bottom: 30px; text-align: center; }
+  .nav-banner a { color: #85c1e9; font-weight: bold; text-decoration: none; }
+  .nav-banner a:hover { text-decoration: underline; }
+  @media (max-width: 768px) { .nav-banner { padding: 10px; font-size: 0.85em; } }
+  </style>
+  <div class="nav-banner">
+    <a href="../">Accueil</a> &nbsp;|&nbsp;
+    <a href="../livre/">Le Livre</a> &nbsp;|&nbsp;
+    <a href="../fil-ariane/">Le Fil d'Ariane</a> &nbsp;|&nbsp;
+    <a href="../guide-equipes/">Guide equipes</a> &nbsp;|&nbsp;
+    <a href="../boite-a-outils/">Boite a outils</a> &nbsp;|&nbsp;
+    <a href="../recherche/">Recherche</a> &nbsp;|&nbsp;
+    <a href="https://github.com/popul/book-dravet/releases/latest">PDF</a>
+  </div>
+
+  <h1>Boite a outils</h1>
+  <p class="subtitle">Documents a remplir, imprimer et donner — pour les familles, les soignants et les structures.</p>
+
+  <div class="section">
+    <h2>Urgence</h2>
+    <ul class="tool-list">
+      <li>
+        <a href="urgence/fiche-urgence.html">Fiche d'urgence Dravet</a> <span class="badge badge-vital">vital</span>
+        <p>Recto-verso a plastifier : identite, traitement, contre-indications, protocole de crise, contacts. Champs a remplir dans le navigateur, puis imprimer.</p>
+      </li>
+      <li>
+        <a href="urgence/contre-indications.html">Affiche contre-indications</a> <span class="badge badge-vital">vital</span>
+        <p>A4 a afficher dans la chambre et inserer dans le dossier medical. Les 5 medicaments a ne jamais administrer, en grand et en rouge.</p>
+      </li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>A venir</h2>
+    <ul class="tool-list">
+      <li>
+        <a href="#">Passeport medical Dravet</a> <span class="badge badge-soon">bientot</span>
+        <p>Document complet remplissable : diagnostic, traitements, comorbidites, contacts, vie quotidienne.</p>
+      </li>
+      <li>
+        <a href="#">Profil Personnel de Douleur</a> <span class="badge badge-soon">bientot</span>
+        <p>Template pour documenter les signes de douleur specifiques a la personne.</p>
+      </li>
+      <li>
+        <a href="#">Fiches avant rendez-vous</a> <span class="badge badge-soon">bientot</span>
+        <p>Checklists par specialite : neurologue, gynecologue, dentiste, MDPH, osteodensitometrie.</p>
+      </li>
+      <li>
+        <a href="#">Modeles de courriers</a> <span class="badge badge-soon">bientot</span>
+        <p>Courriers types : revision projet personnalise, demande monitoring, saisine personne qualifiee.</p>
+      </li>
+    </ul>
+  </div>
+</body>
+</html>
