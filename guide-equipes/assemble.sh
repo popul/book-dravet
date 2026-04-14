@@ -55,7 +55,7 @@ cat >> "$OUTPUT" << 'EOF'
 
 ## Fiches pratiques pour l'accueil en structure residentielle
 
-### 10 fiches autonomes pour les professionnels de l'accompagnement
+### 12 fiches autonomes pour les professionnels de l'accompagnement
 
 *A destination des equipes educatives, soignantes et d'encadrement en etablissement*
 
@@ -72,7 +72,7 @@ cat >> "$OUTPUT" << 'EOF'
 
 [**Introduction**](#introduction-comment-utiliser-ce-guide) — Pourquoi ce guide, comment l'utiliser
 
-**Les 10 fiches pratiques**
+**Les 12 fiches pratiques**
 
 - [Fiche 1 : Le syndrome de Dravet en 5 minutes](#fiche-1-le-syndrome-de-dravet-en-5-minutes)
 - [Fiche 2 : Les medicaments interdits](#fiche-2-les-medicaments-interdits)
@@ -84,6 +84,8 @@ cat >> "$OUTPUT" << 'EOF'
 - [Fiche 8 : Communiquer avec la famille](#fiche-8-communiquer-avec-la-famille)
 - [Fiche 9 : Les droits du resident](#fiche-9-les-droits-du-resident-rappel)
 - [Fiche 10 : Carte d'urgence](#fiche-10-carte-durgence-a-imprimer)
+- [Fiche 11 : Le Dravet en 2 minutes (accueil nouveau personnel)](#fiche-11-le-syndrome-de-dravet-en-2-minutes)
+- [Fiche 12 : Fiche chambre du resident](#fiche-12-fiche-chambre-du-resident-a-remplir-et-afficher)
 
 EOF
 
@@ -100,6 +102,8 @@ FILES=(
   "fiches/08_communication_famille.md"
   "fiches/09_droits_resident.md"
   "fiches/10_carte_urgence.md"
+  "fiches/11_accueil_nouveau.md"
+  "fiches/12_fiche_chambre.md"
 )
 
 for f in "${FILES[@]}"; do

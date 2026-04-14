@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Avant le RDV dentiste — Syndrome de Dravet</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; color: #1a1a1a; max-width: 900px; margin: 0 auto; padding: 20px; }
+    .print-hint { background: #dbeafe; padding: 14px 20px; border-radius: 6px; margin-bottom: 24px; text-align: center; color: #1e40af; }
+    .doc { background: white; border: 1px solid #ddd; border-radius: 8px; padding: 28px 32px; }
+    .doc h1 { font-size: 1.4em; color: #1e3a5f; margin-bottom: 16px; }
+    .checklist { margin-bottom: 20px; }
+    .checklist h2 { font-size: 1em; padding: 8px 12px; border-radius: 4px; margin-bottom: 10px; }
+    .checklist.apporter h2 { background: #dcfce7; color: #166534; }
+    .checklist.demander h2 { background: #dbeafe; color: #1e40af; }
+    .checklist.mentionner h2 { background: #fef3c7; color: #92400e; }
+    .checklist ul { list-style: none; padding: 0; }
+    .checklist li { padding: 6px 0 6px 28px; position: relative; border-bottom: 1px solid #f0f0f0; font-size: 0.95em; }
+    .checklist li::before { content: ""; position: absolute; left: 0; top: 8px; width: 16px; height: 16px; border: 2px solid #aaa; border-radius: 3px; }
+    .checklist li .detail { font-size: 0.85em; color: #666; display: block; margin-top: 2px; }
+    .notes { margin-top: 16px; }
+    .notes h2 { font-size: 1em; color: #555; margin-bottom: 8px; }
+    .notes textarea { width: 100%; min-height: 80px; border: 1px solid #ddd; border-radius: 4px; padding: 8px; font-family: inherit; font-size: 0.9em; resize: vertical; }
+    @media print {
+      body { background: white; padding: 0; max-width: 100%; }
+      .nav-banner, .print-hint { display: none !important; }
+      .doc { border: none; padding: 10mm 15mm; }
+      .checklist li::before { border-color: #000; }
+      .notes textarea { border: 1px solid #000; min-height: 60px; }
+      @page { size: A4 portrait; margin: 10mm; }
+    }
+    @media (max-width: 768px) { body { padding: 10px; } .doc { padding: 16px; } }
+  </style>
+</head>
+<body>
+  <style>
+  .nav-banner { background: #2c3e50; color: white; padding: 12px 20px; border-radius: 4px; margin-bottom: 20px; text-align: center; }
+  .nav-banner a { color: #85c1e9; font-weight: bold; text-decoration: none; }
+  .nav-banner a:hover { text-decoration: underline; }
+  @media (max-width: 768px) { .nav-banner { padding: 10px; font-size: 0.85em; } }
+  </style>
+  <div class="nav-banner">
+    <a href="../../">Accueil</a> &nbsp;|&nbsp;
+    <a href="../../livre/">Le Livre</a> &nbsp;|&nbsp;
+    <a href="../../fil-ariane/">Le Fil d'Ariane</a> &nbsp;|&nbsp;
+    <a href="../../guide-equipes/">Guide equipes</a> &nbsp;|&nbsp;
+    <a href="../">Boite a outils</a> &nbsp;|&nbsp;
+    <a href="../../recherche/">Recherche</a> &nbsp;|&nbsp;
+    <a href="https://github.com/popul/book-dravet/releases/latest">PDF</a>
+  </div>
+  <div class="print-hint"><strong>Cochez et imprimez avant votre rendez-vous (Ctrl+P / Cmd+P).</strong></div>
+  <div class="doc">
+    <h1>Avant le RDV dentiste</h1>
+<div class="checklist apporter"><h2>A apporter</h2><ul>
+  <li>Liste des traitements antiepileptiques actuels</li>
+  <li>Protocole de crise personnalise (midazolam dose, seuil appel 15)</li>
+  <li>Fiche contre-indications Dravet <span class="detail">A remettre au praticien pour son dossier</span></li>
+  <li>Profil Personnel de Douleur (si disponible)</li>
+</ul></div>
+<div class="checklist demander"><h2>A demander</h2><ul>
+  <li>Le praticien est-il forme au handicap ? <span class="detail">Reseau Handident, consultation hospitaliere dediee</span></li>
+  <li>MEOPA disponible ? <span class="detail">Melange gaz analgesique et anxiolytique, souvent suffisant</span></li>
+  <li>Si MEOPA insuffisant : anesthesie generale possible ? Quel circuit ?</li>
+  <li>Hyperplasie gingivale liee aux antiepileptiques ? <span class="detail">Frequente sous phenytoine, possible sous valproate</span></li>
+  <li>Protocole de brossage adapte pour la structure</li>
+</ul></div>
+<div class="checklist mentionner"><h2>A mentionner</h2><ul>
+  <li>Risque de crise pendant les soins (stress, lumiere, position allongee)</li>
+  <li>Cooperation limitee — ne pas forcer, adapter le rythme</li>
+  <li>Signes de douleur dentaire observes : refus de manger, salivation, main sur la joue</li>
+  <li>Frequence de suivi recommandee : tous les 6 mois</li>
+</ul></div>
+<div class="notes"><h2>Notes personnelles</h2><textarea></textarea></div>
+  </div>
+</body>
+</html>

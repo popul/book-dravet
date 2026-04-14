@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Demande de revision du projet personnalise — Modele de courrier</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Georgia', 'Times New Roman', serif; background: #f5f5f5; color: #1a1a1a; max-width: 900px; margin: 0 auto; padding: 20px; }
+    .print-hint { background: #dbeafe; padding: 14px 20px; border-radius: 6px; margin-bottom: 24px; text-align: center; color: #1e40af; font-family: -apple-system, sans-serif; }
+    .lettre { background: white; border: 1px solid #ddd; padding: 40px 50px; min-height: 900px; }
+    .expediteur, .destinataire, .lieu-date, .objet, .corps, .signature { margin-bottom: 20px; }
+    .expediteur { text-align: left; }
+    .destinataire { text-align: left; margin-top: 30px; }
+    .lieu-date { text-align: right; margin-top: 20px; }
+    .objet { margin-top: 30px; font-weight: bold; }
+    .corps { margin-top: 20px; line-height: 1.7; }
+    .corps p { margin-bottom: 12px; text-align: justify; }
+    .signature { margin-top: 40px; }
+    .field input, .field textarea { border: none; border-bottom: 1px solid #999; padding: 2px 0; font-family: inherit; font-size: 1em; background: transparent; }
+    .field input { width: 300px; }
+    .field input:focus, .field textarea:focus { outline: none; border-bottom-color: #1e3a5f; }
+    .note { font-family: -apple-system, sans-serif; background: #fef3c7; border: 1px solid #fbbf24; border-radius: 4px; padding: 10px 14px; margin: 16px 0; font-size: 0.85em; color: #92400e; }
+    .base-legale { color: #555; font-style: italic; }
+    @media print {
+      body { background: white; padding: 0; max-width: 100%; }
+      .nav-banner, .print-hint, .note { display: none !important; }
+      .lettre { border: none; padding: 20mm 25mm; }
+      .field input { border-bottom: 1px solid #000; }
+      @page { size: A4 portrait; margin: 0; }
+    }
+    @media (max-width: 768px) { body { padding: 10px; } .lettre { padding: 20px; } .field input { width: 100%; } }
+  </style>
+</head>
+<body>
+  <style>
+  .nav-banner { background: #2c3e50; color: white; padding: 12px 20px; border-radius: 4px; margin-bottom: 20px; text-align: center; font-family: -apple-system, sans-serif; }
+  .nav-banner a { color: #85c1e9; font-weight: bold; text-decoration: none; }
+  .nav-banner a:hover { text-decoration: underline; }
+  @media (max-width: 768px) { .nav-banner { padding: 10px; font-size: 0.85em; } }
+  </style>
+  <div class="nav-banner">
+    <a href="../../">Accueil</a> &nbsp;|&nbsp;
+    <a href="../../livre/">Le Livre</a> &nbsp;|&nbsp;
+    <a href="../../fil-ariane/">Le Fil d'Ariane</a> &nbsp;|&nbsp;
+    <a href="../../guide-equipes/">Guide equipes</a> &nbsp;|&nbsp;
+    <a href="../">Boite a outils</a> &nbsp;|&nbsp;
+    <a href="../../recherche/">Recherche</a> &nbsp;|&nbsp;
+    <a href="https://github.com/popul/book-dravet/releases/latest">PDF</a>
+  </div>
+  <div class="print-hint"><strong>Remplissez les champs, puis imprimez (Ctrl+P / Cmd+P).</strong> Envoyez en recommande avec accuse de reception. Conservez une copie.</div>
+  <div class="lettre">
+
+    <div class="expediteur">
+      <span class="field"><input type="text" placeholder="Prenom et Nom"></span><br>
+      <span class="field"><input type="text" placeholder="Adresse"></span><br>
+      <span class="field"><input type="text" placeholder="Code postal et Ville"></span><br>
+      <span class="field"><input type="text" placeholder="Telephone"></span><br>
+      Representant legal de <span class="field"><input type="text" placeholder="Nom du resident"></span>
+    </div>
+
+    <div class="destinataire">
+      Monsieur/Madame le/la Directeur/Directrice<br>
+      <span class="field"><input type="text" placeholder="Nom de l'etablissement"></span><br>
+      <span class="field"><input type="text" placeholder="Adresse de l'etablissement"></span><br>
+      <span class="field"><input type="text" placeholder="Code postal et Ville"></span>
+    </div>
+
+    <div class="lieu-date">
+      A <span class="field"><input type="text" placeholder="Ville"></span>, le <span class="field"><input type="text" placeholder="Date"></span>
+    </div>
+
+    <div class="objet">
+      Objet : Demande de revision du projet personnalise — <span class="field"><input type="text" placeholder="Nom du resident"></span>
+    </div>
+
+    <div class="corps">
+      <p>Madame, Monsieur,</p>
+
+      <p>En ma qualite de representant legal de <span class="field"><input type="text" placeholder="Nom du resident"></span>, accueilli(e) au sein de votre etablissement depuis <span class="field"><input type="text" placeholder="date d'admission"></span>, je vous demande par la presente la tenue d'une reunion de revision du projet personnalise, conformement aux dispositions de la loi n&deg; 2002-2 du 2 janvier 2002 et de l'article L.311-4 du Code de l'action sociale et des familles.</p>
+
+      <p>Cette revision me parait necessaire afin d'integrer les elements suivants au projet d'accompagnement :</p>
+      <ul style="margin: 0 0 12px 30px; line-height: 1.7;">
+        <li>La mise a jour du protocole d'urgence epileptique, incluant les contre-indications medicamenteuses specifiques au syndrome de Dravet ;</li>
+        <li>L'evaluation systematique de la douleur par une echelle validee (DESS ou FLACC-R) ;</li>
+        <li>L'installation d'un dispositif de surveillance nocturne adapte ;</li>
+        <li>La mise a jour des coordonnees du neurologue referent.</li>
+      </ul>
+
+      <p>Je me tiens a votre disposition pour convenir d'une date de reunion dans les meilleurs delais. Je vous remercie de bien vouloir accuser reception de la presente demande.</p>
+    </div>
+
+    <div class="signature">
+      <p>Je vous prie d'agreer, Madame, Monsieur, l'expression de mes salutations distinguees.</p>
+      <br><br>
+      <span class="field"><input type="text" placeholder="Prenom et Nom"></span><br>
+      Representant legal de <span class="field"><input type="text" placeholder="Nom du resident"></span>
+    </div>
+
+    <div class="note">
+      <strong>Note :</strong> Envoi en recommande avec accuse de reception. Base legale : loi 2002-2, article L.311-4 CASF. Le projet personnalise doit etre revise au minimum une fois par an et a chaque demande du representant legal.
+    </div>
+
+  </div>
+</body>
+</html>
