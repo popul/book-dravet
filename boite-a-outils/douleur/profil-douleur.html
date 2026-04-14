@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profil Personnel de Douleur — Syndrome de Dravet</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; color: #1a1a1a; max-width: 900px; margin: 0 auto; padding: 20px; }
+    .print-hint { background: #dbeafe; padding: 14px 20px; border-radius: 6px; margin-bottom: 24px; text-align: center; color: #1e40af; }
+    .doc { background: white; border: 1px solid #ddd; border-radius: 8px; padding: 28px 32px; }
+    .doc h1 { font-size: 1.5em; color: #1e3a5f; margin-bottom: 4px; }
+    .doc .subtitle { color: #666; margin-bottom: 20px; font-size: 0.9em; }
+    .section { margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid #eee; }
+    .section:last-child { border-bottom: none; }
+    .section h2 { font-size: 1.1em; color: #1e3a5f; margin-bottom: 12px; padding-left: 8px; border-left: 3px solid #3b82f6; }
+    .field { margin-bottom: 10px; }
+    .field label { display: block; font-size: 0.8em; color: #555; font-weight: bold; text-transform: uppercase; letter-spacing: 0.4px; margin-bottom: 2px; }
+    .field input, .field textarea { width: 100%; border: none; border-bottom: 1px solid #ccc; padding: 4px 0; font-size: 0.95em; font-family: inherit; background: transparent; }
+    .field input:focus, .field textarea:focus { outline: none; border-bottom-color: #3b82f6; }
+    .field textarea { resize: vertical; min-height: 50px; }
+    .fields-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    .fields-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; }
+    .help { font-size: 0.8em; color: #888; font-style: italic; margin-top: 2px; }
+    .alert-box { background: #fef2f2; border: 1px solid #fecaca; border-radius: 4px; padding: 10px 14px; margin: 10px 0; font-size: 0.9em; color: #991b1b; }
+    table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 0.9em; }
+    th, td { border: 1px solid #ddd; padding: 6px 8px; text-align: left; }
+    th { background: #f0f4f8; font-size: 0.8em; text-transform: uppercase; letter-spacing: 0.3px; color: #555; }
+    td input { width: 100%; border: none; padding: 2px; font-family: inherit; font-size: 0.95em; }
+    td input:focus { outline: none; background: #f0f7ff; }
+    @media print {
+      body { background: white; padding: 0; max-width: 100%; }
+      .nav-banner, .print-hint { display: none !important; }
+      .doc { border: none; padding: 10mm 15mm; }
+      .field input, .field textarea { border-bottom: 1px solid #000; }
+      td input { border-bottom: 1px solid #ccc; }
+      @page { size: A4 portrait; margin: 12mm; }
+    }
+    @media (max-width: 768px) {
+      body { padding: 10px; }
+      .fields-row, .fields-3 { grid-template-columns: 1fr; }
+      .doc { padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <style>
+  .nav-banner { background: #2c3e50; color: white; padding: 12px 20px; border-radius: 4px; margin-bottom: 20px; text-align: center; }
+  .nav-banner a { color: #85c1e9; font-weight: bold; text-decoration: none; }
+  .nav-banner a:hover { text-decoration: underline; }
+  @media (max-width: 768px) { .nav-banner { padding: 10px; font-size: 0.85em; } }
+  </style>
+  <div class="nav-banner">
+    <a href="../../">Accueil</a> &nbsp;|&nbsp;
+    <a href="../../livre/">Le Livre</a> &nbsp;|&nbsp;
+    <a href="../../fil-ariane/">Le Fil d'Ariane</a> &nbsp;|&nbsp;
+    <a href="../../guide-equipes/">Guide equipes</a> &nbsp;|&nbsp;
+    <a href="../">Boite a outils</a> &nbsp;|&nbsp;
+    <a href="../../recherche/">Recherche</a> &nbsp;|&nbsp;
+    <a href="https://github.com/popul/book-dravet/releases/latest">PDF</a>
+  </div>
+
+  <div class="print-hint">
+    <strong>Remplissez les champs, puis imprimez (Ctrl+P / Cmd+P).</strong><br>
+    Conservez une copie dans le dossier de la structure, une avec la famille, une avec le neurologue.
+  </div>
+
+  <div class="doc">
+    <h1>Profil Personnel de Douleur</h1>
+    <p class="subtitle">Ce document decrit comment cette personne exprime la douleur. Il doit etre connu de tous les intervenants.</p>
+
+    <!-- Section 1 -->
+    <div class="section">
+      <h2>1. Identite</h2>
+      <div class="fields-row">
+        <div class="field"><label>Nom et prenom</label><input type="text"></div>
+        <div class="field"><label>Date de naissance</label><input type="text"></div>
+      </div>
+      <div class="fields-row">
+        <div class="field"><label>Date de creation du profil</label><input type="text"></div>
+        <div class="field"><label>Redige par</label><input type="text" placeholder="Parents, equipe, medecin"></div>
+      </div>
+    </div>
+
+    <!-- Section 2 -->
+    <div class="section">
+      <h2>2. Comment elle exprime la douleur</h2>
+      <div class="alert-box">Son comportement habituel (quand elle va bien) : decrire ici pour permettre la comparaison.</div>
+      <div class="field"><label>Comportement habituel (reference)</label><textarea placeholder="Decrire son etat de base : calme, souriante, communicative, active..."></textarea></div>
+      <div class="field"><label>Expressions faciales en cas de douleur</label><textarea placeholder="Grimaces, froncement de sourcils, machoire crispee, visage fige..."></textarea></div>
+      <div class="field"><label>Vocalisations</label><textarea placeholder="Cris, gemissements, pleurs, silence inhabituel, grognements..."></textarea></div>
+      <div class="field"><label>Comportements moteurs</label><textarea placeholder="Agitation, repli, auto-agression, position antalgique, protection d'une zone..."></textarea></div>
+      <div class="field"><label>Changements d'humeur</label><textarea placeholder="Irritabilite, retrait, refus alimentaire, agressivite, apathie..."></textarea></div>
+      <div class="field"><label>Signes autonomiques</label><textarea placeholder="Rougeur du visage, sudation, tachycardie, paleur..."></textarea></div>
+    </div>
+
+    <!-- Section 3 -->
+    <div class="section">
+      <h2>3. Sources de douleur connues</h2>
+      <div class="field"><label>Localisations identifiees</label><textarea placeholder="Abdomen (constipation), dents, bassin (gyneco), dos, articulations..."></textarea></div>
+      <div class="field"><label>Antecedents douloureux</label><textarea placeholder="Episodes passes, causes identifiees, traitements qui ont fonctionne..."></textarea></div>
+      <div class="field"><label>Lien douleur-crises observe ?</label><textarea placeholder="Les crises augmentent-elles quand elle semble avoir mal ? Details..."></textarea></div>
+    </div>
+
+    <!-- Section 4 -->
+    <div class="section">
+      <h2>4. Ce qui la soulage</h2>
+      <div class="field"><label>Medicaments antalgiques testes</label><textarea placeholder="Paracetamol : efficace/inefficace. Ibuprofene : efficace/inefficace. Autres..."></textarea></div>
+      <div class="field"><label>Positionnement</label><textarea placeholder="Position qui soulage (sur le cote, assise, roulee en boule...)"></textarea></div>
+      <div class="field"><label>Contact physique</label><textarea placeholder="Apaise ou aggrave ? Massage ? Main tenue ? Eviter le toucher ?"></textarea></div>
+      <div class="field"><label>Autres (musique, objet, voix, chaleur/froid)</label><textarea placeholder="Attention : la chaleur est un declencheur de crises dans le Dravet"></textarea></div>
+    </div>
+
+    <!-- Section 5 -->
+    <div class="section">
+      <h2>5. Evaluation standardisee</h2>
+      <div class="fields-3">
+        <div class="field"><label>Echelle utilisee</label><input type="text" placeholder="DESS / FLACC-R / GED-DI"></div>
+        <div class="field"><label>Score de base (sans douleur)</label><input type="text" placeholder="ex : 3/30"></div>
+        <div class="field"><label>Seuil d'alerte (agir)</label><input type="text" placeholder="ex : 8/30"></div>
+      </div>
+      <div class="field"><label>Frequence d'evaluation recommandee</label><input type="text" placeholder="ex : hebdomadaire, ou a chaque changement de comportement"></div>
+    </div>
+
+    <!-- Section 6 -->
+    <div class="section">
+      <h2>6. Historique des evaluations</h2>
+      <table>
+        <thead>
+          <tr><th>Date</th><th>Score</th><th>Contexte</th><th>Action</th><th>Resultat</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td></tr>
+          <tr><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td></tr>
+          <tr><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td></tr>
+          <tr><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td></tr>
+          <tr><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td></tr>
+          <tr><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td><td><input type="text"></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Section 7 -->
+    <div class="section">
+      <h2>7. Distribution et mise a jour</h2>
+      <div class="field"><label>Copies conservees par</label><input type="text" placeholder="Structure (dossier), famille, neurologue, medecin traitant, pharmacien"></div>
+      <div class="field"><label>Derniere mise a jour</label><input type="text"></div>
+      <div class="field"><label>Prochaine revision prevue</label><input type="text"></div>
+    </div>
+  </div>
+</body>
+</html>
