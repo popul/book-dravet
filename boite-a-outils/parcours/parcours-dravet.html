@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Parcours de vie Dravet — Patient Journey Map</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; color: #1a1a1a; margin: 0 auto; padding: 20px; }
+
+    h1 { color: #1e3a5f; margin-bottom: 6px; font-size: 1.6em; text-align: center; }
+    .subtitle { color: #666; text-align: center; margin-bottom: 20px; font-size: 0.95em; }
+
+    .print-hint { background: #dbeafe; padding: 14px 20px; border-radius: 6px; margin-bottom: 24px; text-align: center; color: #1e40af; }
+    .print-hint strong { font-size: 1.05em; }
+
+    /* Timeline grid */
+    .timeline-wrapper { overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 12px; }
+
+    .timeline {
+      display: grid;
+      grid-template-columns: 160px repeat(8, minmax(200px, 1fr));
+      grid-template-rows: auto repeat(5, auto);
+      gap: 0;
+      min-width: 1800px;
+      border: 2px solid #334155;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    /* Corner cell */
+    .corner {
+      background: #1e3a5f;
+      color: white;
+      padding: 14px 12px;
+      font-weight: bold;
+      font-size: 0.85em;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+
+    /* Period headers (top row) */
+    .period-header {
+      background: #1e3a5f;
+      color: white;
+      padding: 12px 10px;
+      text-align: center;
+      border-left: 1px solid #334155;
+    }
+    .period-header .age { font-size: 1.1em; font-weight: bold; display: block; }
+    .period-header .label { font-size: 0.8em; opacity: 0.85; margin-top: 3px; display: block; }
+
+    /* Dimension headers (left column) */
+    .dim-header {
+      padding: 14px 12px;
+      font-weight: bold;
+      font-size: 0.9em;
+      display: flex;
+      align-items: center;
+      border-top: 1px solid #cbd5e1;
+      writing-mode: horizontal-tb;
+    }
+    .dim-header .dim-icon { font-size: 1.3em; margin-right: 8px; }
+
+    .dim-crises { background: #fca5a5; color: #7f1d1d; }
+    .dim-cognition { background: #93c5fd; color: #1e3a5f; }
+    .dim-traitements { background: #86efac; color: #14532d; }
+    .dim-moments { background: #fde68a; color: #713f12; }
+    .dim-bilans { background: #d8b4fe; color: #581c87; }
+
+    /* Data cells */
+    .cell {
+      padding: 12px 10px;
+      font-size: 0.82em;
+      line-height: 1.45;
+      border-top: 1px solid #e2e8f0;
+      border-left: 1px solid #e2e8f0;
+    }
+    .cell ul { list-style: none; padding: 0; }
+    .cell li { margin-bottom: 4px; }
+    .cell li::before { margin-right: 4px; }
+
+    /* Row colors */
+    .row-crises { background: #fef2f2; }
+    .row-cognition { background: #eff6ff; }
+    .row-traitements { background: #f0fdf4; }
+    .row-moments { background: #fefce8; }
+    .row-bilans { background: #faf5ff; }
+
+    /* Intensity indicators */
+    .intensity { display: inline-block; font-size: 0.75em; padding: 1px 6px; border-radius: 3px; font-weight: bold; margin-bottom: 4px; }
+    .intensity-none { background: #d1fae5; color: #065f46; }
+    .intensity-low { background: #fef3c7; color: #92400e; }
+    .intensity-mid { background: #fed7aa; color: #9a3412; }
+    .intensity-high { background: #fecaca; color: #991b1b; }
+    .intensity-peak { background: #dc2626; color: white; }
+    .intensity-stable { background: #dbeafe; color: #1e40af; }
+
+    /* Key event badges */
+    .key-event { font-weight: bold; color: #92400e; }
+
+    /* SUDEP banner */
+    .sudep-banner {
+      background: #dc2626;
+      color: white;
+      padding: 14px 20px;
+      border-radius: 6px;
+      margin-top: 20px;
+      text-align: center;
+      font-weight: bold;
+      font-size: 0.95em;
+    }
+    .sudep-banner span { font-weight: normal; font-size: 0.88em; }
+
+    /* Legend */
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 16px;
+      justify-content: center;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 0.8em;
+      color: #555;
+    }
+    .legend-swatch {
+      width: 14px;
+      height: 14px;
+      border-radius: 3px;
+      border: 1px solid #ccc;
+    }
+
+    /* Print */
+    @media print {
+      @page { size: A3 landscape; margin: 10mm; }
+      .nav-banner, .print-hint { display: none !important; }
+      body { padding: 0; background: white; }
+      .timeline-wrapper { overflow: visible; }
+      .timeline { min-width: 100%; }
+      .sudep-banner { margin-top: 8px; }
+    }
+
+    /* Mobile */
+    @media (max-width: 768px) {
+      body { padding: 10px; }
+      h1 { font-size: 1.3em; }
+      .timeline { min-width: 1600px; }
+    }
+  </style>
+</head>
+<body>
+  <style>
+  .nav-banner { background: #2c3e50; color: white; padding: 12px 20px; border-radius: 4px; margin-bottom: 20px; text-align: center; }
+  .nav-banner a { color: #85c1e9; font-weight: bold; text-decoration: none; }
+  .nav-banner a:hover { text-decoration: underline; }
+  @media (max-width: 768px) { .nav-banner { padding: 10px; font-size: 0.85em; } }
+  </style>
+  <div class="nav-banner">
+    <a href="../../">Accueil</a> &nbsp;|&nbsp;
+    <a href="../../livre/">Le Livre</a> &nbsp;|&nbsp;
+    <a href="../../fil-ariane/">Le Fil d'Ariane</a> &nbsp;|&nbsp;
+    <a href="../../guide-equipes/">Guide equipes</a> &nbsp;|&nbsp;
+    <a href="../">Boite a outils</a> &nbsp;|&nbsp;
+    <a href="../../recherche/">Recherche</a> &nbsp;|&nbsp;
+    <a href="https://github.com/popul/book-dravet/releases/latest">PDF</a>
+  </div>
+
+  <div class="print-hint">
+    <strong>Imprimez ce poster en A3 paysage (Ctrl+P / Cmd+P).</strong><br>
+    Scrollez horizontalement sur mobile pour voir toutes les periodes.
+  </div>
+
+  <h1>Parcours de vie Dravet</h1>
+  <p class="subtitle">Patient Journey Map — de la naissance a 45+ ans</p>
+
+  <div class="timeline-wrapper">
+    <div class="timeline">
+
+      <!-- Row 0 : Headers -->
+      <div class="corner">Dimension</div>
+
+      <div class="period-header">
+        <span class="age">0-6 mois</span>
+        <span class="label">Normalite apparente</span>
+      </div>
+      <div class="period-header">
+        <span class="age">6-18 mois</span>
+        <span class="label">Eveil de la maladie</span>
+      </div>
+      <div class="period-header">
+        <span class="age">1-5 ans</span>
+        <span class="label">Aggravation</span>
+      </div>
+      <div class="period-header">
+        <span class="age">5-12 ans</span>
+        <span class="label">Pic et stabilisation</span>
+      </div>
+      <div class="period-header">
+        <span class="age">12-18 ans</span>
+        <span class="label">Transition</span>
+      </div>
+      <div class="period-header">
+        <span class="age">18-25 ans</span>
+        <span class="label">Jeune adulte</span>
+      </div>
+      <div class="period-header">
+        <span class="age">25-45 ans</span>
+        <span class="label">Vie adulte</span>
+      </div>
+      <div class="period-header">
+        <span class="age">45+ ans</span>
+        <span class="label">Grand virage</span>
+      </div>
+
+      <!-- Row 1 : Crises -->
+      <div class="dim-header dim-crises">
+        <span class="dim-icon">&#9889;</span> Crises
+      </div>
+
+      <div class="cell row-crises">
+        <span class="intensity intensity-none">Aucune</span>
+        <br>Pas de crises
+      </div>
+      <div class="cell row-crises">
+        <span class="intensity intensity-mid">Debut</span>
+        <br>Premieres crises febriles prolongees, hemilaterales
+      </div>
+      <div class="cell row-crises">
+        <span class="intensity intensity-peak">Severe</span>
+        <br>Diversification : myoclonies, absences, CTCG. EME frequents
+      </div>
+      <div class="cell row-crises">
+        <span class="intensity intensity-high">Pic</span>
+        <br>Pic de frequence puis debut de stabilisation
+      </div>
+      <div class="cell row-crises">
+        <span class="intensity intensity-mid">Stabilisation</span>
+        <br>Stabilisation progressive, CTCG persistantes
+      </div>
+      <div class="cell row-crises">
+        <span class="intensity intensity-mid">Chronique</span>
+        <br>1-4 CTCG/mois, surtout nocturnes
+      </div>
+      <div class="cell row-crises">
+        <span class="intensity intensity-stable">Stable</span>
+        <br>CTCG nocturnes 67%, stabilisees
+      </div>
+      <div class="cell row-crises">
+        <span class="intensity intensity-stable">Stable/baisse</span>
+        <br>Stables ou diminution progressive
+      </div>
+
+      <!-- Row 2 : Cognition -->
+      <div class="dim-header dim-cognition">
+        <span class="dim-icon">&#129504;</span> Cognition
+      </div>
+
+      <div class="cell row-cognition">
+        Developpement normal
+      </div>
+      <div class="cell row-cognition">
+        Developpement encore normal
+      </div>
+      <div class="cell row-cognition">
+        <span class="intensity intensity-high">Baisse</span>
+        <br>Ralentissement du developpement (QD en baisse)
+      </div>
+      <div class="cell row-cognition">
+        <span class="intensity intensity-mid">Plateau</span>
+        <br>Plateau cognitif bas (QI moyen ~40)
+      </div>
+      <div class="cell row-cognition">
+        <span class="intensity intensity-stable">Stable</span>
+        <br>Stable, profil fixe
+      </div>
+      <div class="cell row-cognition">
+        <span class="intensity intensity-stable">Stable</span>
+        <br>Stable
+      </div>
+      <div class="cell row-cognition">
+        <span class="intensity intensity-stable">Stable</span>
+        <br>Stable, pas de declin majeur
+      </div>
+      <div class="cell row-cognition">
+        <span class="intensity intensity-low">Vigilance</span>
+        <br>Declin fonctionnel possible (sedentarite, comorbidites)
+      </div>
+
+      <!-- Row 3 : Traitements -->
+      <div class="dim-header dim-traitements">
+        <span class="dim-icon">&#128138;</span> Traitements
+      </div>
+
+      <div class="cell row-traitements">
+        Aucun
+      </div>
+      <div class="cell row-traitements">
+        Premiers antiepileptiques
+      </div>
+      <div class="cell row-traitements">
+        VPA, CLB, stiripentol (STICLO). Regime cetogene possible
+      </div>
+      <div class="cell row-traitements">
+        + fenfluramine, CBD. Ajustements. VNS possible
+      </div>
+      <div class="cell row-traitements">
+        Optimisation polytherapie
+      </div>
+      <div class="cell row-traitements">
+        Audit pharmacologique, simplification possible
+      </div>
+      <div class="cell row-traitements">
+        Surveillance long terme, essais cliniques possibles
+      </div>
+      <div class="cell row-traitements">
+        Attention osteoporose, hepatotoxicite VPA long cours, interactions cardiovasculaires
+      </div>
+
+      <!-- Row 4 : Moments cles -->
+      <div class="dim-header dim-moments">
+        <span class="dim-icon">&#11088;</span> Moments cles
+      </div>
+
+      <div class="cell row-moments">
+        Naissance
+      </div>
+      <div class="cell row-moments">
+        <span class="key-event">Premiere crise</span>, diagnostic suspecte
+      </div>
+      <div class="cell row-moments">
+        <span class="key-event">Diagnostic confirme</span>, MDPH enfant, AEEH
+      </div>
+      <div class="cell row-moments">
+        Scolarite adaptee (ULIS, IME), PPS
+      </div>
+      <div class="cell row-moments">
+        <span class="key-event">TRANSITION pediatrie &rarr; adulte</span>, passeport medical, MDPH adulte (AAH)
+      </div>
+      <div class="cell row-moments">
+        Entree en structure (FAM, foyer), mesure de protection juridique (tutelle)
+      </div>
+      <div class="cell row-moments">
+        Suivi pluridisciplinaire, vie affective, documentation savoir parental
+      </div>
+      <div class="cell row-moments">
+        <span class="key-event">Vieillissement des aidants</span>, mandat protection future, transition domicile &rarr; structure
+      </div>
+
+      <!-- Row 5 : Bilans a planifier -->
+      <div class="dim-header dim-bilans">
+        <span class="dim-icon">&#128203;</span> Bilans a planifier
+      </div>
+
+      <div class="cell row-bilans">
+        &mdash;
+      </div>
+      <div class="cell row-bilans">
+        Test genetique SCN1A
+      </div>
+      <div class="cell row-bilans">
+        EEG, IRM cerebrale
+      </div>
+      <div class="cell row-bilans">
+        Bilan neuropsychologique
+      </div>
+      <div class="cell row-bilans">
+        Passeport medical de transition
+      </div>
+      <div class="cell row-bilans">
+        DEXA si VPA &gt; 3 ans, bilan gyneco (SOPK), bilan hepatique
+      </div>
+      <div class="cell row-bilans">
+        Echo pelvienne annuelle, osteodensitometrie, bilan cardiaque si fenfluramine, evaluation douleur reguliere
+      </div>
+      <div class="cell row-bilans">
+        DEXA annuelle, bilan cardiovasculaire, bilan hepatique complet, suivi nutritionnel
+      </div>
+
+    </div><!-- .timeline -->
+  </div><!-- .timeline-wrapper -->
+
+  <div class="sudep-banner">
+    SUDEP : risque permanent — 5-10/1000 patients-annees — surveillance nocturne a tout age
+    <br><span>Morte Subite Inattendue en Epilepsie : premiere cause de mortalite dans le syndrome de Dravet</span>
+  </div>
+
+  <div class="legend">
+    <div class="legend-item"><div class="legend-swatch" style="background:#fef2f2;"></div> Crises</div>
+    <div class="legend-item"><div class="legend-swatch" style="background:#eff6ff;"></div> Cognition</div>
+    <div class="legend-item"><div class="legend-swatch" style="background:#f0fdf4;"></div> Traitements</div>
+    <div class="legend-item"><div class="legend-swatch" style="background:#fefce8;"></div> Moments cles</div>
+    <div class="legend-item"><div class="legend-swatch" style="background:#faf5ff;"></div> Bilans</div>
+  </div>
+
+</body>
+</html>

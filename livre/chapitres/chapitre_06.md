@@ -11,7 +11,8 @@ Il est fréquent de penser que le principal défi du syndrome de Dravet est de s
 2.  **Le corps et les mouvements :** La coordination des gestes et de l'équilibre peut être perturbée — un trouble appelé **ataxie** (du grec "sans ordre", c'est-à-dire une difficulté à coordonner les mouvements) — et la marche peut devenir instable. L'ataxie est très fréquente : entre 60 et 100 % des patients selon les études. Avec la croissance, une posture de marche particulière peut apparaitre (marche en position accroupie, ou "crouch gait" en anglais), surtout à l'adolescence.
 3.  **Les sens et le sommeil :** Le sommeil est très perturbé chez 60 à 80 % des patients, ce qui fatigue l'enfant et ses parents, créant un cercle vicieux avec les crises.
 4.  **Le ventre et la digestion :** La **constipation** chronique est fréquente et souvent sous-diagnostiquée. Elle est liée aux médicaments (qui ralentissent le transit), au manque d'activité physique, et aux difficultés alimentaires. Elle peut provoquer des douleurs et de l'irritabilité, et perturber l'absorption des médicaments.
-5.  **Le système nerveux autonome :** Le **système nerveux autonome** (la partie du système nerveux qui contrôle les fonctions "automatiques" du corps comme le rythme cardiaque, la respiration et la température) peut être perturbé. On parle de **dysautonomie**. Cela contribue aux problèmes de régulation de la température et au risque de complications cardiaques.
+5.  **La déglutition :** La **dysphagie** (difficulté à avaler) touche de nombreux adultes Dravet, en particulier ceux avec une ataxie sévère et une hypotonie (faiblesse du tonus musculaire). Le risque principal est la **fausse route** : un aliment ou un liquide passe dans les voies respiratoires au lieu de l'estomac, ce qui peut provoquer une **pneumopathie d'inhalation** (infection pulmonaire grave). Les pneumopathies d'inhalation figurent parmi les premières causes de mortalité après la SUDEP. Les médicaments antiépileptiques sédatifs (benzodiazépines, valproate à forte dose) diminuent le réflexe de toux et aggravent ce risque. Les textures alimentaires doivent être adaptées (mixé, haché, eau gélifiée) selon l'évaluation d'un **orthophoniste** spécialisé en déglutition. La position assise droite pendant le repas et pendant 30 minutes après est essentielle pour réduire le risque de fausse route.
+6.  **Le système nerveux autonome :** Le **système nerveux autonome** (la partie du système nerveux qui contrôle les fonctions "automatiques" du corps comme le rythme cardiaque, la respiration et la température) peut être perturbé. On parle de **dysautonomie**. Cela contribue aux problèmes de régulation de la température et au risque de complications cardiaques.
 
 **Un risque grave à connaitre : la SUDEP**
 Il est important de mentionner ici l'existence de la **SUDEP** (Sudden Unexpected Death in Epilepsy, ou mort subite inattendue liée à l'épilepsie). C'est une complication rare mais grave, dans laquelle une personne épileptique décède soudainement sans cause identifiable. Le syndrome de Dravet fait partie des épilepsies où ce risque est le plus élevé. Ce sujet est traité en détail au chapitre 9 ; il est mentionné ici car il représente la complication la plus sévère liée aux crises.
@@ -36,6 +37,7 @@ Quand votre proche ne peut pas parler ou a un langage très limité, comment sav
 *   La maladie est "multidimensionnelle" (elle touche plusieurs aspects de la vie).
 *   Les troubles du comportement (60-80 %), du sommeil (60-80 %) et de la motricité (60-100 %) sont aussi importants que les crises.
 *   La constipation et la dysautonomie sont des problèmes fréquents mais souvent négligés.
+*   La dysphagie (difficulté à avaler) expose au risque de fausse route et de pneumopathie d'inhalation -- une cause majeure de mortalité après la SUDEP. Une évaluation orthophonique et l'adaptation des textures sont indispensables.
 *   La douleur est massivement sous-détectée chez les personnes non-verbales — observez les changements de comportement.
 *   La SUDEP est un risque grave qui justifie la surveillance nocturne (voir chapitre 9).
 *   Chaque trouble nécessite une aide spécifique (orthophoniste, psychologue, kinésithérapeute).
@@ -121,7 +123,17 @@ La douleur est massivement sous-détectée chez les personnes avec déficience i
 
 *Conséquences graves si non traitée :* fécalome et occlusion intestinale, perforation intestinale et péritonite stercorale (potentiellement fatale), troubles du comportement secondaires à l'inconfort, prolapsus des organes pelviens.
 
-**9. Dépression et troubles psychiatriques chez l'adulte non-verbal**
+**9. Dysphagie et risque de fausse route**
+
+La **dysphagie** (difficulté à avaler) est une comorbidité sous-évaluée mais cliniquement significative chez l'adulte Dravet. Sa prévalence n'est pas spécifiquement étudiée dans le syndrome de Dravet, mais les facteurs de risque convergent : hypotonie oropharyngée liée à l'atteinte neurologique, ataxie cérébelleuse affectant la coordination de la déglutition, sédation médicamenteuse chronique, et crises péri-prandiales.
+
+*Facteurs aggravants iatrogènes :* les antiépileptiques les plus à risque de sédation impactant la déglutition sont le clobazam, le phénobarbital et le valproate à forte dose. L'association de plusieurs molécules sédatives majore l'effet dépresseur sur le réflexe de toux et la coordination pharyngée.
+
+*Évaluation :* le bilan orthophonique de la déglutition constitue le premier pas. L'évaluation de référence repose sur la vidéofluoroscopie (VFSS) ou la fibroscopie de la déglutition (FEES). La classification IDDSI (International Dysphagia Diet Standardisation Initiative) standardise les textures alimentaires et les niveaux d'épaississement des liquides.
+
+*Conséquences cliniques :* les pneumopathies d'inhalation représentent une cause significative de mortalité et de morbidité dans les encéphalopathies épileptiques sévères, se classant parmi les premières causes de décès après la SUDEP. Le risque est majoré en période post-critique (hypotonie transitoire, confusion) et pendant les repas suivant une crise.
+
+**10. Dépression et troubles psychiatriques chez l'adulte non-verbal**
 
 *Prévalence.* Les troubles psychiatriques touchent 30 à 50 % des personnes avec DI, soit un risque 3 à 4 fois supérieur à la population générale. Chez l'adulte Dravet spécifiquement, la dépression affecte 20 à 40 % des patients et l'anxiété 30 à 50 %.
 
@@ -149,6 +161,7 @@ graph TD
     A --> D["Sommeil<br/>60-80 %"]
     A --> E["Dysautonomie"]
     A --> F["Transit"]
+    A --> J["Déglutition"]
     A --> H["Douleur<br/>70 % DI"]
     A --> I["Psychiatrie<br/>30-50 %"]
     A --> G["SUDEP"]
@@ -169,6 +182,9 @@ graph TD
 
     F --> F1["Constipation<br/>jusqu'à 94 %"]
 
+    J --> J1["Dysphagie"]
+    J --> J2["Fausse route<br/>Pneumopathie"]
+
     H --> H1["Sous-détection<br/>< 30 %"]
     H --> H2["Échelles<br/>validées"]
 
@@ -177,6 +193,7 @@ graph TD
 
     style G fill:#f66,stroke:#333,stroke-width:2px
     style H1 fill:#f96,stroke:#333
+    style J2 fill:#f96,stroke:#333
 ```
 
 ---
@@ -204,6 +221,14 @@ L'enfant n'est pas "un enfant épileptique", c'est un enfant qui a des besoins v
     *   La constipation est fréquente et souvent liée aux médicaments. Veillez à un apport suffisant en eau et en fibres (fruits, légumes, céréales complètes).
     *   Notez la régularité du transit et signalez tout changement aux parents ou au médecin : une constipation sévère peut affecter l'absorption des médicaments et provoquer de l'irritabilité.
 
+*   **Déglutition et prévention des fausses routes :**
+    *   Observez les signes de dysphagie au quotidien : toux pendant ou après les repas, voix "mouillée" ou gargouillante après la déglutition, durée des repas anormalement longue, refus de certaines textures, résidus alimentaires restant en bouche, perte de poids inexpliquée.
+    *   Adaptez les textures alimentaires **uniquement** selon les recommandations de l'orthophoniste (ne pas décider seul de mixer ou d'épaissir).
+    *   Posture pendant les repas : assis à 90 degrés, menton légèrement fléchi vers l'avant (position de protection des voies aériennes). Maintenir cette position assise pendant au moins 30 minutes après le repas.
+    *   Environnement calme pendant les repas : réduire les stimulations (télévision, bruit, agitation) qui détournent l'attention et augmentent le risque de fausse route.
+    *   Ne jamais forcer l'alimentation. Si la personne refuse de manger ou tousse de manière répétée, interrompre le repas et signaler la situation.
+    *   Transmission : noter les textures tolérées et les difficultés observées dans le dossier du résident et sur la fiche chambre, afin que chaque professionnel (y compris les remplaçants) dispose de l'information.
+
 *   **Sécurité face aux comportements à risque :**
     *   L'absence de conscience du danger est quasi-universelle dans le syndrome de Dravet (60-80 % des patients). L'enfant peut ne pas percevoir les situations dangereuses (escaliers, points d'eau, routes). Une sécurisation active de l'environnement (verrous, barrières, surveillance des accès) est indispensable.
     *   L'impulsivité peut entrainer des gestes brusques ; prévenez plutôt que de réagir.
@@ -219,7 +244,7 @@ L'enfant n'est pas "un enfant épileptique", c'est un enfant qui a des besoins v
 En tant que professionnel accompagnant un résident Dravet, vous êtes les yeux et les oreilles de l'équipe médicale. La qualité de vos observations détermine la qualité des décisions de soins. Voici ce qu'il faut noter chaque jour :
 
 *   **Transit** : date de la dernière selle, consistance (dure, molle, liquide), présence de douleur abdominale apparente (se tient le ventre, grimaces lors du passage aux toilettes). Une absence de selles pendant plus de 3 jours doit être signalée au médecin. Attention : des selles liquides dans la protection n'excluent pas une constipation sévère (c'est un débordement autour d'un bouchon de selles dures).
-*   **Alimentation** : quantité ingérée (tout / la moitié / presque rien), refus alimentaire (depuis quand ?), difficultés de déglutition observées (toux pendant le repas, aliments qui "restent en bouche", bavage excessif). Le refus de manger peut être un signe de douleur, de nausée, ou de dépression.
+*   **Alimentation et déglutition** : quantité ingérée (tout / la moitié / presque rien), refus alimentaire (depuis quand ?), difficultés de déglutition observées (toux pendant le repas, voix mouillée après avoir avalé, aliments qui "restent en bouche", bavage excessif, durée du repas anormalement longue). Le refus de manger peut être un signe de douleur, de nausée, de dépression, ou de dysphagie qui s'aggrave. Noter si les textures prescrites par l'orthophoniste sont respectées.
 *   **Comportement** : agitation inhabituelle, repli ou retrait (ne participe plus aux activités), auto-agression (se frapper, se mordre, se griffer — notez la localisation et la fréquence), qualité du sommeil (endormissement, réveils, agitation nocturne).
 *   **Crises d'épilepsie** : heure de début, durée, type de crise observée (raidissement puis secousses = tonico-clonique, absence de réaction = absence, chute brutale = atonique), déclencheur possible identifié (fièvre, chaleur, fatigue, émotion forte), traitement d'urgence administré (oui/non, heure, dose).
 *   **Douleur** : localisation suspectée (ventre, tête, membres, dents), intensité estimée (la personne continue ses activités ou est prostré ?), postures antalgiques observées, grimaces.
@@ -249,6 +274,7 @@ La **SUDEP** (mort subite inattendue liée à l'épilepsie) est un risque grave 
 | **Sommeil (60-80 %)** | Gérer la fatigue globale | Polysomnographie, mélatonine, ajustement MAE | Respecter les temps de repos |
 | **Douleur non-verbale** | Observer les changements de comportement, demander l'évaluation systématique | Échelles validées (DESS, GED-DI, FLACC-R), profil personnel de douleur, évaluation mensuelle en structure | Grille d'observation quotidienne, noter postures et grimaces, transmettre au médecin |
 | **Constipation** | Hydratation et fibres, signaler le refus alimentaire | Prévalence jusqu'à 94 % sous antiépileptiques, protocole par paliers (macrogol), suivi hebdomadaire du transit | Noter la régularité du transit, alerter si > 3 jours sans selle, attention au faux transit |
+| **Dysphagie** | Textures adaptées sur avis orthophoniste, position assise 30 min après repas | Bilan orthophonique, VFSS/FEES, classification IDDSI, vigilance sédation médicamenteuse | Observer toux/voix mouillée au repas, ne pas décider seul des textures, environnement calme, fiche chambre |
 | **Dysautonomie** | Surveiller la température | Évaluation cardiaque, variabilité FC | Prévenir surchauffe et refroidissement |
 | **SUDEP** | Surveillance nocturne, moniteur de crises | Prévention, information aux familles (voir ch. 9) | Surveillance pendant siestes et repos |
 

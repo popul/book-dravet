@@ -12,8 +12,16 @@ La grande majorité des adultes Dravet ont besoin d'aide pour les gestes de la v
 **Travailler autrement**
 L'emploi en milieu ordinaire n'est généralement pas accessible, mais cela ne signifie pas l'absence d'activité. Les ESAT (Établissements et Services d'Aide par le Travail) proposent des ateliers adaptés : conditionnement, espaces verts, artisanat, restauration collective sous supervision. Environ 35 à 40 % des adultes fréquentent un centre de jour ou un atelier protégé. Ces activités apportent un rythme, un sentiment d'utilité et du lien social.
 
-**Vie affective et parentalité**
-La vie affective existe, même si les relations amoureuses restent rares. L'isolement social est un vrai risque, et le maintien d'activités de groupe est essentiel. La question de la parentalité se pose parfois : elle nécessite un conseil génétique approfondi, car la mutation du gène SCN1A (le gène impliqué dans le syndrome de Dravet) peut être transmise à l'enfant avec un risque de 50 %. De plus, le valproate, traitement central du syndrome, est formellement contre-indiqué pendant la grossesse.
+**Vie affective et sexualité**
+Les adultes Dravet ont des besoins affectifs et, pour certains, des désirs sexuels. Ces besoins sont légitimes et reconnus par les recommandations de l'ANESM (2017) sur la vie affective et sexuelle en établissement médico-social. La vie affective existe, même si les relations amoureuses restent rares. L'isolement social est un vrai risque, et le maintien d'activités de groupe est essentiel.
+
+La vie en structure pose des questions spécifiques auxquelles il faut répondre sans tabou :
+*   **L'intimité** : chaque résident a droit à un espace et un temps privés. Frapper avant d'entrer dans la chambre, respecter les moments seuls, ne pas nier les manifestations affectives ou sexuelles.
+*   **Le consentement** : quand il y a déficience intellectuelle, la question du consentement éclairé est complexe mais ne doit pas conduire à un déni du droit à la vie affective. L'évaluation se fait au cas par cas : la personne comprend-elle la nature de la relation ? Peut-elle exprimer un refus ?
+*   **La contraception** : elle doit être compatible avec les antiépileptiques. Le valproate est formellement contre-indiqué pendant la grossesse (risque de malformations de 10,3 %). Les progestatifs seuls ou le dispositif intra-utérin sont généralement compatibles avec les traitements du Dravet. Un suivi gynécologique est indispensable.
+*   **Le SOPK et l'humeur** : le syndrome des ovaires polykystiques (fréquent sous valproate, voir plus bas) et les traitements hormonaux peuvent provoquer des troubles de l'humeur, des douleurs et une altération de l'image de soi, impactant la vie affective.
+
+La question de la parentalité se pose parfois : elle nécessite un conseil génétique approfondi, car la mutation du gène SCN1A (le gène impliqué dans le syndrome de Dravet) peut être transmise à l'enfant avec un risque de 50 %. De plus, le valproate est formellement contre-indiqué pendant la grossesse.
 
 **Santé de la femme : un sujet encore trop ignoré**
 Chez les femmes adultes atteintes du syndrome de Dravet, le traitement par valproate au long cours peut provoquer un **syndrome des ovaires polykystiques** (SOPK — un dérèglement hormonal touchant les ovaires) dans une proportion très élevée, pouvant atteindre 90 % lorsque le traitement a été commencé avant 20 ans. Ce dérèglement hormonal entraîne des troubles des règles (irrégularité, absence de règles), une prise de poids et parfois un excès de pilosité.
@@ -41,6 +49,14 @@ Lorsque votre proche vit en foyer d'accueil médicalisé (FAM), en maison d'accu
 En plus de l'épilepsie et des troubles déjà mentionnés, les adultes Dravet peuvent développer d'autres problèmes liés à la maladie elle-même ou aux traitements pris pendant des décennies :
 *   **L'ostéoporose** (fragilisation des os) : les médicaments antiépileptiques, en particulier le valproate et le phénobarbital, réduisent la densité osseuse au fil des années. Cela augmente le risque de fractures, surtout combiné aux troubles de l'équilibre (ataxie). Une supplémentation en vitamine D et en calcium, ainsi qu'un suivi régulier de la solidité des os (ostéodensitométrie, un examen indolore), sont recommandés.
 *   **La prise de poids** : elle touche 40 à 70 % des patients sous valproate et contribue à un risque de syndrome métabolique (un ensemble de problèmes incluant diabète, cholestérol élevé, hypertension).
+
+**Hygiène quotidienne et gestion du risque thermique**
+Le bain et la douche sont des moments à risque dans le syndrome de Dravet. L'eau chaude est un facteur déclenchant de crises bien identifié : l'élévation de la température corporelle modifie le fonctionnement des canaux sodiques (les mêmes canaux qui sont défaillants dans le Dravet), ce qui peut provoquer une crise. Quelques règles simples permettent de sécuriser ces moments :
+*   **Température de l'eau** : ne jamais dépasser 37 °C. Utilisez un thermomètre de bain à chaque toilette -- ne vous fiez pas à la sensation de la main.
+*   **Douche plutôt que bain** : l'immersion prolongée dans l'eau chaude élève davantage la température corporelle. Si un bain est souhaité, limitez-le en durée.
+*   **Ne jamais laisser la personne seule dans l'eau** : même quelques minutes, le risque de crise et de noyade est réel.
+*   **Midazolam accessible** : le traitement d'urgence doit être à portée de main dans la salle de bain, pas dans l'armoire à pharmacie à l'autre bout du couloir.
+*   **Si une crise survient dans l'eau** : sortez la personne immédiatement, placez-la en position latérale de sécurité sur le sol, et appliquez le protocole habituel de gestion de crise.
 
 **La santé mentale, un sujet à ne pas négliger**
 La dépression touche 20 à 40 % des adultes Dravet, et l'anxiété 30 à 50 %. Ces troubles sont souvent sous-diagnostiqués parce que la personne ne peut pas toujours exprimer ce qu'elle ressent, ou parce que les symptômes sont confondus avec la fatigue liée aux médicaments. Soyez attentifs aux changements de comportement : repli sur soi, perte d'intérêt pour les activités habituelles, troubles du sommeil accrus.
@@ -94,7 +110,13 @@ La polythérapie reste la règle. Le monitoring doit inclure :
 *   **Valproate et grossesse** : taux de malformations congénitales majeures de 10,3 % [Tomson et al., 2018], réduction du QI de l'enfant de 7 à 10 points. Contre-indication formelle. Discussion précoce de la contraception et du projet parental.
 *   Diagnostic préimplantatoire (DPI) ou prénatal (DPN) à proposer aux familles concernées.
 
-**6. Santé de la femme et suivi gynécologique**
+**6. Vie affective, sexualité et consentement**
+*   **Cadre juridique et éthique :** les recommandations de l'ANESM (2017) reconnaissent le droit à la vie affective et sexuelle des personnes en situation de handicap vivant en établissement. Le consentement sexuel en contexte de déficience intellectuelle est évalué au cas par cas selon la capacité décisionnelle dimensionnelle : la personne comprend-elle la nature de l'acte, ses conséquences, peut-elle exprimer un refus ?
+*   **Contraception et interactions médicamenteuses :** les antiépileptiques inducteurs enzymatiques (carbamazépine, phénytoïne, oxcarbazépine) réduisent l'efficacité des contraceptifs oraux. Ces molécules sont contre-indiquées dans le syndrome de Dravet, ce qui simplifie le choix contraceptif. Le valproate, le clobazam et le stiripentol n'ont pas d'interaction significative avec les contraceptifs oraux. Les progestatifs seuls ou le dispositif intra-utérin (DIU au lévonorgestrel ou au cuivre) sont généralement compatibles. Référer au gynécologue pour un choix adapté au profil de la patiente.
+*   **Valproate et grossesse :** rappel -- taux de malformations congénitales majeures de 10,3 % [Tomson et al., 2018], réduction du QI de l'enfant de 7 à 10 points. Contre-indication formelle. La contraception doit être systématiquement abordée dès la puberté chez toute femme sous valproate.
+*   **En cas de relation entre résidents :** évaluation conjointe par l'équipe pluridisciplinaire, les familles, et si nécessaire le juge des tutelles. L'objectif est de protéger la personne tout en respectant sa dignité et son droit à l'intimité.
+
+**7. Santé de la femme et suivi gynécologique**
 *   **SOPK et valproate** : prévalence du SOPK jusqu'à 90 % sous valproate initié avant 20 ans [Isojärvi et al., 1993]. Hyperandrogénie, oligo/anovulation, prise de poids. Bilan hormonal (LH, FSH, testostérone, SHBG) recommandé annuellement.
 *   **Fibromes utérins** : les perturbations hormonales induites par le valproate (augmentation de la synthèse d'androgènes ovariens, conversion en estrogènes par aromatisation) peuvent favoriser la croissance de fibromes utérins, tumeurs estrogéno-dépendantes. Échographie pelvienne recommandée en cas de symptômes (saignements, douleurs).
 *   **Endométriose** : pathologie estrogéno-dépendante, prévalence de ~10 % en population féminine générale. Le déséquilibre hormonal induit par le valproate (SOPK, anovulation, hyperoestrogénie relative) constitue un facteur de risque potentiel. L'endométriose provoque des douleurs pelviennes chroniques, une dyschésie (douleur à la défécation) et une constipation par spasme du plancher pelvien, s'ajoutant à la constipation iatrogène. Diagnostic par échographie endovaginale +/- IRM pelvienne.
@@ -102,12 +124,12 @@ La polythérapie reste la règle. Le monitoring doit inclure :
 *   **Épilepsie cataméniale** : les fluctuations des estrogènes et de la progestérone modulent le seuil épileptogène. Un suivi du calendrier des crises rapporté au cycle menstruel permet d'identifier les patientes à risque et d'envisager une supplémentation progestative péri-menstruelle.
 *   **Contraception** : les antiépileptiques inducteurs enzymatiques réduisent l'efficacité des contraceptifs oraux. Le valproate impose une contraception efficace (risque tératogène). Privilégier les dispositifs intra-utérins (DIU) au lévonorgestrel ou au cuivre.
 
-**7. Monitoring métabolique et orthopédique**
+**8. Monitoring métabolique et orthopédique**
 *   Vitamine D sérique (25-OH-D) annuelle, supplémentation systématique (800-1000 UI/jour) et calcium (500-1000 mg/jour).
 *   Ostéodensitométrie (DEXA) de base à 25-30 ans, puis tous les 2-3 ans. Risque relatif de fracture : 1,7 à 6,2 selon les antiépileptiques [Vestergaard, 2015].
 *   Surveillance de la scoliose (30-50 % des cas) et de l'ataxie cérébelleuse (60-80 % des adultes).
 
-**8. Dépistage psychiatrique**
+**9. Dépistage psychiatrique**
 Outils adaptés à la déficience intellectuelle (DI) : PAS-ADD, DBC-A, ABC. Dépression (20-40 %), anxiété (30-50 %), troubles du sommeil (>60 %) [Kalnitski et al., 2021]. Antidépresseurs ISRS (sertraline) généralement bien tolérés. Vigilance sur l'interaction fluoxétine/stiripentol (CYP2D6). Antipsychotiques si nécessaire : préférer la quétiapine ou l'aripiprazole (moindre abaissement du seuil épileptogène).
 
 #### 📊 Suivi pluridisciplinaire de l'adulte Dravet (Mermaid)
@@ -119,6 +141,8 @@ graph TD
     A --> D["Psychiatrie"]
     A --> E["Orthopédie"]
     A --> F["Génétique"]
+    A --> G["Gynécologie"]
+    A --> H["Vie quotidienne"]
 
     B --> B1["Crises nocturnes"]
     B --> B2["EEG contrôle"]
@@ -136,12 +160,21 @@ graph TD
 
     F --> F1["Conseil génétique"]
 
+    G --> G1["SOPK / Valproate"]
+    G --> G2["Contraception"]
+    G --> G3["Vie affective"]
+
+    H --> H1["Risque thermique<br/>Bain / Douche"]
+    H --> H2["Intimité<br/>ANESM 2017"]
+
     style A fill:#4a90d9,stroke:#333,color:#fff
     style B fill:#e8a838,stroke:#333
     style C fill:#e8a838,stroke:#333
     style D fill:#e8a838,stroke:#333
     style E fill:#e8a838,stroke:#333
     style F fill:#e8a838,stroke:#333
+    style G fill:#e8a838,stroke:#333
+    style H fill:#e8a838,stroke:#333
 ```
 
 ---
@@ -153,7 +186,7 @@ graph TD
 *Routines sécurisées.* La stabilité du quotidien est votre meilleur outil de prévention des crises. Veillez à :
 *   **Horaires de médicaments** : respectez scrupuleusement les horaires prescrits. Le stiripentol doit être pris pendant le repas (et non à jeun). Un retard de plus de 30 minutes sur une prise peut suffire à déstabiliser l'équilibre épileptique. Si vous distribuez les médicaments, vérifiez que le résident a bien avalé (pas de comprimé gardé en bouche ou recraché).
 *   **Gestion de la fièvre** : chez un adulte Dravet, la fièvre reste un déclencheur majeur de crises (elle persiste chez environ 30 % des adultes). Prenez la température au moindre doute. Administrez le paracétamol dès 37,8 °C selon le protocole prescrit, sans attendre 38,5 °C comme en population générale.
-*   **Éviter la surchauffe** : la dysautonomie (perturbation du système nerveux qui régule la température du corps) rend les personnes Dravet vulnérables à la chaleur. En été, privilégiez les pièces climatisées ou ventilées, les activités à l'ombre, et une hydratation renforcée. Même un bain trop chaud peut déclencher une crise.
+*   **Éviter la surchauffe** : la dysautonomie (perturbation du système nerveux qui régule la température du corps) rend les personnes Dravet vulnérables à la chaleur. En été, privilégiez les pièces climatisées ou ventilées, les activités à l'ombre, et une hydratation renforcée. Même un bain trop chaud peut déclencher une crise (voir la section "Hygiène quotidienne et prévention du risque thermique" plus bas pour le protocole détaillé).
 
 *Crises au quotidien : que faire selon le contexte ?*
 *   **Pendant une activité** (atelier, sport) : éloignez les objets dangereux, allongez la personne au sol si possible, protégez sa tête, ne restreignez pas ses mouvements. Chronométrez. Les autres participants doivent être éloignés calmement.
@@ -187,8 +220,25 @@ La personne adulte n'est pas un "grand enfant". Adaptez votre vocabulaire, propo
 **Emploi et socialisation : des enjeux majeurs**
 Les données montrent qu'aucun adulte Dravet n'exerce d'emploi en milieu ordinaire (Genton et al., 2011), mais 35 à 40 % fréquentent un centre de jour ou un atelier protégé (ESAT). Les barrières à l'emploi sont multiples : persistance des crises, déficience intellectuelle, troubles moteurs (ataxie, c'est-à-dire troubles de l'équilibre et de la coordination), fatigue liée aux médicaments. L'enjeu n'est pas l'emploi classique, mais l'accès à une activité structurante qui apporte un rythme, un sentiment d'utilité et du lien social. Les ESAT avec hébergement peuvent offrir une solution intégrée pour les adultes qui ne vivent plus au domicile familial.
 
-**Vie sociale et communautaire**
-L'isolement social est le principal facteur de risque de dégradation de la santé mentale. Favorisez les sorties encadrées, les activités de groupe (sport adapté, musicothérapie, art-thérapie), les liens avec l'extérieur. La vie affective doit être respectée et accompagnée, avec une éducation adaptée à la vie intime et relationnelle.
+**Vie affective, intimité et accompagnement relationnel**
+L'isolement social est le principal facteur de risque de dégradation de la santé mentale. Favorisez les sorties encadrées, les activités de groupe (sport adapté, musicothérapie, art-thérapie), les liens avec l'extérieur.
+
+La vie affective et sexuelle doit être respectée et accompagnée, dans le cadre des recommandations de l'ANESM (2017) :
+*   **Respecter l'intimité** : frappez avant d'entrer dans la chambre, accordez des temps seuls, ne commentez pas les manifestations affectives devant les autres résidents.
+*   **Ne pas nier ni réprimer** les manifestations affectives ou sexuelles. Elles font partie de la vie adulte et de la dignité de la personne.
+*   **Distinguer** les comportements d'exploration normaux des comportements à risque (absence de consentement, exposition publique, auto-agression).
+*   **Former le personnel** à l'éducation affective adaptée : des formations spécialisées existent (CREAI, ANCREAI) et permettent aux équipes d'aborder ces situations avec professionnalisme et bienveillance.
+*   **En cas de relation entre résidents** : procéder à une évaluation conjointe par l'équipe, les familles et, si nécessaire, le juge des tutelles. L'objectif est double : protéger la personne et respecter son droit à la vie affective.
+
+**Hygiène quotidienne et prévention du risque thermique**
+Le bain et la douche sont des moments à risque spécifique chez les résidents Dravet, car l'eau chaude est un déclencheur de crises bien identifié. Des règles strictes s'imposent :
+*   **Vérifier la température de l'eau AVANT chaque toilette** : utilisez un thermomètre, ne dépassez jamais 37 °C. Ne vous fiez pas à la sensation de la main.
+*   **Préférer la douche au bain** : l'immersion prolongée élève davantage la température corporelle. Si un bain est accordé, limitez sa durée.
+*   **Limiter la durée** : 10 à 15 minutes maximum pour une douche.
+*   **Adapter les salles de bain** : tapis antidérapant au sol et dans la douche, siège de douche fixé au mur, barre d'appui. En cas de crouch gait (marche accroupie) ou d'ataxie sévère, prévoir une aide à deux personnes si nécessaire.
+*   **Ne jamais laisser la personne seule dans l'eau**, même brièvement.
+*   **Midazolam accessible** : le traitement d'urgence doit être à portée de main dans la salle de bain.
+*   **Transmettre la consigne de température** dans le dossier du résident et lors de chaque relève, en particulier aux remplaçants qui ne connaissent pas la personne.
 
 **Vigilance sur les comorbidités physiques**
 Les professionnels de l'accompagnement doivent être attentifs aux signes d'ostéoporose (douleurs osseuses, fractures après des chutes mineures) et de prise de poids excessive. Ces problèmes sont souvent liés aux traitements antiépileptiques au long cours. L'encouragement à l'activité physique adaptée (marche, natation encadrée, exercices d'équilibre) contribue à la prévention de l'ostéoporose et au maintien d'un poids santé.
@@ -203,7 +253,9 @@ Les professionnels de l'accompagnement doivent être attentifs aux signes d'ost�
 | **Comorbidités** | Surveiller prise de poids, douleurs osseuses | Ostéoporose (DEXA), syndrome métabolique, psychiatrie | Encourager activité physique, alerter si fractures |
 | **Emploi** | Valoriser toute activité, même partielle | Adapter les traitements pour limiter la fatigue diurne | ESAT (35-40 % des adultes), ateliers adaptés |
 | **Santé mentale** | Observer les changements de comportement | Dépistage systématique (PAS-ADD, DBC-A) | Repérer le retrait social, alerter l'équipe médicale |
-| **Parentalité** | Accompagner le projet avec bienveillance | Conseil génétique, contre-indication valproate/grossesse | Respecter le désir affectif et intime |
+| **Vie affective** | Besoins légitimes, intimité, contraception compatible | Consentement dimensionnel, DIU/progestatifs, contre-indication valproate/grossesse | Respecter l'intimité, frapper avant d'entrer, formations CREAI/ANCREAI |
+| **Hygiène / Risque thermique** | Eau <= 37 °C, douche plutôt que bain, ne jamais laisser seul | Eau chaude = déclencheur (cinétique canaux sodiques), midazolam accessible | Thermomètre avant chaque toilette, 15 min max, aide à deux si ataxie, transmettre la consigne |
+| **Parentalité** | Accompagner le projet avec bienveillance | Conseil génétique, contre-indication valproate/grossesse | Évaluation conjointe équipe/familles/tutelle si relation |
 | **Vie en structure** | Participer au projet personnalisé, cahier de liaison, visites | Protocole de soins individualisé, monitoring nocturne, coordination neurologue/médecin coordonnateur | Routines sécurisées, transmission jour/nuit, observer les signaux non-verbaux |
 | **Logement** | Anticiper le vieillissement des parents-aidants | Évaluer l'autonomie fonctionnelle | Favoriser les solutions les moins restrictives |
 

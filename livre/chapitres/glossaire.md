@@ -18,6 +18,8 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 
 **Allèle** — Chacune des deux copies d'un même gène que nous possédons (une héritée du père, une de la mère). Dans le syndrome de Dravet, un seul des deux allèles du gène SCN1A est muté.
 
+**ANESM (Agence Nationale de l'Évaluation et de la qualité des établissements et Services sociaux et Médico-sociaux)** — Agence publique française (intégrée depuis 2018 à la HAS) qui a produit des recommandations de bonnes pratiques pour les établissements médico-sociaux, dont celles sur la vie affective et sexuelle des personnes en situation de handicap (2017).
+
 **Antiépileptique (AE)** — Médicament utilisé pour prévenir ou réduire les crises d'épilepsie. Il en existe de nombreuses familles, et tous ne conviennent pas au syndrome de Dravet.
 
 **Aphasie** — Difficulté ou incapacité à produire ou comprendre le langage, liée à un dysfonctionnement cérébral.
@@ -120,6 +122,8 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 
 **Fécalome** — Accumulation de selles durcies dans le rectum ou le colon, formant un bouchon qui peut provoquer une occlusion intestinale. Complication grave de la constipation chronique, fréquente chez les personnes avec déficience intellectuelle sous antiépileptiques. Peut nécessiter une désimpaction manuelle.
 
+**FEES (Fiberoptic Endoscopic Evaluation of Swallowing)** — Examen de la déglutition réalisé à l'aide d'un fibroscope (caméra souple introduite par le nez) qui permet d'observer directement le passage des aliments dans le pharynx. Avec la vidéofluoroscopie (VFSS), c'est l'examen de référence pour évaluer la dysphagie.
+
 **Fenfluramine (Fintepla)** — Médicament qui agit sur la sérotonine (un messager chimique du cerveau) pour réduire les crises dans le syndrome de Dravet. Nécessite une surveillance cardiaque par échocardiographie tous les 6 mois.
 
 **FLACC-R (Face, Legs, Activity, Cry, Consolability -- Revised)** — Échelle rapide d'évaluation de la douleur en 5 items (visage, jambes, activité, cris, consolabilité), score de 0 à 10. Adaptée aux situations aiguës chez les personnes avec handicap cognitif. Nécessite une connaissance préalable de la personne.
@@ -153,6 +157,8 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 **Hypotonie** — Diminution anormale du tonus musculaire, donnant une impression de "mollesse" du corps.
 
 ## I
+
+**IDDSI (International Dysphagia Diet Standardisation Initiative)** — Classification internationale standardisant les textures alimentaires (de 0 = liquide fin à 7 = aliment normal) et les niveaux d'épaississement des liquides, utilisée pour adapter l'alimentation des personnes souffrant de dysphagie.
 
 **Inhibition (cérébrale)** — Mécanisme par lequel certains neurones freinent l'activité d'autres neurones. C'est le système de "freinage" du cerveau, essentiel pour empêcher les crises.
 
@@ -236,6 +242,8 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 
 **Placebo** — Substance inactive (sans effet pharmacologique) administrée dans un essai clinique au groupe témoin, afin de comparer objectivement l'effet du vrai médicament. Les participants ne savent pas s'ils reçoivent le médicament ou le placebo.
 
+**Pneumopathie d'inhalation** — Infection pulmonaire provoquée par le passage d'aliments, de liquides ou de sécrétions dans les voies respiratoires (fausse route). Cause significative de mortalité dans les encéphalopathies épileptiques sévères, après la SUDEP. La prévention repose sur l'évaluation de la déglutition et l'adaptation des textures alimentaires.
+
 **PLS (Position Latérale de Sécurité)** — Position dans laquelle on place une personne inconsciente sur le côté pour libérer ses voies respiratoires et éviter l'étouffement.
 
 **Polythérapie** — Utilisation simultanée de plusieurs médicaments pour traiter la maladie. Dans le syndrome de Dravet, la polythérapie est souvent nécessaire car un seul médicament ne suffit pas.
@@ -291,3 +299,5 @@ Ce glossaire regroupe les termes scientifiques et techniques utilisés dans cet 
 **Valproate de sodium** — Antiépileptique à large spectre, souvent utilisé en première intention dans le syndrome de Dravet. **Contre-indiqué chez la femme enceinte ou en âge de procréer** sans contraception efficace (risques graves pour le foetus).
 
 **Vecteur AAV (virus adéno-associé)** — Virus inoffensif utilisé comme "véhicule" pour transporter un gène thérapeutique à l'intérieur des cellules. Dans la recherche sur le syndrome de Dravet, les vecteurs AAV sont utilisés pour délivrer des outils génétiques (comme CRISPRa) directement dans les neurones du cerveau.
+
+**VFSS (Videofluoroscopic Swallowing Study)** — Examen radiologique dynamique de la déglutition, réalisé en avalant un produit de contraste sous fluoroscopie. Permet de visualiser toutes les phases de la déglutition et de détecter les fausses routes silencieuses. Avec la FEES, c'est l'examen de référence pour évaluer la dysphagie.
