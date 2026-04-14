@@ -152,49 +152,52 @@ La **dysphagie** (difficulté à avaler) est une comorbidité sous-évaluée mai
 
 *Traitement pharmacologique :* les ISRS (inhibiteurs sélectifs de la recapture de la sérotonine) constituent le traitement de première intention. La sertraline est généralement bien tolérée et présente un faible risque d'abaissement du seuil épileptogène. Vigilance sur l'interaction fluoxétine/stiripentol (compétition sur le CYP2D6 — l'enzyme hépatique qui métabolise les deux molécules). Introduire à faible dose et titrer lentement. Si un antipsychotique est nécessaire, préférer la quétiapine ou l'aripiprazole (moindre abaissement du seuil épileptogène que les autres antipsychotiques).
 
-#### 📊 Cartographie des comorbidités (Mermaid)
+#### 📊 Réseau des comorbidités et boucles de rétroaction (Mermaid)
 
 ```mermaid
 graph TD
-    A["Syndrome<br/>de Dravet"] --> B["Comportement<br/>60-80 %"]
-    A --> C["Motricité<br/>60-100 %"]
-    A --> D["Sommeil<br/>60-80 %"]
-    A --> E["Dysautonomie"]
-    A --> F["Transit"]
-    A --> J["Déglutition"]
-    A --> H["Douleur<br/>70 % DI"]
-    A --> I["Psychiatrie<br/>30-50 %"]
-    A --> G["SUDEP"]
+    CRISES["Crises<br/>épileptiques"] --> SOMMEIL["Sommeil<br/>fragmenté"]
+    SOMMEIL --> |"Seuil abaissé"| CRISES
 
-    B --> B1["TSA 20-50 %"]
-    B --> B2["TDAH 20-40 %"]
-    B --> B3["Absence de<br/>conscience danger"]
+    CONST["Constipation<br/>chronique"] --> DOULEUR["Douleur<br/>abdominale"]
+    DOULEUR --> STRESS["Stress /<br/>Irritabilité"]
+    STRESS --> |"Seuil abaissé"| CRISES
 
-    C --> C1["Ataxie"]
-    C --> C2["Crouch gait<br/>50-60 %"]
-    C --> C3["Dyspraxie"]
+    CONST --> ABSORB["Absorption<br/>altérée"]
+    ABSORB --> EFFIC["Efficacité MAE<br/>réduite"]
+    EFFIC --> CRISES
 
-    D --> D1["Insomnie"]
-    D --> D2["Fragmentation"]
+    DYSAUT["Dysautonomie"] --> THERMO["Thermorégulation<br/>perturbée"]
+    THERMO --> |"Fièvre"| CRISES
 
-    E --> E1["Thermorégulation"]
-    E --> E2["Rythme cardiaque"]
+    DOULEUR --> COMPORT["Comportement<br/>difficile"]
+    COMPORT --> ISOL["Isolement<br/>social"]
+    ISOL --> DEPRESS["Dépression<br/>20-40 %"]
 
-    F --> F1["Constipation<br/>jusqu'à 94 %"]
+    CRISES --> |"CTCG"| DEPRESPI["Dépression<br/>respiratoire"]
+    DYSAUT --> DEPRESPI
+    DEPRESPI --> SUDEP["SUDEP"]
 
-    J --> J1["Dysphagie"]
-    J --> J2["Fausse route<br/>Pneumopathie"]
+    subgraph "Interventions"
+    INT1["Évaluation<br/>douleur"]
+    INT2["Monitoring<br/>nocturne"]
+    INT3["Traitement<br/>constipation"]
+    end
 
-    H --> H1["Sous-détection<br/>< 30 %"]
-    H --> H2["Échelles<br/>validées"]
+    INT1 -.-> |"Casse la boucle"| DOULEUR
+    INT2 -.-> |"Réduit risque"| SUDEP
+    INT2 -.-> |"Détecte crises"| SOMMEIL
+    INT3 -.-> |"Améliore"| ABSORB
+    INT3 -.-> |"Réduit"| DOULEUR
 
-    I --> I1["Dépression<br/>20-40 %"]
-    I --> I2["Anxiété<br/>30-50 %"]
-
-    style G fill:#f66,stroke:#333,stroke-width:2px
-    style H1 fill:#f96,stroke:#333
-    style J2 fill:#f96,stroke:#333
+    style SUDEP fill:#f66,stroke:#333,stroke-width:2px
+    style CRISES fill:#f96,stroke:#333
+    style INT1 fill:#6b6,stroke:#333,color:#fff
+    style INT2 fill:#6b6,stroke:#333,color:#fff
+    style INT3 fill:#6b6,stroke:#333,color:#fff
 ```
+
+Ce réseau montre que les comorbidités ne sont pas indépendantes les unes des autres, mais forment des boucles qui s'entretiennent mutuellement. Traiter la constipation, par exemple, peut améliorer l'absorption des médicaments ET réduire la douleur abdominale, ce qui diminue le stress et abaisse la fréquence des crises. De même, le monitoring nocturne agit simultanément sur le risque de SUDEP et sur la détection des crises qui fragmentent le sommeil. Identifier et traiter la douleur chez une personne non-verbale permet de casser la chaîne douleur, comportement difficile, isolement et dépression.
 
 ---
 

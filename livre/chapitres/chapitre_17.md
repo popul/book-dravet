@@ -67,4 +67,59 @@ Si certaines informations contenues dans cet ouvrage devaient être dépassées 
 
 ---
 
+### Une vision systemique
+
+Le syndrome de Dravet n'est pas une succession de problemes isoles -- crises d'un cote, douleur de l'autre, sommeil ailleurs. C'est un systeme interconnecte ou chaque element influence les autres. Une douleur non traitee augmente les crises, qui fragmentent le sommeil, qui epuise l'aidant, qui reduit la vigilance. Inversement, chaque intervention bien placee declenche des effets en cascade positifs. La prise en charge la plus efficace est celle qui identifie ces boucles et les casse aux bons endroits.
+
+```mermaid
+graph TD
+    subgraph Fondamental
+        M["Mutation SCN1A"] --> D["Desequilibre<br/>E/I"]
+        D --> C["Crises"]
+    end
+
+    subgraph Manifestations
+        C -->|aggrave| DO["Douleur"]
+        C -->|fragmente| SO["Sommeil"]
+        C -->|ralentit| CO["Constipation"]
+        DO -->|augmente| C
+        CO -->|altere<br/>absorption| C
+        SO -->|abaisse seuil| C
+        C --> SU["Risque SUDEP"]
+    end
+
+    subgraph Ecosysteme
+        C -->|charge| FA["Impact<br/>familial"]
+        FA --> EP["Epuisement<br/>aidant"]
+        EP -->|reduit| VI["Vigilance"]
+        VI -->|crises non<br/>detectees| SU
+    end
+
+    subgraph Interventions
+        T1["Traitement<br/>optimise H1 H2"] -.->|reduit| C
+        T2["Douleur<br/>traitee H3"] -.->|casse cycle| DO
+        T3["Monitoring<br/>H4"] -.->|detecte| VI
+        T4["Droits<br/>garantis H7"] -.->|acces soins| T1
+        T3 -.->|securise| SU
+        T2 -.->|reduit<br/>epuisement| EP
+    end
+
+    DO -->|cycle vicieux| CO
+    CO -->|douleur<br/>abdominale| DO
+    T3 -.->|anxiete<br/>reduite| FA
+
+    style SU fill:#f00,stroke:#333,stroke-width:3px,color:#fff
+    style M fill:#ddd,stroke:#666
+    style T1 fill:#9f9,stroke:#333
+    style T2 fill:#9f9,stroke:#333
+    style T3 fill:#9f9,stroke:#333
+    style T4 fill:#9f9,stroke:#333
+    style DO fill:#fcc,stroke:#c33
+    style CO fill:#fcc,stroke:#c33
+```
+
+Ce reseau est la carte du territoire. Le livre en explore chaque region en detail -- mecanismes, traitements, accompagnement, droits. Le Fil d'Ariane montre ou agir en premier et comment chaque intervention se propage dans le systeme.
+
+---
+
 *Ce livre s'achève comme il a commencé : dédié à toutes les familles qui se battent chaque jour, à tous les soignants qui cherchent sans relâche, et à tous les professionnels qui accueillent avec patience et bienveillance. Le combat continue. Il n'est plus solitaire.*

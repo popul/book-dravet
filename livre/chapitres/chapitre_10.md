@@ -87,22 +87,53 @@ Le vieillissement des parents-aidants constitue un facteur de risque médical à
 
 **Transfert de tutelle :** Quand un parent-tuteur ne peut plus exercer sa mission (hospitalisation, décès, perte cognitive), le transfert peut s'opérer vers la fratrie (tutelle familiale, gratuite, connaissance intime de la personne) ou vers un mandataire judiciaire professionnel (neutralité, professionnalisme, mais moindre connaissance de la personne). La dissociation est possible : protection de la personne confiée à la famille, gestion du patrimoine confiée à un professionnel.
 
-#### 📊 Le cercle vicieux de l'épuisement (Mermaid)
+#### 📊 Système multi-niveaux de l'épuisement (Mermaid)
 
 ```mermaid
 graph TD
-    A["Crises imprévisibles"] --> B["Stress &<br/>Vigilance constante"]
+    A["Crises<br/>imprévisibles"] --> B["Stress aidant"]
     B --> C["Charge mentale"]
     C --> D["Épuisement"]
-    D --> E["Baisse de<br/>vigilance/soins"]
+    D --> E["Baisse de<br/>vigilance"]
     E --> A
-    
-    subgraph "Boucle de rétroaction négative"
-    B & C & D & E
+
+    subgraph "Cercle central"
+    A & B & C & D & E
     end
 
+    DOUL["Douleur enfant<br/>non détectée"] --> AGRES["Comportement<br/>agressif"]
+    AGRES --> B
+
+    SOMMENF["Sommeil enfant<br/>fragmenté"] --> SOMMAID["Sommeil aidant<br/>fragmenté"]
+    SOMMAID --> D
+
+    SUDEP["Risque SUDEP"] --> ANX["Anxiété<br/>chronique"]
+    ANX --> D
+
+    D --> |"Moins de<br/>surveillance"| SUDEP
+
+    VIEIL["Vieillissement<br/>aidant"] --> CAPPHY["Capacité physique<br/>réduite"]
+    CAPPHY --> D
+
+    subgraph "Interventions"
+    INT1["Traiter la<br/>douleur enfant"]
+    INT2["Monitoring<br/>nocturne"]
+    INT3["Répit : AJPA<br/>baluchonnage"]
+    end
+
+    INT1 -.-> |"Casse la boucle"| AGRES
+    INT2 -.-> |"Réduit anxiété"| ANX
+    INT2 -.-> |"Détecte crises"| A
+    INT3 -.-> |"Rompt le cycle"| D
+
     style D fill:#f66,stroke:#333,stroke-width:2px
+    style SUDEP fill:#f66,stroke:#333,stroke-width:2px
+    style INT1 fill:#6b6,stroke:#333,color:#fff
+    style INT2 fill:#6b6,stroke:#333,color:#fff
+    style INT3 fill:#6b6,stroke:#333,color:#fff
 ```
+
+Ce diagramme révèle que l'épuisement de l'aidant n'est pas un simple cercle fermé, mais un système alimenté par de multiples sources : la douleur non détectée de l'enfant génère des comportements agressifs qui augmentent le stress, le sommeil fragmenté de l'enfant détériore celui de l'aidant, et l'anxiété liée au risque de SUDEP crée une tension permanente. La boucle la plus perverse est celle où l'épuisement de l'aidant réduit la surveillance, ce qui augmente précisément le risque de SUDEP. Les points d'intervention en vert montrent où agir pour briser ces spirales : traiter la douleur, installer un monitoring nocturne, et recourir au répit.
 
 ---
 

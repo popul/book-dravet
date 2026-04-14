@@ -68,23 +68,44 @@ La SUDEP est la **première cause de mortalité prématurée** dans le syndrome 
 
 ```mermaid
 graph TD
-    A["Crise CTCG"] --> B["Dysfonction<br/>cardiaque"]
-    A --> C["Dépression<br/>respiratoire"]
-    A --> D["Dysfonction<br/>autonome"]
-    B --> E["Arythmie<br/>Asystolie"]
-    C --> F["Apnée<br/>post-critique"]
-    D --> G["Bradycardie<br/>réflexe"]
-    E & F & G --> H["Risque SUDEP"]
+    subgraph Mecanismes
+        A["Crise CTCG"] --> B["Dysfonction<br/>cardiaque"]
+        A --> C["Depression<br/>respiratoire"]
+        B --> E["Arythmie<br/>Asystolie"]
+        C --> F["Apnee<br/>post-critique"]
+        E & F --> H["Risque SUDEP"]
+    end
 
-    H -.->|Prévention| I["Monitoring<br/>nocturne"]
-    H -.->|Prévention| J["Contrôle CTCG<br/>Traitement optimal"]
-    H -.->|Prévention| K["PLS systématique<br/>Carte d'urgence"]
+    subgraph Facteurs modifiables
+        P["Douleur<br/>chronique"] -->|augmente| A
+        Q["Sommeil<br/>fragmente"] -->|augmente| A
+        R["Constipation"] -->|altere<br/>absorption| S["Traitement<br/>sous-optimal"]
+        S -->|crises mal<br/>controlees| A
+        T["Absence<br/>monitoring"] -->|crises non<br/>detectees| H
+    end
+
+    subgraph Interventions
+        H -.->|H3| I["Traitement<br/>douleur"]
+        H -.->|H4| J["Monitoring<br/>NightWatch"]
+        H -.->|prevention| K["PLS<br/>systematique"]
+        H -.->|H1 H2| L["Optimisation<br/>traitement"]
+        I -.-> P
+        J -.-> T
+        L -.-> S
+    end
 
     style H fill:#f00,stroke:#333,stroke-width:3px,color:#fff
     style I fill:#9f9,stroke:#333
     style J fill:#9f9,stroke:#333
     style K fill:#9f9,stroke:#333
+    style L fill:#9f9,stroke:#333
+    style P fill:#fcc,stroke:#c33
+    style Q fill:#fcc,stroke:#c33
+    style R fill:#fcc,stroke:#c33
+    style T fill:#fcc,stroke:#c33
 ```
+
+Ce diagramme montre que la SUDEP n'est pas une fatalite isolee mais le resultat d'une chaine de facteurs, dont plusieurs sont modifiables. La douleur chronique, le sommeil fragmente, la constipation et l'absence de monitoring sont autant de maillons sur lesquels il est possible d'agir. En cassant ces chaines -- par le traitement de la douleur (H3), le monitoring nocturne (H4), l'optimisation du traitement (H1, H2) et la PLS systematique -- on reduit concretement le risque.
 
 #### 📊 Arbre décisionnel d'urgence (Mermaid)
 

@@ -60,3 +60,39 @@ Verifiez que les contre-indications medicamenteuses Dravet (lamotrigine, carbama
 | **H8** Preparer l'apres | Essentiel | Moyen | Semaines | RDV chez le notaire |
 
 Chaque hypothese est independante. Commencez par celle qui correspond le plus a votre situation actuelle.
+
+## Comment les hypotheses se connectent
+
+Les 8 hypotheses ne sont pas independantes. Elles forment un systeme ou certaines sont des fondations (sans elles, les autres sont fragiles) et d'autres sont des leviers (leur effet se propage dans tout le systeme).
+
+**Fondations (a securiser en premier) :**
+- **H7** (droits) permet d'acceder a toutes les autres hypotheses. Sans connaissance de vos droits, vous ne pouvez pas exiger un traitement, un equipement ou une revision de projet.
+- **H4** (monitoring) protege la vie. C'est la condition de securite minimale.
+- **H8** (succession) garantit la continuite. Si les parents ne peuvent plus, tout le systeme s'effondre sans relais.
+
+**Leviers a fort effet cascade :**
+- **H3** (douleur) est le levier le plus puissant : traiter la douleur reduit les crises, ameliore le sommeil, diminue les comportements difficiles, et reduit l'epuisement de l'aidant.
+- **H1** (fenfluramine) et **H2** (audit pharma) agissent directement sur les crises. Mais leur efficacite depend des donnees de crises que **H4** (monitoring) fournit.
+
+**Complementaires :**
+- **H5** (regime Atkins) et **H6** (essais cliniques) sont des options additionnelles qui se combinent avec les autres.
+
+```mermaid
+graph TD
+    H7["H7 Droits"] --> H1["H1 Fenfluramine"]
+    H7 --> H4["H4 Monitoring"]
+    H7 --> H3["H3 Douleur"]
+    H4 --> H1
+    H4 -->|donnees crises| H2["H2 Audit pharma"]
+    H3 -->|reduit crises| H1
+    H3 -->|reduit<br/>epuisement| H8["H8 Succession"]
+    H8 --> H4
+    H1 --> H5["H5 Regime Atkins"]
+    H1 --> H6["H6 Essais"]
+    H2 --> H5
+
+    style H7 fill:#dcfce7,stroke:#16a34a
+    style H4 fill:#dcfce7,stroke:#16a34a
+    style H8 fill:#dcfce7,stroke:#16a34a
+    style H3 fill:#fef3c7,stroke:#d97706
+```
